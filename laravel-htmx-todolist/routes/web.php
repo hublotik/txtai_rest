@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\TodoController;
+use App\Http\Controllers\SearchController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Http\Request;
 use GuzzleHttp\Client;
@@ -16,10 +17,11 @@ use GuzzleHttp\Client;
 |
 */
 
-Route::get('/', function () {
-
-    return view('layouts.master');
-});
+// Route::get('/', function () {
+//     [SearchController::class, 'search'];
+//     return view('layouts.master');
+// });
+Route::get('/', [SearchController::class, 'search'])->name('srch');
 
 Route::get('/Api-Post-Data', function () {
     $client = new Client();
@@ -39,10 +41,9 @@ Route::get('/Api-Get-Data', function () {
     $client = new Client();
     $data = $client->get("http://127.0.0.1:5000/Getdata");
     $data_body = $data->getBody();
-    
-    $api = $data_body;
-    return $api;
-    
+    $api = $data_body->getContents();
+    $array = json_decode($api);
+    return $array;
 });
 
 

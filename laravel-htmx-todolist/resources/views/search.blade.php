@@ -3,7 +3,7 @@
 @extends('layouts.master')
 
 @section('output')
-   
+   @dd($srch_res)
         <tr>
             <th style="background-image: linear-gradient( 111.4deg, rgb(112 254 236) 18.8%, rgba(4,161,255,1) 100.2% ); border-width: 3px; border-color:honeydew"
                 scope="col"> </th>

@@ -35,7 +35,7 @@
             </div>
         </form>
     </div>
-
+    @dd($srch_res)
     <div class="container font-italic">
         <p>Output</p>
         <table class="table table-bordered border-rounded">
