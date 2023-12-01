@@ -1,0 +1,495 @@
+uuid,Name,"Max Voltage, dBV","Max Current, dB(mA)","Impedance , ohm"
+13bb8128-b3f6-4a76-add0-3a7a32fdba0a,Astell&Kern A&norma SR15 Balanced Out,11.79,20.7,1.51
+4e92076d-1235-4096-a898-6c4793bcb29b,Astell&Kern A&norma SR15 Single-ended Out,5.77,22.63,0.78
+d83c9fa0-10ba-4296-98e1-f40385823f4a,Astell&Kern AK240 Balanced Out,7.34,9.82,6.41
+222a1eb1-cf43-4427-a62d-4fecf1797a67,Astell&Kern AK240 Single-ended Out,6.48,17.65,3.42
+f5bd60f5-7132-4648-9d8b-8a70db5bdb1c,Astell&Kern AK300 Balanced Out,5.73,11.88,6.19
+28a36993-9338-4619-a972-8bd8609475f9,Astell&Kern AK300 Single-ended Out,5.75,17.43,1.86
+4f665399-8c80-4713-998b-f6024d3434ba,Astell&Kern AK320 Balanced Out,6.76,8.81,6.37
+3c07fc05-425a-453d-961f-744b508f335e,Astell&Kern AK320 Single-ended Out,6.73,17.86,2.02
+525db19e-ada9-47cd-8194-0a31003cc5b0,Astell&Kern AK380 AMP Hi Gain Balanced Out,15.74,21.38,1.51
+92248f95-f90f-471c-99ff-2b973d57ad0d,Astell&Kern AK380 AMP Hi Gain Single-ended Out,9.76,22.68,0.65
+3de07ffe-4cb7-44cb-95a6-706c4ef79475,Astell&Kern AK380 AMP Norm Gain Balanced Out,5.35,19.2,2.11
+063bcd7b-ecf8-4cc8-8df1-9acfc4f08d8f,Astell&Kern AK380 AMP Norm Gain Single-ended Out,5.3,22.31,0.65
+f89569e7-ed17-4f5d-bb69-ff979accfec9,Astell&Kern AK70 Balanced Out,6.91,16.42,9.86
+210a5de9-0d13-4d78-99d9-cb52f308aabc,Astell&Kern AK70 Single-ended Out,6.88,19.19,3.4
+f4b426fa-066c-46ba-8d89-fa9da20b98dd,Astell&Kern KANN Balanced Out,14.89,23.47,1.67
+32691c99-11e1-48b1-bf70-43885847e67c,Astell&Kern Kann Cube Hi Gain Balanced Out,15.16,18.99,2.31
+9d4fa4db-8586-4aa5-b7d9-70de62652a2d,Astell&Kern Kann Cube Hi Gain Single-ended Out,11.61,25.62,1.04
+61d33252-760b-4155-a331-8b606f4e3ad8,Astell&Kern Kann Cube Low Gain Balanced Out,11.72,19.8,2.36
+975f1018-ee4b-4235-9074-d0af00dba58f,Astell&Kern Kann Cube Low Gain Single-ended Out,6.1,20.1,1.05
+ee9d4c04-4c02-489b-90b5-48ba1ab44dfd,Astell&Kern Kann Cube Mid Gain Balanced Out,17.66,19.72,2.31
+ef14833c-a6d4-4b0c-9e29-97c9a3a3e490,Astell&Kern Kann Cube Mid Gain Single-ended Out,11.08,21.58,1.04
+bfe4ed4f-0c61-46e5-85af-435cfb2d1169,Astell&Kern KANN Single-ended Out,8.91,22.22,0.61
+ae47eb1f-c8d5-4118-a496-79d4c94d0597,Audinst HUD-DX1 Hi Gain (Default Power),14.3,39.25,1.99
+10f0d905-e300-4152-89bb-444473c1bea6,Audinst HUD-DX1 Hi Gain (Robitron Power 12V 0.8A),14.3,31.84,1.99
+a2239cde-16a1-4511-9b6a-522abd154993,Audinst HUD-DX1 Hi Gain (USB Power),2.58,31.25,2.01
+323ae7a5-1290-44ce-a725-5997614eaec4,Audinst HUD-DX1 Low Gain (Default Power),14.3,37.89,1.99
+b2ddd3b4-9d75-45d7-8eee-194068ffee97,Audinst HUD-DX1 Low Gain (Robitron Power 12V 0.8A),14.31,32.04,1.99
+e2b8f932-8e58-46c8-b7e9-1f3c77530efe,Audinst HUD-DX1 Low Gain (USB Power),2.33,29.66,1.99
+784a2964-5d07-4a96-96c7-e246efbc8f9e,Audiolab M-DAC,9.91,23.05,0.4
+166edb0d-b356-42d6-b51a-39ac7039d24a,Audiotrak Dr.Dac 2 OPA 627,17.64,30.1,0.06
+640fe92d-4fe7-4b5e-b160-3b6a09435c6d,Audiotrak Prodigy 7.1 AMP Off,3.05,12.27,51.01
+3f384290-85ef-4447-a560-915b4c7becf3,Audiotrak Prodigy 7.1 AMP On,16.45,20.64,33.27
+bf61ce65-e512-48f8-8ecf-53b5b89411d3,Audirect Beam 2 Balanced Out,3.63,23.67,2.52
+07af1351-8311-4b68-b291-5a16cf4315d8,Audirect Beam 2 Single-ended Out,-2.06,17.52,1.15
+8bedc933-f03b-48a8-a244-d7a9bc60500d,Audirect Beam 3 plus Balanced Out,12.05,16.56,1.93
+65628edd-7dfd-407c-8654-1b3dfb89ae6c,Audirect Beam 3 plus Single-ended Out,6.02,27.25,1.12
+405fdbaa-d297-42fe-8143-90bf3fd35aa8,AuGlamour GR-1,7.93,24.13,2.42
+9b789bf7-0bc6-49a3-aca5-8d764a61ab2b,Aune B1s Class A+ Hi Gain,12.2,27.0,1.11
+32e35f7d-00f8-4b82-bc83-38b60498fd58,Aune B1s Class A+ Low Gain,5.35,27.28,1.1
+8bfbbdd4-6b94-403e-ab1d-fc5a9ef32abf,Aune B1s Class A- Hi Gain,12.39,21.25,1.1
+91f780c0-8ced-4c28-a8d4-6d864ff26959,Aune T1 Low,4.63,30.54,10.26
+93431430-5b90-4cc6-a2fe-ce52b451c80d,Aune T1 Max,17.08,32.34,10.25
+2d51c84e-5120-420c-9186-b4ec399e26a8,Aune X1s,18.06,25.71,10.35
+0ea1e04c-0ec8-40e3-ab7c-f7da40c014e1,Aureal Vortex AU8830A2 BA88DL30A-01,2.87,10.46,4.52
+a4354528-db87-4da1-9bed-919f0f1c840b,Behringer MicroAmp Ha400,7.44,11.63,50.12
+54efe4d2-a40e-4f3a-968c-4ab29172a050,Behringer UB 502,18.42,18.71,21.84
+d112c983-4197-4fb9-81cf-54c9290a315b,Benjie K9,-5.56,17.85,0.65
+0cca2553-3696-4964-9c61-6d4055204ff6,Benjie S5,-5.93,14.7,1.25
+4dce19dc-b510-4e3c-a6ad-a5b5e03da661,Benjie X1,-5.96,14.12,4.96
+490e0a01-9681-4373-bf31-c333c0996fb1,Beyerdynamic IMPACTO essential,-7.68,12.08,0.66
+31093bdd-615e-4aea-a488-d95ed2af192d,Breeze Audio USB DAC-PD01,4.38,0.47,231.94
+bf7c677f-e941-4d2b-9a7d-6156d4bed584,Burson Audio Conductor 3? Performance Balanced Out,12.65,37.1,0.74
+7aeabc32-c76f-4abf-bbf3-aa648b7c26b6,Burson Audio Conductor 3? Performance Single-ended Out,9.73,36.6,0.18
+2f8f0215-c416-4e6f-be40-d7837992ba72,Burson Audio Conductor 3X Reference Hi Level Balanced Out,6.71,37.85,0.98
+c56e7a9c-fa40-417f-9da1-9f68ee8cbdda,Burson Audio Conductor 3X Reference Hi Level Single-ended Out,0.42,36.12,0.52
+228a6a49-799e-4ca9-9334-e2e8fe1037dd,Cary Audio HH-1,12.89,33.3,10.55
+58b30029-59f7-4798-bc0d-6feafd4308f6,Cayin HA-1AMK2 for 150-300 ohm,9.13,31.26,125.12
+07c61f34-f514-4e6f-80af-252c45cba8ae,Cayin HA-1AMK2 for 30-60 ohm,11.55,34.71,57.5
+95273ae2-a2bb-4690-9435-6557891c1dd1,Cayin HA-1AMK2 for 60-150 ohm,13.83,32.87,98.2
+64cafc99-af69-4a02-a6af-1771b16bab6b,Cayin HA-1AMK2 for 600 ohm,11.49,28.35,201.32
+b7aa5a8f-c980-4ee8-96be-1742b39b6edc,Cayin HA-1AMK2 for 8-32 ohm,6.84,33.07,23.66
+d53d358b-bfa6-40b7-97c8-d0b8fb68d5aa,Cayin i5,1.56,15.82,0.91
+87117c5f-0a2a-452e-84a4-996aa6593355,Cayin N3,6.46,6.1,0.58
+14f8d428-fe3d-4499-a256-c466b7875d2a,Cayin N3 Pro Balanced Out,15.16,36.96,1.45
+e3023d7a-f301-4ec4-8ae8-27a0d429c677,Cayin N3 Pro Transistor Mode Single-ended Out,7.09,25.17,0.83
+c5c7d421-d30e-4f7d-802b-88b686bd7974,Cayin N3 Pro Triode Tube Mode Single-ended Out,-19.83,15.6,0.82
+6f17ab41-c89d-444f-975b-52dfe9f83e49,Cayin N3 Pro Ultralinear Tube Mode Single-ended Out,-19.1,16.51,0.82
+5e54a7d8-509f-4b70-9446-b9d0967e6f92,Cayin N5 Balanced Out,2.81,23.41,0.23
+e9d9900d-9e4d-4a3e-8f24-80811422d822,Cayin N5 MK2 Balanced Out,0.89,36.57,0.39
+69c4004b-3a2c-4171-8b88-6600c4d997fa,Cayin N5 MK2 Single-ended Out,-1.22,33.92,0.63
+ecefc729-e604-425d-a50b-fb1952bf1ced,Cayin N5 Single-ended Out,-4.21,24.44,0.18
+3dd1e45e-796c-4cbe-b4ca-3a25360d7800,Cayin N6,2.04,25.89,0.16
+428ed018-3bed-4af5-9a82-2867bf375c83,Cayin N6 MK2 (E02) Hi Gain,12.02,37.88,1.95
+80aa6d53-5dc7-4856-bce1-e67e5f321fe9,CEntrance DACPort HD,2.8,18.8,1.36
+7ecac7f3-0081-4d85-8aec-9de22b626230,CEntrance HiFi-M8 V2 2.5 Balanced Out,-2.81,10.02,0.11
+5b2aee24-559a-4510-8dd8-09af09cd6b0b,CEntrance HiFi-M8 V2 3.5 Single-ended Out,-2.82,17.11,0.11
+2675d998-9761-4a3f-b0ce-67e67b34a532,CEntrance HiFi-M8 V2 6.3 Single-ended Out,0.6,17.74,1.12
+f7afa433-fb05-44e0-920a-f5bca79cc44e,CEntrance HiFi-M8 V2 XLR Balanced Out,0.61,17.15,2.15
+89ef4b3e-f2bc-45ac-9c2d-631b3107f956,CEntrance Mini-M8,-12.54,8.51,0.28
+7eab3b25-d7b3-4f52-8450-f5f54d4ac580,Chord Hugo,13.06,25.47,0.17
+665bc665-99db-4579-b9f4-1911c2a18c0d,Chord Hugo TT,11.15,38.94,0.2
+6e53c715-4d5f-4e24-a4cd-9511524be17b,Chord Mojo,12.33,17.91,0.21
+30b1117c-76de-4ed4-bc3c-a55ce56d1a56,Colorful Colorfly C4 Pro Jack 3.5,-4.42,30.89,10.14
+6e3ef251-1bf1-4e5a-b5e3-42c3f94d2816,Colorful Colorfly C4 Pro Jack 6.3,0.95,36.77,1.2
+bc4f56b4-382f-40fb-9430-faaeba350864,Colorful Colorfly CK4,-5.66,6.7,1.3
+cdb8fa45-4860-4e20-83ac-3160e4e8526a,Cowon D2,-3.13,-12.88,2.27
+a6e449df-cc6a-4c6e-b097-52e8502a3abc,Cowon D2+,-3.11,-17.67,1.83
+ddf8e985-1e8d-457f-8b99-59ebce07372f,Cowon Plenue M2,5.97,13.95,1.16
+ffae4ee1-166e-43c0-9c63-0e06199dd9ce,Creative Audigy 5/RX,5.81,13.61,19.42
+317fb2cb-f5f4-44de-a1f7-1e3a0a2ec43d,Creative Audigy Fx,-2.4,7.54,17.97
+eccaf7c0-e91a-480c-a03a-eea2b43eaa4a,Creative Sound Blaster E5,9.75,34.65,2.4
+5b2f5256-c7be-4a92-8e78-268cdf7759b1,Creative Sound Blaster Live! 5.1 (SB0600),6.28,26.37,31.7
+70a8bb97-4916-49e9-89b3-fc40f27ca912,Creative Sound Blaster Omni Surround 5.1 Wasapi SSRC 96 kHz,6.25,16.03,17.98
+3b64d1b0-37c2-4465-a213-eadb663e9751,Creative Sound Blaster X7 LE Hi Gain,14.66,40.2,0.78
+ef2fac7c-d425-491c-8413-d174e28fa24c,Creative Sound BlasterX AE-5 HP Out,14.46,37.81,1.11
+18cd1c89-3bef-4cde-8235-099eb532b1ff,Creative Sound BlasterX AE-5 Line Out,6.36,26.41,1.94
+63a7c21c-604e-4664-b6ef-7c183560510b,Creative Sound BlasterX AE-9 High Mode,15.01,30.52,1.15
+eb570ecc-01c5-437e-bf68-6cc8734a156f,Creative Sound BlasterX AE-9 Iem Mode,4.01,31.4,1.16
+ad766f7b-0e58-4596-a8bf-0e69e3085070,Creative Sound BlasterX AE-9 Normal Mode,10.03,30.79,1.16
+5fe467e5-3024-460a-89c3-38c5fc4e7c6d,Creative SoundBlaster Zx,6.23,13.74,18.07
+a5529f03-dde8-488e-8cbe-f0f7b086c322,Creative SoundBlasterX G6 External power,8.17,12.12,1.15
+a8e20033-4337-4f50-91f3-a26cb6199a61,Creative SoundBlasterX G6 Hi Gain,10.03,10.5,1.15
+e10ce0be-23da-4382-a937-9c9339ee541b,Creative SoundBlasterX G6 Line out,5.84,27.62,48.53
+c9d17c6c-cb8f-4a86-8d60-383bb00823ca,Creative SoundBlasterX G6 Low Gain,1.88,5.82,1.14
+e018a35c-a1a2-43eb-9f4d-bdf54204b840,Creative SXFI AMP Asus M1,7.3,30.36,0.16
+578362d2-c7b9-4053-8559-ed5515490709,Creative SXFI AMP PC,7.3,32.87,0.16
+37aac638-0f31-4276-b12b-8ccb976ba1ca,Creative X-Fi Elite Pro Console (HP Out),-2.58,17.6,32.41
+e6040524-7b33-46b1-bc6c-a9f0253e2593,Creative X-Fi Elite Pro Front,6.41,17.74,34.07
+5ccdbe2f-a812-4624-8e33-6cbf1f938f62,Creative X-Fi Xtreme Gamer Fatal1ty Professional Series Creation Mode 44 kHz,1.54,17.99,35.2
+8cad6513-fef0-4dfe-8fc3-a2055474f872,DAART Aquila II Balanced Out,23.14,47.82,2.16
+8fbf44ea-a852-48db-b237-3c5e6bb2c656,DAART Aquila II Single-ended Out,17.49,45.04,1.13
+9559ce3e-c729-4b9c-9bcd-dfa532809ee1,DAART Canary II,16.85,40.54,2.31
+e69f392c-d4d7-4782-b2f5-a0531ff188f3,Dared EF-99 Hi Gain,11.97,22.73,11.71
+41eb54ea-5181-4501-a835-6d6b30b0d583,Dared EF-99 Low Gain,3.23,34.66,2.82
+f64d1a61-89f3-4e49-9fc0-2d88d3e8787f,Dared EF-99 Mid Gain,9.81,26.49,6.39
+62ff685d-bab0-4582-a611-796b7258b74f,Dared HPA-55L Balanced Out,6.93,20.38,10.71
+843cb8c7-ea9d-4a30-9113-187b0652fe81,Dared HPA-55L Single-ended Out,-5.44,19.07,5.51
+4e245547-550e-4582-8251-1705b1f06757,Denon DA-10 Hi Gain,3.73,10.39,10.96
+66e6afca-c620-4b38-bfb7-3791fbbcecca,Digma S4,-5.02,0.43,0.75
+ab62d177-ce71-4022-878d-d86737d00ad3,DIY 6N2-FU32 Out 1,1.17,30.61,3.7
+b2a638ea-46bf-4721-af88-b21d0e912c3c,DIY 6N2-FU32 Out 2,-3.38,30.33,3.5
+da3d7e7d-ede6-44bf-bfda-da92e795fcd1,DIY Beta 22,12.63,47.84,0.18
+7ee74792-e29d-45ea-8270-fd2eac33f603,DIY HeadAMP lakkarius,17.39,50.21,2.21
+078843ff-69e6-429a-a8ca-1fbd8f309f42,DIY Monster Zen,13.76,47.79,1.9
+51e3d127-c8ba-4c4c-92c3-ddf2062efe56,E-MU 1616m,10.79,19.51,22.06
+ff3079a8-e80a-4f22-9208-e64f4dd9260f,E1DA 9038SG3,10.17,42.6,0.19
+9378e289-b9ad-422a-bea9-5c6430e38d9a,Ensoniq ES1370,9.11,29.79,0.83
+f5365728-fc76-4e2d-aaee-ba2419f3612c,Erzetich Bacillus Tilia,17.09,23.59,57.41
+14cfa8fc-c80c-4a6b-81c9-3345bfafdb02,Erzetich Perfidus,15.86,37.2,71.76
+8723ca0e-b22b-464c-bac5-e0358dca6b2b,EVGA Nu Audio,13.5,38.57,0.29
+7b4d967f-c05b-48fe-a853-86477201ad6f,EXEQ P-1001,-17.93,-2.89,57.76
+fe3f3e43-c21b-4789-bf7a-4fa3c0b315d7,EXEQ P-1021,-17.34,-1.32,65.11
+f0353f44-2b8a-47ef-9e90-8031946ed9a9,FiiO A1,-13.58,-5.08,0.09
+aa200c2a-b36a-405e-bcea-8b71c1353dbb,FiiO Alpen E17,2.47,31.78,0.1
+f8973727-55a6-4ca9-86f0-0a363d9aa5ba,FiiO E10K Olympus 2 Hi Gain Bass Off,-22.47,9.3,1.06
+928f0bb4-0e1a-4e54-990f-cd6ec446573d,FiiO E10K Olympus 2 Low Gain Bass Off,-29.29,6.17,1.04
+bbbe0c90-9eb5-4039-a617-7a2c0f0ef8c3,FiiO Fujiyama E06,-9.96,9.18,0.1
+e00ae40a-001c-4aa4-a416-e53992ffda4e,FiiO K5 Hi Gain,16.21,15.63,0.1
+902927f2-6273-4199-8a9c-11b7145b7e92,FiiO K5 Low Gain,5.11,35.77,0.08
+e306a46d-d9fd-460e-b409-e579eef7de99,FiiO K5 Mid Gain,12.4,33.74,0.04
+26fb05c7-6ece-430a-9736-9188e0478e78,FiiO K5 Pro Hi Gain,4.01,35.51,1.04
+d299632b-5d14-4cd3-a3e9-94929b78650c,FiiO K5 Pro Low Gain,-3.11,32.4,1.01
+602a47e6-9bb1-402f-88e4-87f15b64f77e,FiiO K5 Pro Mid Gain,0.29,35.81,1.01
+7080976d-cf43-4e08-8beb-6ce31222b8e9,FiiO M15 Balanced Out,3.6,37.87,2.11
+ba2db28b-1074-424b-aa3e-a27a5d3b9654,FiiO M15 Single-ended Out,-1.92,32.49,1.07
+d6ef0427-596a-431c-8af1-c0a0ffeacfe1,FiiO uBTR,-15.93,-18.16,0.24
+7f6f8446-04ad-40ed-93c0-ed7405710160,FiiO X1,3.37,6.71,1.82
+6bad2b6f-bf0b-45c1-9e92-a8f930e72f61,FiiO X1 MK2,3.52,10.31,1.04
+f2251abe-dab9-4191-a34e-6696118352c1,FiiO X3 II Hi Gain,3.99,18.28,0.14
+0d68fa05-fc8a-413d-8145-e31f33d3b05d,FiiO X3 II Low Gain,0.41,18.85,0.25
+4dde89dc-d035-44ad-93bc-1219671707b1,FiiO X3 III Hi Gain Balanced Out,-3.38,28.8,1.0
+0fdbb003-c4e3-408d-8d96-656f85789ef9,FiiO X3 III Hi Gain Single-ended Out,6.6,37.04,1.0
+4fe65ea8-09f2-4eed-a043-37aeb87ddf9c,FiiO X3 III Low Gain Balanced Out,-1.39,33.95,1.0
+5500d93f-fdd2-484b-8734-0032bf1fcbc1,FiiO X3 III Low Gain Single-ended Out,1.51,36.73,1.0
+e80f38af-c17b-4018-b86b-5746b1021977,FiiO X5,9.18,33.0,0.22
+21a794ec-7ef1-4b0f-bcb9-c59519f37344,FiiO X5 II Hi Gain,6.68,9.11,0.24
+f66077f3-d25a-4f72-8dcb-f4b3a7cd5e63,FiiO X5 II Low Gain,0.2,7.73,0.1
+f297c58f-40d4-4fcf-9b32-c07936219bc3,FiiO X5-III Balanced Out,8.76,37.46,2.04
+c926575a-a6cb-4125-9816-2ab859b2e9ac,FiiO X5-III Single-ended Out,3.81,38.25,1.01
+082a38e4-7764-4e4e-9191-dd16e2a50fe4,FiiO X5-III Turbo Mode Balanced Out,14.07,36.27,2.2
+6147e14f-9c99-4858-a8a6-45761396a55c,FiiO X7 AM1,5.1,37.71,0.14
+69363ba2-2a28-48d4-a16a-9c3312b65d9d,FiiO X7 AM2,9.72,27.45,0.09
+8d30c8a5-4cbb-4b08-a279-a41920c7cd42,FiiO X7 AM2 OLD FW,4.74,18.86,0.1
+76e54766-fd9c-4a1f-8859-bbd3fe6a7035,FiiO X7 II Balanced Out,13.0,30.72,1.94
+47cb36c6-62c5-4deb-a821-c86c282d9b8a,FiiO X7 II Single-ended Out,6.98,40.05,1.28
+ae093bd5-eada-4df7-9822-40212fc571e5,Flang V5 Hi Gain,3.24,7.84,0.34
+51183a08-1b9c-4457-8899-4816e3711dc8,Flang V5 Low Gain,-0.57,6.18,0.35
+512727cf-d267-4bb8-b6fc-e47ec0396c91,Fly FS504 Cirrus 2 PowerAmp (A5 v703),-12.89,0.93,134.35
+70457ee2-ac1b-4884-8e32-1d602ca293c0,Gigabyte GA-A75-UD4H Realtek ALC889A,-5.61,7.48,298.55
+269596df-c9f2-46bb-9ed9-40cb75903180,GoVibe Porta Tube+ C4 Op-Amp Mod,3.89,36.97,0.03
+d06c0e66-4a48-4685-b2f5-2813bc35ce45,Grado RA-1,16.06,14.8,0.5
+7e27360b-bcd7-49e3-b9f0-87af8cd273b2,Hiby FC3,6.24,13.44,0.09
+c463808b-a113-48a1-9736-de83198cdfd9,Hiby FC5 Balanced Out,7.27,16.56,0.19
+838d7e88-6041-4770-872b-1178b36c92c6,Hiby FC5 Single-ended Out,1.22,17.57,0.15
+52b6875f-c8ad-4879-8383-d32d84183e91,Hiby FD3 Balanced Out,9.35,22.08,0.52
+b139ca75-11ac-4abb-8f9e-439f393a1ba1,Hiby FD3 Single-ended Out,5.31,27.43,0.27
+8629a6c3-7b86-47ad-9306-2158da1853ba,Hiby New R6 Balanced Out,14.82,26.42,0.25
+3d2aed2f-f64b-4e9e-90af-b39446290f4b,Hiby New R6 Single-ended Out,7.75,20.9,0.92
+889534f8-532d-4ccf-a69e-dab3018b5782,Hiby R3 Pro Saber Balanced Out,11.6,11.2,1.97
+13a1c4c8-8fec-41e3-84be-2080b90a624e,Hiby R3 Pro Saber Single-ended Out,5.4,4.57,1.9
+86ae8dcc-de0d-4e7e-b500-bc49d1e9d7f3,Hiby R5 II Class A Mode Off Balanced Out,12.07,6.21,1.08
+e544fa1d-05fb-469c-ad40-221631a9c1ff,Hiby R5 II Class A Mode Off Single-ended Out,6.09,6.7,0.64
+26f1353d-8415-4d0d-9473-9a9e46d6dd72,Hiby R5 II Class A Mode On Balanced Out,11.96,36.54,0.65
+e550ded5-a3f5-483e-b84a-7f4a18193f06,Hiby R5 II Class A Mode On Single-ended Out,6.91,38.19,0.42
+c69e20d1-9bed-4186-bc97-b3d67e04502d,Hiby RS2 Balanced Out,10.39,37.43,0.66
+d7bd4687-07b2-4bb6-ac97-a9c703c822b3,Hiby RS2 Single-ended Out,4.36,36.68,0.62
+7df55d73-6c9c-4f06-8ef4-46a8ece5f9e0,Hiby RS6 Balanced Out,13.61,43.65,0.73
+eb6b52bb-b479-420c-82e8-45185e52eea5,Hiby RS6 Single-ended Out,7.62,43.23,0.59
+2085f443-378a-4879-ac88-a4f08964b01e,Hiby RS8 Class A Balanced Out,11.18,42.77,0.7
+c9b7cc3d-d9e7-4299-be0f-4c78f6afab98,Hiby RS8 Class A Single-ended Out,7.16,40.83,0.64
+fdd551a1-dfab-499c-9925-7e93fa3d052b,Hiby RS8 Class A Turbo Balanced Out,13.16,45.84,0.7
+b23785de-f9cd-4865-8e15-97f316232de9,Hiby RS8 Class A Turbo Single-ended Out,9.19,42.82,0.65
+3f23f4e9-7faa-4099-abd2-13987126e607,Hiby RS8 Class AB Balanced Out,11.18,43.34,0.69
+eee3d75b-25fe-43b5-92ca-86a6a0c1d84e,Hiby RS8 Class AB Single-ended Out,7.16,40.83,0.64
+4a4fa16f-c01d-4a9f-827c-e9d8e93c6355,Hiby RS8 Class AB Turbo Balanced Out,13.17,45.84,0.7
+6d8c1f61-de94-4938-a209-580c88616746,Hiby RS8 Class AB Turbo Single-ended Out,9.19,42.82,0.65
+0e4ea138-b3ca-4379-bf34-4b71f60016b5,Hidizs AP100,6.01,21.72,0.34
+a5706e59-2b65-44d1-9e4a-13256d32a83a,Hidizs AP200,3.03,28.04,5.29
+b9d31315-f18d-480c-938e-76ce2cadc981,Hidizs S9 Pro Balanced Out,12.21,15.33,0.53
+a22fd29f-f77e-4a54-80b7-2ace2b811527,Hidizs S9 Pro Single-ended Out,6.17,11.47,0.27
+051764c3-02a8-439e-90d8-533682f53f67,HiFiMan Bluemini,5.93,-1.44,1.17
+1f635fa2-3935-4059-ad3c-320135ccd94f,HiFiMan EF 400 Balanced Out,23.33,47.47,9.75
+546bf050-54ed-4831-857d-eee7984ec5aa,HiFiMan EF 400 Single-ended Out,17.18,43.76,4.9
+edfbafe3-d478-46d1-9220-76effef9ebea,HiFiMan HM 802 Balanced Card Balanced Out,4.46,22.91,11.3
+abce3c07-bcf1-49ae-8d1d-855255c18555,HiFiMan HM 802 Balanced Card Single-ended Out,1.43,25.49,0.26
+14d3f39b-98f3-410b-8648-7d1ef576ea82,HiFiMan HM 802 Gandi,2.93,14.05,0.26
+7b85a6e0-346f-40f9-8b57-7b51c320b80f,HiFiMan HM 802 MiniBox,6.85,21.08,0.33
+3458df20-8222-43c2-ba8f-7c493dff433f,HiFiMan HM-601 MM4,6.24,36.65,1.12
+0fdeb185-17e3-41ba-8d69-af9cc4044874,HiFiMan HM-603 Slim,8.09,2.24,10.75
+0857bec4-956b-49ef-b0d2-d7ad0de67556,HiFiMan HM-700 Balanced Out,2.57,-14.36,1.17
+697c9d0a-f1c1-4071-9f56-5b3535dc0a6c,HiFiMan HM-801 Power Amp Board V2.0,2.08,7.14,18.22
+5e87cfa3-9804-44b2-b3c5-545349f374b3,HiFiMan HM-801 Power Amp OCL-A 819-10571 (10 Ohm),7.04,8.68,10.6
+039d13a2-0054-42ee-ad97-0d04486ebf1b,HiFiMan HM-801 SM SYMMcard 7.2,11.91,46.69,2.39
+43ac4a6f-6d35-4f85-8679-1f5219f84a1f,HiFiMan HM700 Single-ended Out,-2.89,30.95,1.95
+01543a76-a899-4756-8b23-456a0e2850c7,iBasso CF01,-15.68,11.59,19.99
+573d80a6-3abd-4732-a5f8-92396465b5ed,iBasso D-Zero,-0.95,3.13,0.61
+5647b714-ad92-4af8-9534-3fa67ea685d8,iBasso D10 Cobra,-17.76,17.68,1.05
+d0775f62-218d-46f0-b023-89cf47fe6bdf,iBasso D14 Bushmaster,8.22,27.6,0.1
+947c9f4d-4717-4af8-a35a-dd6d23ef648b,iBasso DC01,5.59,7.7,3.09
+ed34978f-4214-46e3-acf6-2382f909db0b,iBasso DC03,6.0,35.42,0.33
+ccbdfe70-b80e-4e81-a7d1-c5ee7383e391,iBasso DC04,11.91,25.85,0.16
+cfa7691d-6778-4841-8d93-b5d427f77352,iBasso DC05,6.03,25.53,2.56
+26ca1586-2f56-437b-a24c-f96987d4f117,iBasso DC06 Balanced Out,12.0,10.26,0.3
+23719414-b1be-46dd-b278-a1becca4b128,iBasso DC06 Single-ended Out,5.95,7.65,0.19
+6e87ee3c-0356-474f-8b05-811e24332d2b,iBasso DX 170 Balanced Out,15.17,36.2,0.59
+01d0cbea-2743-4ef3-8e0a-1b99eddf2225,iBasso DX 170 Single-ended Out,10.14,36.63,0.3
+9ffca609-3101-4cb4-8117-8628e12f0bbb,iBasso DX 320 AMP11 Balanced Out,14.83,16.79,0.49
+e3bfb116-ab2c-49d8-902b-3a9780071e7c,iBasso DX 320 AMP11 Single-ended Out,8.77,16.39,0.38
+59e53356-44dd-41e9-8854-a82f5aa1c988,iBasso DX 320 AMP12,17.94,30.66,2.02
+e3863b31-eaec-4886-812f-bad1bff9ff1c,iBasso DX 320 AMP13 Hi Out,9.47,30.66,2.25
+71ad7f03-b226-470a-a31e-3760819c36f3,iBasso DX 320 AMP13 Low Out,3.21,22.42,6.06
+19804a6f-19b7-4e30-834a-46b2523d9f9e,iBasso DX100,12.89,7.94,0.07
+9c41966a-96dc-4473-bf92-d6c8b5c87a5a,iBasso DX120 Balanced Out,10.97,38.89,1.09
+644c003a-931b-40c3-ae29-0d6c7eec0578,iBasso DX120 Single-ended Out,4.95,35.84,0.44
+e2c57e50-1725-4f3c-b9e9-dbe5b6d0d587,iBasso DX150 AMP6 Balanced Out,12.45,39.74,0.67
+2043e1f6-06a4-4bfc-8e43-a438e52c25cb,iBasso DX150 AMP6 Single-ended Out,7.42,35.98,0.33
+69023c2c-b8fa-4d34-bd1c-173568c02c85,iBasso DX160 Hi Gain Balanced Out,13.14,40.6,1.3
+134a119d-f067-4bfb-b464-726f9cc0d6ad,iBasso DX160 Hi Gain Single-ended Out,8.1,38.42,0.46
+7d52885d-2f8b-41cb-b636-6057c4786b5f,iBasso DX200 AMP1 Balanced Out,-2.48,33.11,0.76
+0c91872e-2aec-4471-a0eb-c06f0eb16882,iBasso DX200 AMP1 Single-ended Out,-2.53,33.27,0.41
+1f731543-d249-4c26-a20d-5dd756da0d82,iBasso DX220 Max Hi Gain Balanced Out,18.58,38.98,2.98
+3d724b67-b820-415c-8145-1c2007552619,iBasso DX220 Max Hi Gain Single-ended Out,12.86,32.47,1.35
+2a614687-1850-4a74-88ec-86c1d432eda6,iBasso DX240 AMP1 Mk3 Balanced Out,15.42,43.32,0.55
+d9707c45-0cc7-4fed-87b2-cf14d1d47e8d,iBasso DX240 AMP1 Mk3 Single-ended Out,9.38,42.24,0.29
+fd739201-dae0-4ee5-a3a8-2dcfc74bcaef,iBasso DX240 AMP8 MK2 Balanced Out,15.33,14.02,0.52
+86ec6044-c5b0-431d-ac2d-be26c0fd79bb,iBasso DX240 AMP8 MK2 Single-ended Out,9.29,15.06,0.3
+c04eee93-23d9-4abd-9d6d-09668f964a1b,iBasso DX80,7.43,24.31,0.19
+43033507-e695-463f-b2a3-e870c62d82fb,IBM ThinkPad X31,-12.08,-15.39,70.02
+4e1dd882-98e3-4ec8-b8fc-2d6fbedb0626,iFi Hipdac Hi Gain Balanced Out,10.68,5.21,0.08
+552daf7c-c08b-4c7d-9c83-6762640285a5,iFi Hipdac Hi Gain Balanced Out,4.66,9.48,0.08
+52283354-363e-49b8-91e4-5e8de333af1e,iFi Hipdac Low Gain Balanced Out,5.52,8.3,0.1
+69ad52a9-e9ad-4439-9b9d-5fa9c65ce222,iFi Hipdac Low Gain Balanced Out,-0.19,6.8,0.1
+78972c4b-5e5e-4f5d-b757-0cf96d6eca21,iFi iDSD Diablo Eco Mode Balanced Out,9.03,32.93,0.31
+d93af4ff-886e-4dc5-99f7-4c4e4cb28751,iFi iDSD Diablo Eco Mode Single-ended Out,3.99,39.84,0.14
+8e769c50-14f1-4f16-a7e3-5f5000c1ce9e,iFi iDSD Diablo Normal Mode Balanced Out,10.94,33.85,0.34
+4d7c1633-91ad-4576-b657-8e9a95183b88,iFi iDSD Diablo Normal Mode Single-ended Out,5.01,39.12,0.14
+fce21702-2495-4225-8b2f-16a79188bee6,iFi iDSD Diablo Turbo Mode Balanced Out,18.53,38.71,0.34
+b60ecda4-b928-4056-af80-430bd8532ddc,iFi iDSD Diablo Turbo Mode Single-ended Out,12.61,46.64,0.14
+ac494d9a-5e0c-493d-9284-ffe41e3e3d4e,iFi Micro iDSD Black Label Eco,6.63,38.35,0.15
+71029a8f-3f53-4ac4-a499-22afcbdad6ee,iFi Micro iDSD Black Label Mid,12.26,32.39,0.14
+d4b62d10-b038-4ecf-9b09-6fdd1dd36695,iFi Micro iDSD Black Label Turbo,19.0,47.05,0.16
+7bbdc5ba-fd7c-41e5-ac4e-78894480fbf0,iFi NEO iDSD Balanced Out,5.95,19.06,0.47
+22021bb7-93ab-4199-a2d2-e808f4428001,iFi NEO iDSD Single-ended Out,7.99,31.85,0.25
+d16da54c-6ec3-4e32-9850-11f5e264cc06,iFi Pro iDSD Solid-State Hi Gain Balanced Out,17.32,32.64,2.69
+573d2a82-48f6-4932-a841-f1c736b6ebf3,iFi Pro iDSD Solid-State Hi Gain Single-ended Out,10.37,36.31,2.51
+d52cd885-a24c-4b37-8ba7-7b7f416eac7a,iFi Pro iDSD Tube Hi Gain Balanced Out,14.55,31.75,2.92
+a8652cca-3310-478f-be04-f775625c0c28,iFi Pro iDSD Tube Hi Gain Single-ended Out,8.84,29.75,2.61
+16f41c41-6417-40a2-b971-210b92695d9a,iFi Pro iDSD Tube+ Hi Gain Balanced Out,18.61,34.39,2.95
+77349b5a-7acb-4e7b-b343-7f88124f64fd,iFi Pro iDSD Tube+ Hi Gain Single-ended Out,11.78,34.57,2.61
+f3dfc5db-5930-4587-8fcc-440ce0ce6d1c,iFi ZEN CAN Signature 6XX (+18 dB) Balanced Out,19.62,34.25,0.55
+d7ff7e46-d529-42f5-b70c-17d75bb72d05,iFi ZEN CAN Signature 6XX (+18 dB) Single-ended Out,1.76,33.34,0.35
+2f97df8e-8cca-4e2c-a8d8-b3335b4d5ba4,iFi ZEN DAC Power Match Off Balanced Out,6.01,5.76,0.18
+dca84200-05a5-43d5-abdd-d9e0b4576c9d,iFi ZEN DAC Power Match Off Single-ended Out,-0.01,11.58,0.19
+c1b9b601-6a17-428a-92d1-e6450169aee4,iFi ZEN DAC Power Match On Balanced Out,4.05,1.96,0.22
+a1e4a2c7-66ec-483d-83fe-f31d6473b315,iFi ZEN DAC Power Match On Single-ended Out,4.15,8.33,0.19
+4946c980-11b1-48c8-aa43-f124b69cdaff,iFi ZEN DAC V2 Power Match Off Balanced Out,1.21,5.85,0.24
+a143526c-dab7-4403-b8c5-52a15cad8dea,iFi ZEN DAC V2 Power Match On Balanced Out,3.99,10.09,0.27
+ab1bf834-89cd-41a8-8a08-3d3fdef9801a,iFi ZEN DAC V2 Power Match On Single-ended Out,3.49,11.16,0.12
+c3bdd7f2-d77b-4c61-b4fb-9415acc5bf1c,iFi ZEN DAC V2 Single Power Match Off,-1.82,10.46,0.12
+b387c5a4-fdca-4167-8b7b-002cae6f49d7,Inakustik Premium Headphone Amp. No. 1 Out 1,4.64,9.92,5.77
+1c2dd328-73e4-44bd-a366-357317074e9f,Inakustik Premium Headphone Amp. No. 1 Out 2,4.32,9.75,6.09
+0d6d3038-d804-4555-97b1-76733549840e,KEF Bluetooth Receiver Motion One,8.59,44.03,1.61
+4d9421d9-de58-42a0-b401-d6182ab689b5,Kennerton Atlas EVGA Nu Audio,6.14,35.62,8.63
+4fba59da-09c1-4c05-a273-1315e580effb,Kennerton Atlas Internal DAC,2.19,30.06,8.81
+d3b35004-d4f7-4a5e-995f-7df067d95749,Kennerton Atlas Robitron,7.1,36.2,8.69
+2fda1bc3-7c67-489b-989e-2ac56b5458cf,Kennerton Ego,2.59,22.09,8.24
+be29fc03-67b1-424e-afd4-6e3387246abf,KGUSS DAC-K3,-2.92,24.68,10.16
+8a51f671-9c7b-4921-83b6-723a67d41744,KZ Bluetooth module,-10.42,-4.22,0.92
+8ed83af6-d98b-4b39-91b1-690bd9dd3326,Laconic Lunch BOX HA-06 PRO Hi Gain,11.52,18.19,55.35
+29096db3-aeb0-4bcf-ac04-39dd6f5d1108,Laconic Lunch BOX HA-06 PRO Low Gain,10.23,20.67,180.97
+b1f60363-be56-4ada-bb1a-ea683f54ceb2,Leaf Audio CMD-22 V1.2.3 Gliese LT1361,16.21,27.48,10.74
+30eb8281-a785-4db7-b293-6656c3beaae8,Lisk Audio UX3-MOD3,11.86,33.13,0.12
+6cccbc1f-3e4a-43e3-8b6f-372f68be57a3,Logan Musical Yuer 2i2,2.83,7.18,4.75
+09a42709-0969-42d9-a56c-6097b46f838e,Lotoo PAW 5000 MKII Balanced Out,7.97,27.06,2.0
+75137f7f-1cc3-484e-b484-c97fe7c0e252,Lotoo PAW 5000 MKII Single-ended Out,7.96,29.13,1.62
+3a423ccc-b206-4502-becf-2457a673e438,Lotoo PAW 6000 Balanced Out,9.8,37.87,1.73
+795ad42e-aace-44f0-9b84-da2eed515783,Lotoo PAW 6000 Single-ended Out,5.29,36.16,0.5
+afae636b-6aa1-46a2-aadb-77d8733a5195,Lotoo Paw Gold,6.97,21.83,1.8
+39a77994-3630-4a9e-93cf-fa1ae4050452,Lotoo PAW Pico,-7.08,3.06,1.4
+d53427f7-61ae-4799-b95c-0a1594c6c98c,Loxjie D20 Current Max Mode,12.02,27.9,1.02
+78a5958a-b606-4028-a1cc-ff1eb01b8bd2,Loxjie D20 Current Mid Mode,12.02,30.07,1.02
+501c8058-42dd-48af-9e72-43f202466575,Loxjie D20 Current Min Mode,12.03,27.67,1.02
+ce61a340-8c0c-4cc6-b2e9-71568f41ec97,Loxjie P20 Balanced Out,19.43,31.47,46.63
+c1941f35-abe6-405b-9291-e4a7c0c089ba,Loxjie P20 Default Power Single-ended Out,13.51,31.08,23.34
+36bce15f-b4d7-4ec8-9fba-696a3f74c66e,Loxjie P20 Linear Power Single-ended Out,13.51,31.8,23.34
+a90e5daf-766f-4def-8b09-caae3f3ee40d,Luxury & Precision L3 DSD Balanced Out,-4.53,23.11,5.0
+79178a23-63ce-4164-a6ac-bcc19366e022,Luxury & Precision L3 DSD Single-ended Out,1.42,21.11,2.36
+f2d0db9e-8af9-4f6f-96f0-ed9eba02e79e,Luxury & Precision L3 Pro DSD Balanced Out,1.55,25.55,4.73
+daaeaf4e-e12c-4be6-aa27-8defb3e9c162,Luxury & Precision L3 Pro DSD Single-ended Out,1.55,36.38,2.32
+8b8ab694-5d86-414d-98ce-ee6d33573bb9,Luxury & Precision L5 Pro,9.12,31.41,3.66
+075defe4-6f2e-40db-98b7-59fcd379e733,Luxury & Precision P6 Pro Balanced Out,11.75,39.0,0.62
+6ea51f23-f3ea-4102-854d-7e12682cd309,Luxury & Precision P6 Pro Single-ended Out,7.7,39.39,0.25
+042216de-3da0-49bf-b209-794b402221cd,Luxury & Precision W2 Balanced Out,10.83,28.05,0.44
+aa728a24-6d9c-4083-b661-23d6812c498b,Luxury & Precision W2 Single-ended Out,4.8,14.89,0.15
+37ebd027-777d-4d39-9da2-1fe5bd7c89af,Luxury & Precision W2-131 Balanced Out,11.89,25.17,0.46
+4cb5b5d3-1a10-4190-a80c-6d020c551db6,Luxury & Precision W2-131 Single-ended Out,5.85,12.41,0.28
+8b791ce3-d652-4663-a1f4-b37d90e8fcce,Lynx Audio HA-61,19.01,44.34,2.16
+0cab4ca4-b114-4ffa-88f0-eea4ad9f8066,M-Audio FireWire Solo,8.31,8.42,73.74
+13530d83-8541-4a5b-bc88-b95b1f6baf51,Mackie Onyx Artist 12,7.9,11.23,3.45
+25a4b21d-9397-4348-8761-6a9ff7dc746d,McIntosh MHA50 Hi Gain,-18.55,16.06,0.56
+ad071d9b-2c02-4c0b-8e26-bce8277c2be2,McIntosh MHA50 Low Gain,-16.41,10.15,0.56
+484660ba-f884-4d9d-a45d-30c261d3d2e8,Meizu 16,0.25,29.73,2.62
+b60e8162-c49c-4ddc-bca1-8d8b59faa9ab,Monster Audio MA-9 Alexmod Edition,6.99,42.87,0.31
+af2901f8-6a8e-4d7d-82aa-b34fffe32a79,Musatoff HA-11 Hi Gain,17.12,28.43,1.14
+46a6b34c-9a98-43da-8acd-bfa8b7d3b1e8,Musatoff HA-11 Low Gain,6.58,29.33,1.13
+553e7e93-4ce1-4663-8f6e-442a8336850b,Musatoff HA-4,14.75,30.83,0.0
+10f1cfbd-6a16-44dd-864c-06109e7cc135,Musatoff HA-5 Hi Gain,16.21,29.27,0.77
+d6d1dd42-62aa-46a6-9ab7-8b024508bc35,Musatoff HA-5 Low Gain,6.58,30.2,0.89
+4efdd546-f78d-465e-9a30-5d12841aa07c,Musatoff HA-5SE,17.32,32.05,1.14
+1fd6be45-efda-4def-99dc-a06649b739a8,Musatoff HA-8 Hi Gain,18.29,32.2,1.05
+e5fb8ec1-861d-48c9-8f40-a8deae689760,Musatoff HA-8 Low Gain,6.58,30.12,1.15
+6ca09b19-32b0-4428-ba83-5693ddc57f1c,Musatoff HA-9 Hi Gain,19.84,42.52,0.21
+55d6da3b-573f-4aad-a12a-12cb63982a26,Musatoff HA-9 Low Gain,7.82,43.74,0.21
+86f38a5c-f797-4bdb-be77-f9f1bda6a3fb,MUSE AUDIO TU-10,-7.86,13.23,5.33
+415a8357-aa2d-446f-aabf-30aa16cff822,Musiland Monitor 03 US,-3.78,27.86,0.41
+39692030-5772-421d-b9a5-9a98efd5ea32,MyST DAC 1866OCU V.2,17.64,51.02,3.17
+3935be11-d350-4d28-909e-bb2d3c32d52d,MyST DAC 2702 UAmp,19.38,19.36,10.5
+a99ac611-65cd-4413-a7ed-8bc23efd22c7,MyST PortaDAC 1866OCUB v.3,8.67,38.24,9.98
+ca462623-bede-4ab1-952d-a0416ecd229c,New Bee NB-1,-59.95,-26.05,3.01
+bc22909b-406d-4061-88ea-0fd21e9b4555,Nexum AQUA,-2.91,6.34,4.78
+4056b95e-f9fd-4861-ae4e-fcc256d49b21,Noname ESS ES9280C PRO,5.92,12.49,1.03
+4932582c-4741-4c25-9022-5708b7939df4,Noname FDBRO,-1.46,9.53,5.88
+d3d0f7d3-3685-4c1f-87e3-1b08c9cdde0f,Noname Soundcard,-0.89,-4.65,0.38
+1f1dd1ef-490b-4f7e-b99b-c12e787b3ed2,Nu Force Icon HD,12.46,39.2,10.14
+1e232c62-0d84-443c-b204-c76388f8ce48,Nu Force uDAC,-9.27,1.43,5.64
+2f9628e7-e945-410a-859b-bf38b5c362d1,Onkyo Granbeat DP-CMX1 Balanced Out,11.9,14.28,7.2
+271894dd-e2c0-43ef-854e-5726c63e8764,Onkyo Granbeat DP-CMX1 Single-ended Out,5.91,14.52,3.52
+f5b713fe-e280-413d-9f1a-5f8a3b2b727f,ONN X6,-2.76,-3.83,3.05
+a1ea7b19-df49-4542-8129-d67012295104,Oriolus DP100 Balanced Out,7.97,29.2,1.81
+7a40f059-6808-4927-a763-1b5f5ef81892,Oriolus DP100 Single-ended Out,7.96,42.86,0.1
+e96c56da-d4de-412a-9700-8d168eec67c2,Oriolus DPS-L2 Balanced Out,10.78,41.43,1.68
+3e6cbc74-bfd9-424d-a260-4c45a34770ac,Oriolus DPS-L2 Single-ended Out,10.77,42.21,0.29
+290837e9-9dfb-447d-a044-28f251d5c490,Pioneer XDP-300R Balanced Out,11.8,18.72,6.96
+ee5e76f5-d4e8-4b90-97b1-7d11f9b2eacf,Pioneer XDP-300R Single-ended Out,5.82,18.66,3.38
+230b3740-9ca7-4425-a10e-b0437027ea59,Pro-Ject Head Box DS2 B 12 High Gain Single-ended Out,18.22,30.47,6.61
+53e96ab2-d88a-4a6a-a805-981969754486,Pro-Ject Head Box DS2 B 12 Low Gain Single-ended Out,18.63,30.63,48.23
+d7710a52-088b-4d52-9125-87c1c511bb0a,Pro-Ject Head Box DS2 B 12 Mid Gain Single-ended Out,18.63,30.63,21.36
+ecbaa6da-60d1-45ea-8920-f32cf45e9127,Pro-Ject Head Box DS2 B 18 High Gain Balanced Out,24.1,40.63,13.17
+7b813eb8-f124-474c-bbcb-280c71acf24b,Pro-Ject Head Box DS2 B 18 Low Gain Balanced Out,24.1,40.63,15.8
+66538582-36ea-4ab0-a2d3-ae3cead3df11,Pro-Ject Head Box DS2 B 18 Mid Gain Balanced Out,24.1,40.63,42.7
+ef902cc7-af02-4512-b832-3174cff1614c,Pro-Ject Head Box S2 Digital,6.01,13.25,0.12
+03b6ea46-2d23-40d2-998d-bf92af6fa0a2,Pro-Ject Pre Box S2 Digital,5.92,14.78,0.11
+f7c62e81-21d3-498f-bf91-82cfa6ce8cba,QLS QA350,2.33,2.86,0.1
+37e6226d-c31a-41d0-a231-31bf0f2ae4c8,QLS QA361 Double voltage Single-ended Out,7.66,24.89,0.19
+93d73570-b7a9-4678-8bae-be62d6706254,QLS QA361 High voltage Balanced Out,15.6,28.03,0.33
+eac75462-2f68-4395-804e-26296b286212,QLS QA361 High voltage Single-ended Out,9.64,17.97,0.19
+e57d419c-06d9-4079-91c0-8b791467d887,QLS QA361 Large Current Balanced Out,14.09,24.14,0.34
+5232771e-12aa-4372-9e62-75c5c1856249,QLS QA361 Large Current Single-ended Out,6.13,27.83,0.19
+3287c361-c691-405c-8091-c53125a68f0c,QLS QA361 Normal Single-ended Out,8.13,21.95,0.2
+86d4abdf-18b1-4d9a-bfc8-2263d2e2151e,QLS QA361 Standard Balanced Out,14.08,26.72,0.33
+fa3aafac-6520-4e75-95be-d5f059173118,QLS Quloos QA390 Hi - Hi Balanced Out,18.21,38.39,4.02
+214b206f-7ccc-4190-a7bb-7ff7b6c07220,QLS Quloos QA390 Hi - Low Single-ended Out,9.65,10.88,4.02
+1291b386-afb8-4f77-b7aa-8ba5d22061cd,QLS Quloos QA390 Super Hi - Hi Balanced Out,22.53,44.76,0.36
+4275987a-933b-4463-846a-501da3afd04f,QLS Quloos QA390 Super Hi - Hi Single-ended Out,17.55,37.74,4.06
+d1f60977-5a77-43cc-b948-3f10cfe33b5d,QLS Quloos QA390 Super Hi - Low Balanced Out,14.9,9.35,0.84
+0ad87d23-4f33-4c01-a837-55395d35d6a8,QLS Quloos QA390 Super Hi - Mid Balanced Out,19.87,22.02,0.77
+c724a534-be49-4c08-9601-7713823fd7e7,QLS Quloos QA390 Super Hi - Mid Single-ended Out,13.84,19.93,4.17
+d93272fd-99c3-4e0f-aed1-ee6f71d481e0,Qudelix 5K Balanced Out,-5.98,23.32,0.31
+a3c4f60a-8c11-43da-b142-ca8795556314,Qudelix 5K Single-ended Out,-0.01,27.84,0.2
+5233f498-523c-4cee-9803-b8eaadd2c2b8,Questyle QP1R H-Gain,4.44,23.3,0.17
+807fc383-371f-4d3b-a6a5-9c3146531a46,RHA Bluetooth Cable (CL2 Planar),-8.04,27.27,1.14
+d5fc1d8d-93e2-423a-ab6e-5998abaa8163,RME ADI-2 DAC FS 6.3 Hi Gain,19.27,47.69,0.23
+2bc46835-a4c3-4b43-89ca-f84e8ee3ec2f,RME ADI-2 DAC FS Iem Mode,-3.71,32.07,0.36
+b90b4f40-afaa-47ee-8881-12a5ff29b2de,S-Audio Systems Focus V2,11.63,44.74,0.21
+0cb248b8-dbd3-46c6-9f04-a92b1afd341a,Sabaj D4,11.65,21.44,10.96
+73ae6b89-ee23-41f8-8d0f-51ceedcaf881,Sabaj HPA1 Jack 3.5,8.91,22.78,147.85
+7b2dfada-c948-40c3-8dbe-39851fe16819,Sabaj PHA1 Jack 6.3,8.05,22.13,1.07
+836a5327-5c19-4a5c-b690-e706f5f92c90,Sansa Clip+,-12.01,-10.95,0.41
+11d018ab-48cc-4f28-9b77-23146e997e18,Schiit Fulla AMP,-11.39,11.72,0.07
+52f38eff-72cd-4a96-be59-7fa4ac19110b,Shanling M1,-1.09,6.26,1.84
+8e755c43-bf79-4910-81bb-6433033c04e1,Shanling M2,4.86,30.95,4.86
+9814b786-0978-4d70-bf74-da2c0890b078,Shanling M2s,5.24,32.34,4.62
+982f2508-8441-4aed-a8c4-8e113b12769b,Shanling M3s Balanced Out,8.24,35.93,0.42
+87d60211-74d4-4994-9c40-79df9e5308da,Shanling M3s Single-ended Out,5.22,37.24,0.24
+4445549a-9bb7-47dc-a732-a04521d8c167,Shanling M5,9.12,3.82,0.14
+e1c2b6ce-303a-4d7c-9574-97a707beabb8,Shanling MW 200,-1.09,22.56,0.75
+5d38c643-db4f-4a66-a785-911ac444ab28,Singxer SA-1,22.63,45.46,1.25
+1f85f40f-6f3f-4cdb-947f-bd7eb6e8e338,SMSL AD18,2.04,6.66,0.38
+0da9a1f9-db59-430f-8198-fe13fe08341d,SMSL ivy,2.29,14.4,0.09
+a30635d8-86e9-4a10-8054-01935b0c563e,SMSL M3,5.09,5.78,0.06
+55bc0d0b-821a-4d91-9c60-4a1121922d47,SMSL sAp II,12.67,39.24,10.13
+d955f8de-1c5a-4cf3-be65-2ac0fd9504d4,SMSL sAp VI,11.58,18.03,10.22
+7c35ddb4-bad2-419c-bfca-f345cc0a37ba,SMSL sAp-9 Balanced Out,24.14,47.73,50.35
+1a83faaa-bdaa-481c-91f5-0d0f5f3a83ad,SMSL sAp-9 Single-ended Out,2.77,30.49,25.26
+448c2e4f-405a-419b-a6e5-b368b4f2d01c,SMSL SH-9 Balanced Out,16.55,52.45,0.11
+9d99cd2c-9e69-4fc1-89c6-2f480245f95d,SMSL SH-9 Single-ended Out,16.65,52.59,0.16
+a8919538-164e-4678-b598-3500b4cb298a,SMSL SP200 Hi Balanced Out,20.13,55.19,0.2
+7d7de5f4-44f0-47a8-8e1e-27c0e96b80a7,SMSL SP200 Hi Gain Single-ended Out,19.22,55.09,0.14
+5772fc4f-1132-404f-9ffb-8a78e8eed096,SMSL SP400 Balanced Out,23.92,50.14,0.26
+cbe3883e-25f9-44f3-94f2-0afa42fb6ede,SMSL SP400 Single-ended Out,18.09,54.02,0.19
+39e92d51-1825-4938-9f51-a2a886a719d9,Sony Walkman NW-A35,-12.68,6.35,3.19
+67aac40b-2675-48f3-a9e6-3d26924af03e,Takstar HA 101,16.8,24.51,0.22
+e1f4b076-262c-428f-b4b6-a632e3ffd517,Tecsun HD-80,3.58,8.93,24.94
+16b33317-843d-4da5-8441-e4e6b9c2a963,TempoTec V1-A,-0.09,33.67,0.54
+9018365a-add2-460b-a864-f70eb0d5660f,theBit OPUS 2 Balanced Out,7.51,11.56,4.49
+b79d4c42-62b7-4841-aaef-25b4f527584a,theBit OPUS 2 Single-ended Out,6.69,16.03,1.99
+d7c10fa3-17a0-4b15-82fe-d5293117c1cd,Topping DX7 Pro Hi Gain Balanced Out,21.12,46.01,9.4
+9b4a9867-3f44-4f52-b3d7-309747b366de,Topping DX7 Pro Hi Gain Single-ended Out,15.46,42.9,4.45
+497539d0-8a96-492f-ad0d-f42727c42ef1,Topping DX7 Pro Low Gain Balanced Out,15.39,45.24,9.59
+8a12cfae-282f-43c2-89e4-c87c917e82a5,Topping DX7 Pro Low Gain Single-ended Out,9.37,42.11,4.57
+7ad95cc1-d311-436c-bbe3-3071630758a6,Topping EX5 Hi Gain,16.06,44.35,0.08
+e524975a-2755-4940-a741-c0f0838a1356,Topping L50,18.16,52.37,0.06
+1e9163da-aeb3-4d17-be84-f194d801e51a,Topping NX4,11.94,22.37,0.44
+f1cbae7d-d96d-4c9d-9aaa-14a456e6dec2,TurboKids TMNT,-3.85,13.75,107.4
+71a7eb07-42e8-4880-8aa3-93889ad20c24,Turtle Beach Santa Cruz,0.89,3.85,11.33
+16f2b37d-13ea-4f93-b00b-5d19adde82c9,Unison Research SH For Hi Mode,-7.82,27.85,0.6
+982793ff-815c-4582-8235-194d666130c3,Unison Research SH For Low Mode,1.4,21.3,1.62
+2caa0105-7e63-49cd-8cac-7cef9aa42433,Unison Research SH For Low Mode - Line in,-13.52,17.84,1.61
+e900faa8-6666-4ee1-af88-a63453035a18,Violectric HPA V100,7.11,-1.59,0.16
+bdd289ef-d1e9-48d8-a5f7-087f4069f9fc,Violectric HPA V200,24.43,45.46,0.1
+5825dd3e-8ee8-42ca-8efc-9a5a1bb4f0d9,Violectric HPA V220,21.84,45.43,0.2
+e848531b-282f-4b10-9e9c-27b60304854b,Violectric HPA V281 Balanced Out,30.87,38.46,0.35
+4307746a-fdf1-4154-9fd0-f1d893bdb061,Violectric HPA V281 Single-ended Out,24.46,46.12,0.24
+9f10eae5-46ca-40c3-a809-222d6800aafa,Violectric HPA V90,25.88,41.27,0.26
+eea20ed5-7897-45d9-9678-4c58525dd646,Vorzuge VorzAMPpure II Plus,9.76,24.42,0.09
+357f8ebc-a332-462c-871a-d60643677949,Walnut V3 Balanced Out,17.41,21.05,48.88
+e949a38f-2cba-4966-8f36-8130f5074a24,Walnut V3 Single-ended Out,10.59,10.84,97.87
+660c5b4e-3edc-48ea-8c50-a5cab3d4e1c0,Weiliang Audio U9,13.95,26.69,12.16
+c9bc4542-94d5-4a0b-ab2f-ca8e63bffab3,Westone Bluetooth Cable V1 WBTV1,-8.9,13.36,5.02
+33fe574b-703e-48b7-9df3-7fda96c345d0,Westone Bluetooth Cable V2 WBTV2,-12.22,23.54,0.5
+e608b57a-0fc0-4539-95e9-cc3559a774f8,xDuoo D3 nano,3.03,12.74,0.12
+5fa2384e-1d4a-4c49-a73c-80aa12921588,xDuoo MT-602,4.41,26.65,3.24
+c8926597-dea6-4b61-b924-92dcfa88c1a0,xDuoo TA-01,13.36,18.98,7.02
+bd63ca2a-8c56-451f-b7eb-f6b419bfb808,xDuoo TA-02,9.87,22.13,13.01
+41759aee-e2e1-40d0-bd62-b83180bf5a89,xDuoo x10 Hi Gain,8.4,26.88,0.11
+8f5d947a-863d-4bba-b185-e9df6f572edf,xDuoo x10 Low Gain,4.37,31.16,0.11
+b5483745-34a0-4336-b980-33bf80036869,xDuoo X2,-5.55,23.14,0.14
+cf2a17f5-48d1-472a-b5ec-ca87499f5ae1,xDuoo X20 Balanced Out,10.3,38.04,1.04
+2413eaba-c049-437d-83d0-9a7a1db2a1d6,xDuoo X20 Single-ended Out,4.32,40.3,0.12
+fd437328-b56c-4115-8857-55aca5ffc719,xDuoo X3 Default,-2.27,36.7,0.1
+08aee451-0e69-4ac6-b720-a92c653cdc5f,xDuoo X3 Rockbox,1.07,37.0,0.11
+ed414971-615a-4c5f-a6f3-9e1086fbdd28,xDuoo XD-05 Basic Hi Gain,11.15,41.85,2.27
+61afa2cb-26a5-48f1-a254-bdf003f7bbcb,xDuoo XD-05 Basic Low Gain,9.94,38.99,2.27
+81b7234b-648c-4464-b81e-eb3d6a7e8f7f,xDuoo XD-05 Basic Mid Gain,11.15,41.85,2.27
+c2c9909d-23d7-4c53-811d-f544270abc7f,xDuoo XD-05 Default,11.96,15.5,0.22
+6ac6a9c9-2313-4d91-bd4c-c6e06d8eccc9,xDuoo XD-05 Plus Hi Boost Off,12.78,16.2,2.29
+7c7fc7e7-215f-4dc9-9e56-e1e6c90fd238,xDuoo XD-05 Plus Hi Boost On,18.07,15.18,2.28
+8ca44c24-7a5a-4d81-b933-6d76d273c444,xDuoo XD-05 Plus Low Boost Off,9.95,19.19,2.28
+bc982b14-fae8-4670-aeb7-e72079c68c77,xDuoo XD-05 Plus Low Boost On,9.96,21.07,2.28
+9f1a456f-3988-47cf-91e6-aaa2c5157550,xDuoo XD-05 Plus Mid Boost Off,12.13,16.24,2.27
+6acd2ba5-350e-495f-88c6-a1420e5dd3cc,xDuoo XD-05 Plus Mid Boost On,12.13,19.1,2.28
+c6a1334c-db72-4465-aaeb-7f0897208dc9,xDuoo XD-05 Sanmigel Mod,11.6,20.52,0.1
+28fd8cc6-47c5-4e25-90f5-5ecb1dd9b4f7,xDuoo XD05 Bal Boost Off Hi Gain Balanced Out,16.37,27.15,0.23
+a791a31c-7d56-4489-86e7-cb77cdd8958c,xDuoo XD05 Bal Boost Off Hi Gain Single-ended Out,10.28,26.34,0.18
+1175d57c-ec55-4ffc-be9a-7a1a3d29f002,xDuoo XD05 Bal Boost Off Low Gain Balanced Out,13.86,27.71,0.23
+403be2d6-0ced-4f93-96de-07acb95096fe,xDuoo XD05 Bal Boost Off Low Gain Single-ended Out,8.26,30.26,0.15
+fc5db17d-c245-4c58-a77a-0928cb02c1c0,xDuoo XD05 Bal Boost On Hi Gain Balanced Out,20.3,27.75,0.22
+c57645fd-11c9-43d4-96d7-c5c71d1efd60,xDuoo XD05 Bal Boost On Hi Gain Single-ended Out,14.77,34.84,0.15
+54b804e6-eeaf-4cdb-9445-07571b451687,xDuoo XD05 Bal Boost On Low Gain Balanced Out,13.85,28.94,0.23
+ff516c89-9247-4195-bfaa-8d5d1af44ccd,xDuoo XD05 Bal Boost On Low Gain Single-ended Out,8.27,30.34,0.16
+6d9f24ba-5a07-42ab-85dd-e645605a04ed,xDuoo XP-2 Hi Gain,8.68,22.14,0.64
+317463eb-7dc5-4c36-9b36-9d8ec2f2cb8a,xDuoo XP-2 Low Gain,2.63,18.89,0.63
+0514cf61-3acb-469a-b3b6-53bb6821d33d,xDuoo XP-2 Pro,2.79,27.95,0.99
+6aa2e3d6-4a93-4a11-9dcc-1c68a11ab691,xDuoo XQ-10,-0.46,12.95,0.07
+7e74ba6f-9642-47c4-9a9e-cc1a6aaea86c,Xiaomi Mi 9T Pro Neutron 44,-6.07,22.2,22.66
+0a4d4614-d973-47a8-b6e3-3d7465fb4e1a,Xiaomi Mi A1 Neutron,-0.02,9.44,1.3
+67b079b0-cad5-4cc8-a596-84caf4b7df65,Xiaomi Mi A1 VLC OpenSL ES,-84.13,-63.28,1.3
+5cd127ef-9fe2-4e95-88a3-33bed8e0f777,Xiaomi Redmi Note 4,-1.88,27.77,17.09
+c3933da4-c315-45a3-9f9a-3128781091f0,Xiaomi Redmi Note 4X Android 6 24 bit,-88.86,-53.27,0.76
+9efd4e93-2d04-429d-8ed3-da8eb6488b5b,Xiaomi Redmi Note 4X PowerAmp,-4.75,9.17,0.74
+439effe3-c389-413d-9224-cbe9a6b29457,Xiaomi Redmi Note 4X VLC OpenES,-90.17,-54.63,0.8
+b10dfd6f-0e72-47e7-8ac4-e0631f4db22a,Xiaomi Redmi Note 8 Pro UAPP,-3.7,25.23,19.94
+0e75617e-16fb-4340-a097-cfc95f4b85e7,Xuelin iHiFi 100,-11.12,20.48,12.62
+3f50f474-b6f9-48bb-9970-45c7a5371030,Xuelin iHiFi 770 Out 1,-8.01,-5.66,10.38
+5a950520-74fe-4f69-9a1f-4e911bcb55e1,Xuelin iHiFi 770 Out 2,-8.0,-5.53,0.03
+5fe0fec9-a8a1-4e8b-a162-73fd5593b4f3,Xuelin iHiFi 770C Bright,-3.1,-1.84,10.15
+30b31fb8-cf68-4ba1-a5e8-cb19fc543d7e,Xuelin iHiFi 770C Default,-1.1,0.65,10.15
+5445e1b6-a7b1-416d-a162-0473eae74ee0,Xuelin iHiFi 780 Out 1,-8.81,-0.8,10.32
+e3a646c3-0551-4373-87ef-f1c752f66417,Xuelin iHiFi 780 Out 2,-8.82,1.14,0.38
+4db31aa8-21c3-48dc-96f6-554abbeaff63,Xuelin iHiFi 800,0.09,3.02,0.4
+e0a16871-9229-4b54-9952-44b63e3320c3,Xuelin iHiFi 812 V2,9.61,40.25,10.32
+d600aac1-156d-4998-865e-1b26ffd732b5,Xuelin iHiFi 960 Pro,4.28,30.22,10.31
+fbea53ef-1f9a-481d-8be5-d36fc32424e5,Zishan DSDs Dual CS43198 Balanced Out,10.62,14.4,20.25
+67f8ef84-c793-429c-b981-6236b9f68e21,Zishan DSDs Dual CS43198 Single-ended Out,11.91,5.23,10.77

@@ -4,6 +4,15 @@ import sys
 
 from datetime import timedelta, date
 from txtai import Embeddings
+from pathlib import Path
+import pandas as pd
+
+df_amp = pd.read_csv(f"/..{Path.cwd()}/parse/final_amp.csv", encoding='utf-8')
+
+embeddings = Embeddings(path="sentence-transformers/nli-mpnet-base-v2")
+##uncl_amp_embeddings:
+# embeddings.load(f"/..{Path.cwd()}/parse/amp_uncl")
+embeddings.load(f"/..{Path.cwd()}/parse/amp_clnd")
 
 app = Flask(__name__)
 app.config['JSONIFY_PRETTYPRINT_REGULAR'] = False
@@ -16,24 +25,13 @@ app.config['DEBUG'] = True
 @app.route('/api', methods=['POST'])
 
 def test_txtai():
+    df_amp = pd.read_csv(f"/..{Path.cwd()}/parse/final_amp.csv", encoding='utf-8')
+    data = df_amp['review'].to_list()
     # Works with a list, dataset or generator
-    data = [
-    "US tops 5 million confirmed virus cases",
-    "Canada's last fully intact ice shelf has suddenly collapsed, forming a Manhattan-sized iceberg",
-    "Beijing mobilises invasion craft along coast as Taiwan tensions escalate",
-    "The National Park Service warns against sacrificing slower friends in a bear attack",
-    "Maine man wins $1M from $25 lottery ticket",
-    "Make huge profits without work, earn up to $100,000 a day"
-    ]
+    
     content = request.json
-    # print(content)
     q = content['query']
-    # Create an embeddings
-    embeddings = Embeddings(path="sentence-transformers/nli-mpnet-base-v2")
-    embeddings.index(data)
-    s_res = {}
-    s_res_list = []
-    # q = 'eqweqwewq';
+
     res = embeddings.search(q)
     def modify_tuples(tuples_list, attributes_list):
         modified_list = []

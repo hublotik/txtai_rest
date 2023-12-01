@@ -1,0 +1,1569 @@
+uuid,Name,Sensitivity,Sensitivity2,Impedance,acoustic_design,type
+488a854e-723d-4b0a-98ad-e47e862c310a,1MORE E1010 Quad Driver,124.97,109.74,29.98,Closed,iem
+9be95a3b-1184-4e6b-a614-5d007a1bb5e8,1MORE Stylish Dual-Dynamic In-Ear E1025,122.88,107.78,30.88,Closed,iem
+a0e8e6cc-1d11-45ad-b150-975d9545c69d,64 Audio N8 m15 apex Module,130.49,107.61,5.15,Closed,iem
+7f67ad3b-8edc-4335-85df-5053154782fb,64 Audio N8 m20 apex Module,130.48,107.6,5.15,Closed,iem
+88899f49-cc2f-4242-b5b1-848134f423b2,64 Audio tia Fourte,133.42,112.64,8.36,Closed,iem
+0ec8e7ba-6ff8-4397-8672-84b98ac9d9d3,64 Audio tia Fourte Noir,134.65,113.89,8.38,Closed,iem
+eab1bfb0-000e-4d35-831b-791b16e0379f,64 Audio tia Trio,131.53,108.59,5.08,Closed,iem
+db2da107-cd78-48f9-9bfc-b1be1e26657d,64 Audio U12t m15 apex Module,131.11,111.89,11.98,Closed,iem
+375c04bd-a697-4b87-b8d5-be951fa2e306,64 Audio U12t m20 apex Module,131.27,112.06,11.98,Closed,iem
+317f674b-7ccc-4d53-a05b-7f82b644f42b,64 Audio U18t m15 apex Module,134.59,114.38,9.53,Closed,iem
+4e0e66a2-0296-411f-9242-b4a933a59397,64 Audio U18t m20 apex Module,134.88,114.67,9.53,Closed,iem
+ad8b08c6-de7b-46ca-838b-56c706f85297,64 Audio U4 Default,137.58,117.97,10.92,Closed,iem
+e1a4a1cc-86e1-456c-88cf-93eef5e74dba,64 Audio U4 Hi,113.29,93.67,10.92,Closed,iem
+7d7e72cf-5be3-4c1e-a50a-3ab2dc1622ad,64 Audio U4 Low,119.41,99.79,10.92,Closed,iem
+b11b85e1-7e0a-4774-a976-a83cdd9b6065,64 Audio U4 Mid,134.35,114.73,10.92,Closed,iem
+17daac59-11de-4dcd-9a78-bb50a09c5381,64 Audio U4 Vent Open,134.15,114.53,10.92,Closed,iem
+89261710-711d-4fd0-835f-ec768fa0f884,64 Audio U4 Vent Outside Sealed,137.37,117.75,10.92,Closed,iem
+d6c818a8-b85e-4f75-9f1b-251f06322ad3,64 Audio U4 Vent Sealed,137.98,118.37,10.92,Closed,iem
+f948bbd3-c179-426c-9b29-35c249db03d0,64 Audio U6t,133.05,113.76,11.76,Closed,iem
+fbcb5ee0-a8e0-4c62-8e58-eab220cb7f27,64 Audio U8,135.01,118.55,22.6,Closed,iem
+bedaa389-5a9c-41b5-a0ef-5363a4d7e292,7Hertz Timeless,125.79,107.64,15.33,Closed,iem
+dc98f736-03c6-4fe2-a697-856549ecde6b,7Hertz Timeless Mod,124.06,105.79,14.89,Closed,iem
+8f258315-a16e-46ca-91eb-b55e34bc2e38,AAW A1D,128.22,109.91,14.78,Closed,iem
+b58a4905-ebf5-40e4-a993-0d98251315c4,AAW A2H,130.34,109.9,9.04,Closed,iem
+e14d61bd-92d9-4c18-aa62-1563a9e4c716,AAW A3H,125.84,107.6,15.02,Closed,iem
+b8e9f746-8ab5-49d8-8c5d-b4bbdfeb1e74,AAW A3H +,130.16,110.0,9.64,Closed,iem
+5aa93091-02ec-4737-a0ef-54605d820c52,AAW ACH Сeramic,129.8,111.68,15.43,Closed,iem
+df96f499-faf4-46b8-b6ee-feb1fb867ee5,AAW ASH,134.03,116.83,19.06,Closed,iem
+3e3cd021-562f-44f6-aeca-e9a90c175b44,AAW Canary,127.74,106.19,7.0,Closed,iem
+1606a8f8-cb8a-4d10-9af3-be113e553f3e,AAW Halcyon Bass,124.43,107.39,19.76,Closed,iem
+ee9c3273-838c-48c6-bbc2-d6cb69c6cca2,AAW Halcyon Normal,123.83,106.79,19.76,Closed,iem
+8fb862b6-a8f0-4855-bbe4-35f6c2150612,AAW Mockingbird,130.18,111.04,12.19,Closed,iem
+25b89ba7-0a47-411b-9ee8-f16caba00c6f,AAW Nebula ONE,132.31,114.67,17.21,Closed,iem
+a8da5b75-ad01-4a37-9205-9c8e6ac52dc4,AAW Nightingale Planar Magnetic,121.5,105.17,23.29,Semi-open,iem
+bcedecd1-cc00-4b80-aafd-007e01a83481,AAW Project 4+2 Bass,132.13,109.48,5.43,Closed,iem
+8fd9fb8e-fca6-44c3-81ed-0c3676f0b44f,AAW Project 4+2 Norm,131.79,109.14,5.43,Closed,iem
+714a7288-e84f-4a45-9352-30d43283f30b,AAW Project 4+2 Vocal,131.03,108.38,5.43,Closed,iem
+6b3e2645-3591-4a7a-9b5d-aed3a23b1e11,AAW Q,128.95,111.52,18.04,Closed,iem
+25a936b8-4a86-4f8c-8826-66d2b63d1ec4,AAW W300,131.86,112.94,12.83,Closed,iem
+01377f8d-1856-4fab-9b6d-f67c3cfd4178,Abyss AB-1266 PHI TC,95.76,83.07,53.86,Open,full
+88714b0f-471b-4992-95fa-f42d5e237dd2,Abyss AB1266,96.94,83.48,45.08,Open,full
+9d0e42a0-db50-444d-8bd0-fbc1da9ac21c,ACS Emotion,139.92,125.14,33.26,Closed,iem
+5acf766e-c268-4d9f-849c-0baf4ba4fc14,ACS Evoke,130.08,118.56,70.47,Closed,iem
+804fb94d-2762-44e3-b0ad-124508f68557,ACS Evolve,136.52,123.46,49.43,Closed,iem
+c91be847-3423-4878-b9bd-b22bb6f5936a,ADL EH008,126.02,108.93,19.53,Closed,iem
+d15494ea-0286-485f-804c-8ebdaa6d96a4,ADL H128,116.37,105.04,73.52,Closed,full
+23870a4f-cef7-4e82-ac6e-fbab2e788321,ADVANCED M4,121.97,104.44,17.68,Closed,iem
+ca5c4733-452a-4ffc-85ba-9fcb78603bae,AKG GHS1,116.51,102.34,38.25,Closed,full
+680becf2-1112-4bb9-ba5a-7a442fb40d03,AKG K 1000 0 degress,90.51,82.43,155.71,Open,full
+b9b1d4ba-a1d9-414b-825e-d0766fa6a730,AKG K 120,90.46,88.34,613.24,Closed,full
+064687fa-7bb5-47c7-a9fa-9a4e52406234,AKG K 140,98.47,96.09,576.98,Open,earpad
+a8f2b1a4-2f20-460b-96f6-0764a6238776,AKG K 141,99.81,97.94,650.7,Semi-open,earpad
+a25f2c41-f98d-4aa8-b1cd-40da43bf3ae0,AKG K 172 HD,95.24,84.01,75.29,Closed,full
+e4b0e5d9-7a7f-45b2-9306-9c482bf28a85,AKG K 181 DJ Off,102.47,88.71,42.09,Closed,full
+1eeb7e4e-5bf2-46c2-8864-1d94fbe1e99b,AKG K 181 DJ On,102.45,88.69,42.09,Closed,full
+1adfc852-0ebe-43d1-9ef4-938ab760d47c,AKG K 240 MK2,105.54,94.82,84.75,Semi-open,full
+f8c24bda-349b-4e39-8568-7f31bffd86b8,AKG K 240 Studio,109.2,98.13,78.32,Open,full
+bbc65ff6-31f5-4f06-903f-59dc45f172fe,AKG K 242 HD,106.42,95.37,78.53,Open,full
+c72309e7-c9dc-4b0c-accd-be9eeba13740,AKG K 271 MK II Fabric cushions,108.89,97.82,78.3,Closed,full
+6685a4ea-22cf-40eb-afbd-52d91d06a7f0,AKG K 271 MK II Leather cushions,106.63,95.57,78.3,Closed,full
+9fe86d5f-668a-44da-b5c4-e7a8aba065ae,AKG K 272 HD,94.47,83.18,74.33,Closed,full
+66614e95-2494-457b-8821-5a0148ad0322,AKG K 3003,126.34,106.74,10.96,Closed,iem
+7ec0caa1-9a27-4fb1-be7b-5d6490715a50,AKG K 340 ED,95.66,91.68,399.64,Closed,full
+645a45df-0a8a-4d38-9a80-6b99a0beef0b,AKG K 361-BT 371 Mod,120.32,105.87,35.95,Closed,full
+480cfc06-c99f-4496-8222-54c38d302b13,AKG K 375,123.87,108.63,29.94,Closed,iem
+fbd9b3b7-40a7-40ec-bb71-81413d745220,AKG K 403,113.1,98.55,35.14,Open,earpad
+4b358095-e1e9-46ce-9d84-0b5425bd933f,AKG K 420,119.13,104.96,38.24,Open,earpad
+50871424-09f2-4c6c-8b98-d9fd81b0ab94,AKG K 430,119.81,105.11,33.87,Closed,earpad
+1f541207-129b-4e81-a313-f2cc2a96a145,AKG K 450,125.11,110.43,33.98,Closed,earpad
+0394e815-fa72-48ae-95c9-98f3c9078be2,AKG K 512,107.37,93.05,36.92,Closed,earpad
+bb1c42db-c623-428c-a523-ce20805fe8f0,AKG K 512 mk2,107.0,92.54,35.81,Closed,full
+732b845b-44ef-41c9-bb99-8125a30da3b0,AKG K 514,116.9,102.24,34.26,Open,earpad
+d265c6be-2019-41b8-b53b-fa6bb2c05060,AKG K 518 DJ,113.97,99.37,34.66,Closed,earpad
+cb156717-53c9-4d5b-889d-91752dfdf33a,AKG K 52,113.93,99.16,33.36,Closed,full
+013102d0-f8e4-44de-8cbe-9453825fb3fd,AKG K 520,118.57,104.45,38.73,Semi-open,earpad
+d527c4e4-2ce9-496c-9840-07be3fe12d17,AKG K 530,107.4,96.36,78.71,Semi-open,full
+731ed073-91cf-460a-8df2-390de0779828,AKG K 540,113.78,99.57,37.89,Semi-open,full
+15c6f89d-792f-4a03-aa47-0f4cf1f94967,AKG K 550,109.25,94.78,35.71,Closed,full
+1eec891a-0e5c-4c60-a928-736303577fde,AKG K 550 MKII,117.86,103.17,33.98,Closed,full
+7a6d25b7-9875-4ff0-b247-cd0dd8ccf7b6,AKG K 601,100.72,92.22,141.44,Open,full
+90b42415-fda1-4dde-b9a4-4508ea6c1ec8,AKG K 612 Pro,100.98,92.33,136.43,Open,full
+a4526cfa-78f8-4758-b52d-634c3460afb2,AKG K 701,102.44,90.64,66.11,Open,full
+af52394b-abf6-49de-b0eb-ab37f0d8763d,AKG K 702,103.61,91.65,63.64,Open,full
+55492813-c3ea-496f-b32c-1d779046e7b5,AKG K 712 Pro,106.42,94.49,64.15,Open,full
+a69ba47a-6006-4d50-9f56-3f017c77569a,AKG K 72,115.87,101.02,32.77,Closed,full
+410ef48e-8a98-456c-a939-6b66b553c6fb,AKG K 77 PRO,105.26,90.53,33.61,Closed,earpad
+50ae9e76-2cb6-4cc3-bce4-f845499deff2,AKG K 80,103.65,96.87,209.57,Open,earpad
+b67fa121-8bdb-4730-a50e-401eaa18bc1d,AKG K 92,116.33,101.48,32.73,Closed,full
+5f5d2b0d-4e64-436e-b767-cec640cb92f0,AKG K 99 PRO,104.13,89.51,34.55,Semi-open,full
+ed924eaf-4795-4ce1-b2a6-0a93aa437117,AKG K1000 30 degress,86.73,78.65,155.71,Open,full
+b23c16f3-a2cc-464e-bc15-d994a8219d7e,AKG K545,117.19,102.63,34.99,Closed,full
+3e910522-16e0-494a-b021-efe4ca6fb5ee,AKG K66,114.08,99.79,37.29,Open,full
+0fc65789-fd93-4b46-be7b-ded2d2115794,AKG K812 PRO,109.54,96.07,44.94,Open,full
+be7c0f20-8efa-4c73-a569-2f20da8ef5a5,AKG N 20,123.0,106.97,24.95,Closed,iem
+d0a16edc-1145-472f-a6fc-faadc1c57ff6,AKG N 30 Bass Boost,124.74,109.65,31.0,Closed,iem
+d120f371-307f-4044-9efc-638aefb92bbb,AKG N 30 Reference Sound,125.59,110.51,31.0,Closed,iem
+6ccaa390-f0c5-46d0-a783-03cf9afe590e,AKG N 40 Bass Boost,122.68,105.89,20.92,Closed,iem
+505d32b5-86ca-454b-8902-b591922fa0ee,AKG N 40 High Boost,124.63,107.84,20.92,Closed,iem
+4e4165ef-33cf-469a-bdc8-25efd8f55536,AKG N 40 Reference Sound,123.7,106.9,20.92,Closed,iem
+49e52744-eb47-4be4-90a6-d115172fc137,AKG Q 460,124.89,110.47,36.16,Closed,earpad
+d54d2ff5-b70c-42d1-aa1b-cdb8c5fb5d49,AKG Q 701,103.79,91.78,63.09,Open,full
+c5956b83-2a04-4069-86a2-34510dde8b75,AKG Y 20,114.65,100.54,38.82,Closed,iem
+f2ed7953-dc90-4986-b05e-6aca45f8f446,AKG Y 30,118.34,103.86,35.62,Closed,earpad
+266fb103-eea1-4c2d-a181-6c6284d44436,AKG Y 50,114.61,100.27,36.86,Closed,earpad
+5821d463-ab08-407d-ad5a-93c6aabc5b8c,Aleks Headphones Live Sound,117.89,106.55,73.45,Closed,full
+95d73059-893f-4762-9efb-3dfd63e19fce,Alessandro Music Music Series One,114.34,99.68,34.2,Open,earpad
+e75a7d6f-e634-404a-a224-29a8334e2c62,Alessandro Music Music Series Two,109.8,95.23,34.98,Open,earpad
+46f7c08c-9ef1-4a3a-b8e9-1b42b0ce4b69,Allen & Heath XD-53,117.86,103.56,37.19,Closed,full
+1dfa0d3b-0f6b-46d6-9aae-158fb7a0330a,Ambient Acoustics AM10 Universal,134.89,113.42,7.13,Closed,iem
+383bc4b2-9b59-475c-809c-d401f54f07bb,Ambient Acoustics AM5LE Universal,133.48,120.28,47.87,Closed,iem
+82f9073c-907c-4afa-8ea7-1983640c191c,Ambient Acoustics MAD10 Universal,132.17,111.05,7.72,Closed,iem
+61f35d16-e65d-466e-a71f-ee1fabad407b,Ambient Acoustics MAD16 Universal,138.48,117.03,7.16,Closed,iem
+fef4a62a-d400-4ccf-8256-e26a18bda205,Ambient Acoustics MAD2 Universal,132.98,113.44,11.12,Closed,iem
+643caa5b-fa5b-4758-97ea-9552b8b16fd9,Ambient Acoustics MAD24 Universal,135.81,114.14,6.81,Closed,iem
+bb14a44e-8818-4065-b70d-86271b331aea,Ambient Acoustics MAD3H Universal,132.84,113.16,10.77,Closed,iem
+3709ff2d-556d-4799-ac01-9b1e29defde1,Ambient Acoustics MAD4 Universal,133.93,114.51,11.43,Closed,iem
+6492b114-d93f-4693-8198-014b95c4ace5,Ambient Acoustics MAD6 Universal,131.91,111.54,9.19,Closed,iem
+eee0bf4f-46b2-43f8-8d3e-ac5e90276411,Amphiton TDS 15,110.28,92.45,16.47,Open,earpad
+ec13a317-f56f-4f83-89dd-14249d628c49,Amphiton TDS 7,101.16,80.7,8.99,Closed,earpad
+14d6d3b1-8286-4d16-bada-1c7897540d6f,Amphiton TDS 7 Snorry Mod,111.1,90.4,8.51,Closed,full
+fd22eb35-22a6-4632-84dd-5e2744959ef9,Anew U1,132.86,118.35,35.4,Closed,iem
+d47f2879-f6db-4b8b-81a0-a597db268ce2,Anew X-One Black,130.75,112.51,15.01,Closed,iem
+a6687176-10a2-4e51-aa4c-750518ff3a5f,Anew X-One Blue,130.45,112.1,14.63,Closed,iem
+a9e9de72-b91c-4e53-b4e6-8220d16ac8d9,Anew X-One Red,130.61,112.62,15.89,Closed,iem
+5d883bf1-98ac-4a98-9273-855bba019c0c,Anew X-One Upturned Black,130.54,109.36,7.63,Closed,iem
+46be8193-19d0-4ec2-846c-9e00bafad2da,Anew X-One Upturned Blue,130.38,109.17,7.57,Closed,iem
+c58e07fc-bf57-42d9-a7c3-db11eabcfcbb,Anew X-One Upturned Red,130.6,109.56,7.87,Closed,iem
+9ebffded-72dd-40fc-a53f-641bac17e8b3,Angry Birds Angry Birds,128.37,111.2,19.2,Closed,iem
+e22eabdd-6241-4acb-b72a-17ddd051e223,ANKER Soundcore Life Q30 Wire,120.59,103.37,18.99,Closed,full
+f6d08489-986b-4409-bd15-79e7b0b0377c,Apple ME186 Close,127.2,113.01,38.13,Closed,iem
+5a5bfff3-b045-491a-92d2-3b15e59ceb34,Apple ME186 Default,127.19,113.0,38.13,Closed,iem
+5b4b4ab0-0cbf-4281-8310-c97465a08e7a,Astell&Kern AK T5p II,118.4,104.3,38.95,Closed,full
+c72e562c-0bb1-40af-a1bd-44bd01721583,Astell&Kern AK T8iE MKII,134.4,116.4,15.83,Closed,iem
+e5954f4c-1c9e-49b2-a12a-b468bde9fff9,Astell&Kern AKR03 Roxanne Max,140.11,119.01,7.76,Closed,iem
+27fcbf49-4bf4-402c-90b1-a02431eff5d7,Astell&Kern AKR03 Roxanne Min,135.55,117.11,14.35,Closed,iem
+f692bf85-f160-4c01-8c1c-6b0a6c5adbc8,Astell&Kern AngieII Max,130.19,110.44,10.59,Closed,iem
+84717d07-316a-41ac-828b-0c25bfdc5f9b,Astell&Kern AngieII Min,123.98,106.06,16.16,Closed,iem
+e57db6c4-d861-48d0-b1f3-bcd350da1183,Astell&Kern Billie Jean,138.89,124.29,34.64,Closed,iem
+e3c563bd-9036-44e1-b25e-15f1156ce9ea,Astell&Kern Layla II Max,134.23,116.27,15.98,Closed,iem
+524af7f8-e5bd-493a-afaa-4c57c42531f8,Astell&Kern Layla II Min,131.92,115.58,23.25,Closed,iem
+567600d7-d28f-42c9-afe5-94fd5e45c8f3,ASTRO Gaming A10,117.53,103.24,37.23,Closed,full
+8d0429f9-6a5f-42e7-a575-09497d4c1539,ASTRO Gaming A40,113.27,101.21,62.22,Semi-open,full
+b30a1bdc-c71f-426b-b824-420ade472a48,Astrotec AX-60,127.45,108.33,12.23,Closed,iem
+d0f73c56-f22b-4eac-85d4-80a1e46fcf6b,Astrotec AX-7,126.07,111.68,36.37,Closed,iem
+5435576c-3124-4d8c-9a17-08d81a4a0135,ASUS Strix Fusion 300,118.84,104.14,33.86,Closed,full
+5a6c1340-29cf-4326-ae2a-7af194297859,Audeze EL-8 Closed,108.0,93.69,37.08,Closed,full
+b9bee452-35ce-40bf-a240-ce1735e64066,Audeze Euclid,122.18,103.48,13.51,Closed,full
+030ead4d-c4b7-4251-8241-4f51103aa92d,Audeze iSINE10,126.18,108.4,16.65,Open,iem
+9cd11aad-d1b7-4909-b658-61b7ed848acf,Audeze LCD-1,116.35,98.15,15.12,Open,full
+393420e4-ba3c-4346-a858-4300569e9725,Audeze LCD-2,107.12,93.44,42.88,Open,full
+fddbacc0-e72b-4caa-b8a5-0b3f1a189c58,Audeze LCD-2 Bamboo Fazor,105.49,93.48,62.96,Open,full
+853b613a-dfa4-4d14-b68b-24bb7dd35bb8,Audeze LCD-2 Classic Closed Back,107.45,96.29,76.48,Closed,full
+db669672-5802-4802-92c7-9146d431de65,Audeze LCD-2C,112.22,100.45,66.48,Open,full
+59e314bc-454f-4bfe-b324-1bfe3b8bc4e2,Audeze LCD-3,100.05,87.13,50.98,Open,full
+6fd54f62-743b-4fff-beff-c8eb6f3618b0,Audeze LCD-3 Fazor,105.39,95.85,111.18,Open,full
+93c71cf2-1810-430d-9ce1-825a1457e8ab,Audeze LCD-4z,109.65,93.07,21.98,Open,full
+40ca8b4a-f56a-465b-b2d1-bf7c8299716e,Audeze LCD-GX,114.07,96.42,17.16,Open,full
+a7449644-313a-4a6f-9ac1-0289a81b23d0,Audeze LCD-i3,124.36,107.75,21.84,Open,iem
+e3b7d039-4c11-4c79-b9ef-b8de1a186c1c,Audeze LCD-MX4,118.45,102.04,22.86,Open,full
+70592338-2552-4cf6-a416-ffcb948b9fa5,Audeze LCD-X,108.34,91.69,21.63,Open,full
+db61d677-df02-49c5-843f-6569eb604ca3,Audeze LCD-XC,109.95,92.75,19.06,Closed,full
+70fa62a8-e3ec-466b-a163-2f161d765a1e,Audeze Mobius Analog,111.56,116.07,2828.1,Closed,full
+f2a94c9e-7b7d-465a-9364-b36311f1f485,Audeze Sine,101.72,85.38,23.25,Closed,full
+8969d7ec-6838-4db2-b05d-030e729cd8b4,Audeze Sine Big Cushions Mod,114.33,98.18,24.25,Closed,full
+58a2885e-67be-49f6-9a23-ca6c069fa1d7,Audio-Technica AHT-EP3,121.39,106.68,33.76,Closed,iem
+ab897789-30aa-4e38-9858-3c90382d93e7,Audio-Technica ATH-A1000X,112.31,98.77,44.2,Closed,full
+d8f9d42f-b486-44d2-8fba-c41aa8d7b338,Audio-Technica ATH-A1000Z,116.72,103.3,45.54,Open,full
+4768a128-8b64-4bdc-a083-550ebe4c956c,Audio-Technica ATH-A500,115.8,104.35,71.61,Closed,full
+48892f6c-00dc-44be-bd78-5d336f8b952c,Audio-Technica ATH-A550Z,109.65,95.74,40.67,Closed,full
+8d7e1bb9-6ac8-44fd-9573-88f84f46eb8d,Audio-Technica ATH-A700X,117.19,103.01,38.22,Closed,full
+006e262f-4176-4325-a085-ff6986d46439,Audio-Technica ATH-A900,120.13,106.37,42.06,Closed,full
+d41d26a4-df72-488b-8111-a0cc8d0180cd,Audio-Technica ATH-AD1000PRM Premium,117.09,103.31,41.86,Open,full
+003b7b29-6443-4f25-bf24-91f945093ab2,Audio-Technica ATH-AD2000,121.55,108.17,45.9,Open,full
+d5df2cc5-6ef4-4fc0-acb3-c98b14ecf0e4,Audio-Technica ATH-AD300,117.24,103.45,41.77,Open,full
+887e8dd6-011e-4d02-9d88-1eeb708fade9,Audio-Technica ATH-AD500,118.2,104.89,46.67,Open,full
+5ea713ce-540b-4186-8da1-4ced9ff75172,Audio-Technica ATH-AD500X,118.26,105.63,54.65,Open,full
+27ce446d-d5b7-4c78-b5e3-88e546a3c221,Audio-Technica ATH-AD700 Default,117.45,103.1,36.78,Open,full
+78d63cbf-273f-4543-8f54-e214f7b71984,Audio-Technica ATH-AD700 MOD,115.01,100.67,36.87,Open,full
+ddd1500c-c0c4-4c3b-b891-33fb6e8aa3f9,Audio-Technica ATH-AD700X,117.77,103.74,39.57,Open,full
+b154df61-a736-47f9-ada3-746fdd486846,Audio-Technica ATH-AD900,116.88,102.84,39.47,Open,full
+b44454a9-a994-41bd-8552-1d791dbdd3d0,Audio-Technica ATH-ADX5000,103.14,100.12,498.87,Open,full
+19d98487-a2cb-49cc-b8bb-4bc0af8b5fe8,Audio-Technica ATH-CK1,122.46,104.67,16.65,Closed,iem
+9c0de8e8-1706-445d-b90b-ad76977645ed,Audio-Technica ATH-CK7,124.25,106.8,18.0,Closed,iem
+679524f5-2229-4616-9d6c-18b5e2b84e4f,Audio-Technica ATH-CK9,126.48,106.93,11.1,Closed,iem
+34a8aac0-cb75-45fa-a746-76efb7dcc5b6,Audio-Technica ATH-E40,127.73,108.64,12.32,Closed,iem
+959e114f-6aff-4881-b701-7f66235a7f54,Audio-Technica ATH-ES10,118.54,105.11,45.41,Closed,earpad
+0ca189ca-3774-4fcd-8900-5d9afc728be7,Audio-Technica ATH-ES3,111.94,97.76,38.18,Closed,earpad
+097857b2-af21-4cf6-b4ae-64c2cfdda7ab,Audio-Technica ATH-ES55,114.09,99.97,38.76,Closed,earpad
+1ceef741-32ab-4fa8-9790-99bf41764f16,Audio-Technica ATH-ES7,123.77,109.34,36.01,Closed,earpad
+da8b369a-8aee-4ed5-9517-64e995b8f1b2,Audio-Technica ATH-ESW11LTD-2022 Not a tight fit,122.78,109.19,43.75,Closed,earpad
+8e38d4cc-f496-4014-9a86-904127db4cd2,Audio-Technica ATH-ESW11LTD-2022 Tight Fit,124.45,110.86,43.75,Closed,earpad
+7ac18f81-7dde-473f-b4ed-01b664d22a1a,Audio-Technica ATH-FC700,111.04,97.51,44.35,Closed,earpad
+305d5e55-55a5-4e8b-833c-5342c6db3da4,Audio-Technica ATH-LS200iS,131.88,118.71,48.14,Closed,iem
+8507f830-4b09-4cfd-a803-d83a112b517a,Audio-Technica ATH-M20,108.03,94.68,46.31,Closed,full
+5d3f8b3d-5e86-49c9-95d8-9f62657acc8f,Audio-Technica ATH-M20x,113.33,100.47,51.8,Closed,full
+9cc3623b-1a60-49f8-ae43-b37820c2a23e,Audio-Technica ATH-M30x,114.85,101.85,50.03,Closed,full
+1662fa14-1fee-4f28-b347-6687be2b67cc,Audio-Technica ATH-M35,110.66,98.95,67.46,Closed,full
+75c898de-fddc-4463-9447-bc0e559cd645,Audio-Technica ATH-M40x,113.39,99.25,38.55,Closed,full
+a6e4530d-7134-4e36-a7fd-07200c170f21,Audio-Technica ATH-M50,113.86,99.71,38.43,Closed,full
+aaafeaf6-6609-4dd1-a198-93dabf71d77d,Audio-Technica ATH-M50s,121.89,107.71,38.23,Closed,full
+f31f835c-9ada-4130-bfe6-baca6ee9a5b0,Audio-Technica ATH-M50x,114.64,100.34,37.14,Closed,full
+8b3aaca6-1ed1-4990-8fd6-842e42bc2cd2,Audio-Technica ATH-M60X,119.52,105.1,36.1,Closed,earpad
+ed437e9d-41a9-48e9-9430-d76025da2c4c,Audio-Technica ATH-M70x,117.18,102.67,35.39,Closed,full
+5762ba8d-64ea-4313-867d-de7419882bc9,Audio-Technica ATH-MSR7 Default,117.68,103.22,35.79,Closed,full
+b6211667-17a4-40e4-b881-8ced693d23c0,Audio-Technica ATH-MSR7 No damper,119.54,104.99,35.05,Closed,full
+d22ae689-ecb4-4d41-a9c8-d3317a8b7b69,Audio-Technica ATH-PRO5 MK2,117.88,104.06,41.5,Closed,full
+902574e3-8de2-44ef-a962-551718f2c666,Audio-Technica ATH-PRO5 MK3,117.18,102.94,37.65,Closed,full
+f0936b30-8992-4b99-80f3-be1ea506547c,Audio-Technica ATH-PRO500,116.69,102.44,37.53,Closed,full
+b63bf682-29b6-4b17-88b1-6ff2d9fcaaca,Audio-Technica ATH-PRO700,121.87,107.57,37.19,Closed,full
+5fb3bdc6-00dc-4c87-aac5-1aabe26e07a3,Audio-Technica ATH-RE70,124.58,111.15,45.45,Closed,earpad
+bcc415d2-d8a1-4a8f-8cb9-88c2db9c2e51,Audio-Technica ATH-SJ1,118.84,104.5,36.83,Closed,earpad
+f197c81f-c926-4e30-b68a-7ab0116c50bd,Audio-Technica ATH-SJ3,117.29,104.11,48.11,Closed,earpad
+7b03febf-120b-40b3-bf8b-4421310214eb,Audio-Technica ATH-T200,117.3,103.86,45.24,Closed,full
+93dbec3b-2c96-4e49-a909-cc531426a881,Audio-Technica ATH-T300,118.01,104.32,42.67,Closed,full
+833dcb23-bacd-4821-ae20-e9e37b1da691,Audio-Technica ATH-TAD300,118.11,103.95,38.36,Open,full
+2e692f06-606c-4882-972d-c7a714e4624b,Audio-Technica ATH-TAD400,114.84,100.49,36.69,Open,full
+34575e42-06f1-4bd4-bab1-244ca0eb960a,Audio-Technica ATH-TAD500,116.26,102.02,37.69,Open,full
+cc91a58c-3fcb-401e-8af6-21f2f51085fb,Audio-Technica ATH-W1000 Sovereign,118.41,104.59,41.52,Closed,full
+328fffcf-3e0a-496c-a518-8fbe19882720,Audio-Technica ATH-W1000X Grandioso,113.75,99.86,40.86,Closed,full
+a5036bdd-fa59-41de-b36c-4740dd3b83b0,Audio-Technica ATH-W5000,121.78,108.35,45.43,Closed,full
+e18306ae-f847-4d9a-b04d-e15f7d5a2ff1,Audio-Technica ATH-WS50,113.77,100.41,46.16,Closed,earpad
+fd5f94ab-c760-4ddc-bb13-ca0e548299a7,Audio-Technica ATH-WS70,118.2,104.89,46.67,Closed,full
+c1093e1a-9772-43ff-b231-71f5422eb735,Audio-Technica FAKE ATH-ES3,114.06,99.47,34.76,Closed,earpad
+c07800d0-c6f5-4b42-895e-54edb4f5c51f,Audio-Technica FAKE ATH-ES55,106.96,92.18,33.32,Closed,earpad
+40dc82a4-a26c-45e9-a00b-1fdf5895a278,Audio-Technica FAKE ATH-ES7,112.83,98.84,39.95,Closed,earpad
+f1fa77b8-3ed3-446f-9e8d-47f2ea06fb8b,Audio-Technica FAKE ATH-ES7 2,111.68,96.97,33.84,Closed,earpad
+4c9e26e0-48f7-45b8-be7a-8c2804e5e6e9,Audio-Technica FAKE ATH-FC700,111.08,96.33,33.54,Closed,earpad
+614c09be-7b41-43fb-8e4d-b94c8cf6c87d,Audiofly AF33,124.07,106.44,17.27,Closed,iem
+01d74b75-5e21-4bae-aaf4-b3511de9572a,Audiofly AF45,125.97,108.73,18.86,Closed,iem
+7948ff3e-d1f3-4a56-9be8-38a442b843e8,Audiofly AF56,135.23,117.99,18.91,Closed,iem
+daceadec-559a-42b0-9adb-fba620722aa7,AudioSense T800,135.02,112.22,5.24,Closed,iem
+928abeee-861f-46d7-b59c-302985ff525d,AuGlamour R8,124.76,107.12,17.22,Closed,iem
+465fbc28-3437-4f8a-afb3-93f17cda9e74,Axelvox HD 241,113.95,99.26,33.96,Semi-open,full
+ee278f0d-6e3e-457b-899c-1649738cc13c,Axelvox HD 242,114.47,102.18,59.1,Semi-open,full
+810899c0-89ee-4c0c-be72-a8464d8a1f39,Axelvox HD 271,112.95,98.22,33.66,Closed,full
+d0c6b017-1f57-4ff4-aeb9-2d51605401b6,Axelvox HD 272,109.6,97.51,61.8,Closed,full
+d6611e88-544d-45d7-89dc-6ab897c4f473,Axelvox HD 990,109.96,101.71,149.74,Semi-open,full
+01b03789-5798-444e-937d-687774f55900,Bang & Olufsen Beoplay H4 2nd Generation Wire connection,112.47,95.57,20.44,Closed,full
+d40c3eec-9374-4274-8af8-b17edd168fb8,Bang & Olufsen BeoPlay H8i Wire connection,116.44,102.3,38.51,Closed,earpad
+d062db4b-f616-44fa-a8e2-b5104cd6b173,Bang & Olufsen BeoPlay H8i Wire connection Power On Noise Cancelation Off,116.04,117.56,1417.11,Closed,earpad
+b8f942f7-8c52-4802-ba46-cf2abf004009,Bang & Olufsen BeoPlay H8i Wire connection Power On Noise Cancelation On,116.43,117.94,1417.11,Closed,earpad
+e7ccb923-f7a2-4e62-9b8c-7ca5413b54ab,Bang & Olufsen BeoPlay H9 3rd Generation Wire connection Power Off,114.74,99.2,27.92,Closed,full
+53ec9e8e-d89b-4ea2-8d16-301295e996bd,Bang & Olufsen BeoPlay H9 3rd Generation Wire connection Power On Noise Cancelation Off,115.69,115.74,1012.67,Closed,full
+06636e26-0be0-480f-a9cc-b55a9b36bd68,Bang & Olufsen BeoPlay H9 3rd Generation Wire connection Power On Noise Cancelation On,115.65,115.71,1015.29,Closed,full
+5e49bd25-65ab-49ca-aebe-9bf82fc28d33,Beats Dr.Dre Fake Pro,116.43,100.01,22.8,Closed,full
+26609535-e2d5-49e0-949a-0053b352fa8c,Beats Dr.Dre Fake Solo with ControlTalk Headphones Fake,106.96,92.38,34.82,Closed,earpad
+d92ff7e1-0757-4be4-a0e6-01b7fab791ec,Beats Dr.Dre Fake Tour,112.48,97.92,34.99,Closed,iem
+ea78bfad-f001-4df3-821c-931f8951aaa2,Beats Dr.Dre Fake UrBeats,132.17,114.56,17.32,Closed,iem
+fdaff0e7-aa5e-4df0-97d4-8b5601fab6ff,Beats Dr.Dre Pro,118.41,101.3,19.46,Closed,full
+4d1dc378-486a-49c2-bd80-2ce55b42c99e,Beats Dr.Dre Tour,127.62,109.66,15.98,Closed,iem
+8e75bb5d-afc9-4bd2-8e65-93d48ed81e29,Beats Dr.Dre UrBeats,129.71,112.26,18.01,Closed,iem
+c4ebe13c-e6f1-422a-bcff-937f2844b1c0,Behringer BB 560m Wired Connection,107.72,98.78,127.86,Closed,full
+0f6f78ff-bb0c-418f-ac78-a91c4e887d2b,Behringer HC 2000,116.27,101.82,35.92,Closed,full
+ec87f1ba-cb99-4bb1-bc94-2716428b7ebe,Behringer HLC 660m,114.68,106.88,166.29,Closed,full
+6279af74-f656-4d58-8006-657cb7d4a95b,Behringer HPM1100,115.87,101.05,32.95,Closed,full
+11ae2529-6a6e-407d-9620-97fe6702ac88,Beyerdynamic Amiron Home,110.7,96.78,40.54,Open,full
+a3663b0c-dc75-44b1-b634-2b7d3e9a4865,Beyerdynamic Aventho Wired,121.92,107.56,36.72,Closed,earpad
+733c6201-f8dc-4a9d-a1ca-61cec556aed9,Beyerdynamic Custom One Pro (worn ear pads),115.53,98.77,21.12,Closed,full
+ff4417ba-c04a-4d12-8e02-01f391b79ed2,Beyerdynamic Custom One Pro Step 1,117.65,100.38,18.76,Closed,full
+5b671b2d-ee0e-4670-888f-8074c51be073,Beyerdynamic Custom One Pro Step 2,116.85,99.6,18.82,Closed,full
+c725a111-ed23-4176-a228-712633964b55,Beyerdynamic Custom One Pro Step 3,117.17,99.93,18.88,Closed,full
+11d766a8-ed31-42d3-a13e-2e1ce9795bfd,Beyerdynamic Custom One Pro Step 4,117.74,100.52,18.95,Closed,full
+c9462019-47f7-4357-9e16-8d1076f9cba0,Beyerdynamic Custom Street Step 1,120.58,107.13,45.14,Closed,earpad
+ebf200da-c4ac-447a-af40-9a806a5dd2d6,Beyerdynamic Custom Street Step 2,120.46,107.0,45.09,Closed,earpad
+b8b35364-69dd-4541-97ce-44c22d24ca3e,Beyerdynamic Custom Street Step 3,120.69,107.25,45.23,Closed,earpad
+e4650d91-969f-4a24-8793-71d16ab50df3,Beyerdynamic DT 150 250 ohm,104.9,99.37,280.25,Closed,full
+0c04618c-ebeb-4c98-8fdc-5b4c2b971d17,Beyerdynamic DT 1770 Pro,111.19,106.21,318.19,Closed,full
+baa2b2a9-a4a7-40e3-a9f1-d4a1e56c3df4,Beyerdynamic DT 231 PRO,105.63,91.09,35.15,Closed,full
+600dfc6f-c29f-492f-ac5c-17fc0d973a50,Beyerdynamic DT 235,113.28,98.76,35.3,Closed,earpad
+a1fa2110-794c-418b-b8de-fadedaa8227a,Beyerdynamic DT 240 Pro,117.68,104.26,45.59,Closed,full
+675bf2d9-f2c6-42a8-a302-0d6a26254853,Beyerdynamic DT 250 80 ohm,109.37,98.98,91.42,Closed,full
+df9ac102-ff30-4288-81fe-284c1425bb89,Beyerdynamic DT 250 250 ohm,107.48,101.43,247.98,Closed,full
+bdfe5fbb-3439-4485-a83f-37e722b7594c,Beyerdynamic DT 250 250 ohm Mod,109.33,103.11,239.06,Closed,full
+d55ef4fc-13af-41c8-83b5-206bcbeca4bc,Beyerdynamic DT 440,112.16,97.47,33.99,Open,full
+6a14e96f-439f-4fbb-aaac-530882cd951a,Beyerdynamic DT 48 E 200 ohm,106.22,99.23,200.2,Closed,full
+18db8b5f-1a44-4779-8988-8a04bf4200bd,Beyerdynamic DT 60 PRO SC,120.8,103.21,17.41,Closed,iem
+0f5b6c22-cbc0-4728-97d8-71049074bceb,Beyerdynamic DT 660,113.73,100.05,42.83,Closed,full
+cea1c5b6-d802-4f17-aad3-13830ae9e714,Beyerdynamic DT 660 mk 2,93.12,90.67,568.82,Closed,full
+cf88ccee-4e83-4799-8043-da8e34c6245a,Beyerdynamic DT 770 600 ohm,99.04,96.61,571.01,Closed,full
+0321df66-0f5d-4a74-a532-7b04e1f2791d,Beyerdynamic DT 770 32 ohm,109.88,95.04,32.87,Closed,full
+26c88f64-fe79-438e-bff0-f8d78c4defe8,Beyerdynamic DT 770 Pro 250 ohm,100.45,94.51,254.57,Closed,full
+b38264cc-5478-461c-b059-d66d8c5eee5c,Beyerdynamic DT 770 Pro 32 ohm,111.23,96.85,36.48,Closed,full
+aa529a3b-6fea-4bed-b446-0f4f58634dc8,Beyerdynamic DT 770 Pro 32 ohm LE,110.01,95.35,34.14,Closed,full
+2b49fe9c-e96d-4f21-a5fc-5e730a506413,Beyerdynamic DT 770 PRO 80 ohm,106.58,96.28,93.4,Closed,full
+d49db612-5953-49aa-8f23-40ef87b923a8,Beyerdynamic DT 797,105.36,99.51,259.58,Closed,full
+ac66f9e7-cbc3-4e3e-b513-78f0634e5be1,Beyerdynamic DT 831,110.83,106.25,347.78,Semi-open,full
+0b607d3e-c93f-42fb-a36a-bf3679b4f213,Beyerdynamic DT 860,119.6,106.01,43.69,Open,full
+f0ca6edc-affc-4d51-97cf-9cdd8796c81d,Beyerdynamic DT 880 250 ohm Modded,106.55,101.06,282.53,Semi-open,full
+d2153435-6a6e-4d68-8c13-6ddbd0ac05ab,Beyerdynamic DT 880 Pro Default,101.53,95.56,253.09,Semi-open,full
+bcb909c2-be8f-4003-a51f-678a9ee38169,Beyerdynamic DT 911,111.75,106.5,298.24,Open,full
+0c8c92ae-d461-4176-8109-fb0ab127265a,Beyerdynamic DT 931,112.16,107.32,327.72,Semi-open,full
+31d65293-e6c3-4ea0-b07c-f68f62bb09ef,Beyerdynamic DT 990 600 ohm,99.81,98.0,658.98,Open,full
+f9b76aa7-b24d-45e2-831f-cf0f13c10d79,Beyerdynamic DT 990 Pro 250 ohm Default,99.14,93.42,267.61,Open,full
+73906aaa-830b-4410-833c-6dd60edf00fd,Beyerdynamic DT 990 PRO 250 ohm Old Cushions,111.69,105.96,267.02,Open,full
+5c07a11a-ab88-4288-94ba-55a5996d9b85,Beyerdynamic DT1350,119.78,109.12,85.86,Closed,earpad
+d0d4e098-9f9a-46e7-90e0-f62ca501ab48,Beyerdynamic DT880 Black Special Edition,104.12,98.38,266.79,Closed,full
+bb516de2-ea1f-46aa-b80a-d1ad2e765743,Beyerdynamic DT880 Black Special Edition Silver Pads,97.97,92.23,266.79,Semi-open,full
+19ff39a1-9d27-4880-8580-ed93cb1683ae,Beyerdynamic DTX 101 iE,123.55,104.89,13.63,Closed,iem
+d9c05a59-babf-4df4-963f-a34adc2c3f91,Beyerdynamic DTX 300 p,110.58,96.28,37.09,Closed,earpad
+c394b158-97fb-4237-9ffe-d2be2cfd8f53,Beyerdynamic DTX 350,117.41,102.89,35.3,Closed,earpad
+ba5da2ec-41d2-4ac3-b521-b75962acfa3b,Beyerdynamic DTX 71 iE,129.7,112.01,17.05,Closed,iem
+3e839e09-b778-4b18-ab8c-4d80e642727d,Beyerdynamic DTX 710,116.53,102.25,37.29,Open,full
+0f691e66-db8d-4afd-8615-1a2b0bb3a2a5,Beyerdynamic DTX 910,115.26,101.0,37.5,Open,full
+60b385df-2be8-4b22-9a95-fcfcacdc58a5,Beyerdynamic DX 120,120.25,106.9,46.27,Closed,iem
+3f5cb539-54c4-41cd-bb33-6fb105a94a05,Beyerdynamic DX 160,120.14,106.88,47.2,Closed,iem
+bea8b7b9-a4d5-40da-a457-c81648d21a41,Beyerdynamic T 70,111.17,106.69,356.5,Closed,full
+a007e8f8-6772-42cc-997d-72a66f50ba1a,Beyerdynamic T1 Tesla II,103.47,102.07,725.24,Semi-open,full
+83754900-d38c-442a-a11c-4b20bcaa5524,Beyerdynamic T5p,117.89,104.03,41.09,Closed,full
+f9632dbe-40ea-408c-bfbd-e265b34ca206,Beyerdynamic T90,103.88,99.96,405.94,Open,full
+0e80bdc9-6e95-4261-aba8-b0290f33c9eb,BGVP DH3 Off-Off,135.78,114.89,8.15,Closed,iem
+57cc731c-1d69-4356-a7e8-069b2ad96bec,BGVP DH3 Off-On,135.76,114.88,8.17,Closed,iem
+258bd003-022b-4a68-847f-cb993a7fbe1c,BGVP DH3 On-Off,137.15,115.67,7.11,Closed,iem
+ba42d2ef-16c9-4b9a-8c47-82f6bca8a8e3,BGVP DH3 On-On,137.14,115.71,7.19,Closed,iem
+352fb2b9-c90b-4659-a047-f83824c15dff,BGVP DM6,136.87,122.96,40.71,Closed,iem
+b59b7d7a-f12a-4052-8254-b50bf320a2d4,BGVP DM7,137.97,119.83,15.37,Closed,iem
+90b4524a-d376-491c-9b66-881b4cafc3ac,BGVP DM8,127.63,112.83,33.11,Closed,iem
+9f6a1c46-3375-462c-8ef5-b1ba9f7a1dd0,BGVP DMG,129.72,112.89,20.77,Closed,iem
+6bfe3ca6-c4ba-4186-9a7b-0fb0e1360a85,BGVP DMS,133.78,114.58,12.02,Closed,iem
+c94b2e82-48f2-47c8-b248-595b303a3bcb,BGVP DS1 Pro,128.9,110.74,15.31,Closed,iem
+dbad2582-38f2-4e06-b4ab-d34928a1dff9,BGVP HIFI ArtMagic VG4 Off-Off-Off,131.47,115.1,23.08,Closed,iem
+471df2bd-ddee-4a90-b35e-eebcbadb7ffc,BGVP HIFI ArtMagic VG4 Off-Off-On,133.29,116.26,19.81,Closed,iem
+f33827b9-4bce-4c57-a026-f320d714264a,BGVP HIFI ArtMagic VG4 Off-On-Off,131.32,114.83,22.45,Closed,iem
+81253dbd-d473-49ce-a0e2-d50e2f7d3f15,BGVP HIFI ArtMagic VG4 On-Off-Off,131.56,115.16,22.88,Closed,iem
+e6b431d7-adaa-4fe1-9f16-81c7a09fa850,BGVP HIFI ArtMagic VG4 On-On-Off,131.48,114.96,22.27,Closed,iem
+7726db94-c912-4a99-9d61-2c0d4605da24,BGVP HIFI ArtMagic VG4 On-On-On,133.3,116.13,19.17,Closed,iem
+f140a58a-29cd-4643-9b5c-d1abf5fdc2c3,BGVP NS9 Grey,130.01,113.69,23.36,Closed,iem
+b771a6ae-083b-444a-a707-c1a62fec20a3,BGVP NS9 Red,129.66,113.34,23.36,Closed,iem
+16719781-7b9f-4766-8a84-d8c728d4252f,BGVP NS9 Silver,129.88,113.56,23.36,Closed,iem
+94081706-0904-4301-a9da-9464f9ec7505,BGVP Q2 Wire connection,129.36,111.27,15.52,Closed,iem
+08501eb9-e720-4a9d-b27c-d4123e81a2b4,BGVP VG4 Off-Off-Off,136.17,118.28,16.27,Closed,iem
+ede14a42-dcbb-495f-b574-87691a7e80ac,BGVP VG4 Off-Off-On,139.58,119.99,11.0,Closed,iem
+fa41ea26-ba76-4559-9528-48b5d73a71c4,BGVP VG4 Off-On-Off,136.01,118.09,16.13,Closed,iem
+d661b916-2449-42e3-8434-ae10fd415cb1,BGVP VG4 Off-On-On,139.27,119.67,10.97,Closed,iem
+42a431ec-ba07-4799-9bfa-af96a05c6128,BGVP VG4 On-Off-Off,136.18,118.26,16.14,Closed,iem
+0dfdd093-38c0-4a82-a055-25b2a44a3edb,BGVP VG4 On-Off-On,139.64,119.97,10.8,Closed,iem
+bd2ba71f-f4fa-4f4a-9f31-7a800ccb8416,BGVP VG4 On-On-Off,135.78,117.81,15.98,Closed,iem
+15bc82fe-2f04-412a-b539-6cc621dfc6c9,BGVP VG4 On-On-On,139.26,119.65,10.95,Closed,iem
+8aae1fd8-6f93-48c4-bea2-e4e284ef61b7,BGVP Zero,131.32,113.38,16.05,Closed,iem
+50e00c93-8d0b-4917-b5f0-d37d5544b517,BlackBerry WS-510,127.68,109.76,16.13,Closed,iem
+1f643cd0-a747-43d8-9590-cd80a1b04682,Bose AE,118.88,104.88,39.84,Closed,full
+4cc8c59c-ecb3-47a7-ad3f-beadb7cf3cc0,Bose AE2,116.98,102.62,36.61,Closed,full
+a3651281-7b41-407f-9487-bcb4c80fbabb,Bose IE2,125.87,112.33,44.24,Closed,iem
+0e7fa4f5-3ed4-41ee-b826-556ec8abc2eb,Bose Noise Cancelling 700 UC Wire,98.3,92.39,256.44,Closed,full
+70980e8a-ed4b-43d8-962f-62e4ecc1a8bc,Bose Noise Cancelling Headphones 700 Wire connection,112.7,100.48,60.05,Closed,full
+dd717ac8-f7c5-48b1-89af-71b70a51f249,Bose Noise Cancelling Headphones 700 Wire connection Noise Cancelation 0,111.67,108.25,455.39,Closed,full
+c7f17622-30b5-4b08-80c4-b3e40301c58b,Bose Noise Cancelling Headphones 700 Wire connection Noise Cancelation 10,111.76,108.34,455.39,Closed,full
+227a1057-aefe-4b0f-8645-8603fa5eb557,Bose Noise Cancelling Headphones 700 Wire connection Noise Cancelation 5,111.65,108.23,455.39,Closed,full
+1080682d-968b-495d-b52e-659d1c8f1b8e,Bose On-ear headphones,118.87,103.01,25.94,Closed,full
+f43f43ca-6473-45e1-9202-83742309ed93,Bose QuietComfort 20 Noise Cancelation Off,116.41,107.21,120.21,Closed,iem
+0bd275d1-6614-430c-8d57-3646a1bee451,Bose QuietComfort 20 Noise Cancelation On,117.71,121.18,2220.42,Closed,iem
+90ae2e35-fc9b-401a-8003-4c555dbf15b9,Bose QuietComfort 35 II Wire connection Noise Cancelation Off,112.72,100.18,55.61,Closed,full
+c38e05e1-3211-402c-bfcb-9f0742cf675c,Bose QuietComfort 35 II Wire connection Noise Cancelation On,111.32,108.0,465.35,Closed,full
+f018de01-cd9e-4841-8e64-86e9865607a8,Bose QuietComfort 35 Off,112.6,100.27,58.46,Closed,full
+45478d67-77af-4ad6-b179-f774713c607d,Bose QuietComfort 35 On,112.77,100.44,58.46,Closed,full
+a8c923f8-a426-4887-84a1-c8467923ca62,Bose Soundlink Around-Ear Wireless II Wire connection,116.96,102.84,38.69,Closed,full
+63e712a3-8fc8-44c7-ab85-814dbdc13f05,Bose SoundTrue Around-Ear,113.54,100.15,45.87,Closed,full
+aa75ede2-29b3-4dcb-9ee6-a7202cb39eab,Bose SoundTrue Around-Ear Headphones,117.3,103.03,37.44,Closed,full
+72a202d9-9a39-4b73-946f-c325cead3076,Bose TriPort ie,123.65,106.52,19.35,Open,iem
+0d8dc18f-62d2-4718-a284-a35b54744e4f,BOSS BA-PC15,125.58,108.09,17.8,Closed,iem
+732b0d24-5136-44b7-b7b1-bec8a3ed0b05,Bowers & Wilkins P3,113.47,99.14,36.87,Closed,earpad
+eba11248-3e6b-442f-9f9d-d322a4aebfe1,Bowers & Wilkins P5,113.1,97.43,27.13,Closed,earpad
+ee625fd8-652b-437e-9271-be06ec618054,Bowers & Wilkins P5 MK2,119.71,103.54,24.12,Closed,earpad
+93e0b3d8-74a7-45a9-80ea-bf68ffeac7bd,Bowers & Wilkins P7,116.65,100.31,23.21,Closed,full
+7e6d5550-4dc2-4cf1-b873-2a0ffd0c0e23,Bowers & Wilkins PX Wire,124.48,122.79,677.72,Closed,full
+95a8eee5-f800-4ab8-8fa4-e13ad4ea29dc,Bowers & Wilkins PX5 Wire connection Noise Cancelation Auto,114.19,119.73,3576.93,Closed,earpad
+2e855e13-2544-4329-b12e-ebf19efb72ee,Bowers & Wilkins PX5 Wire connection Noise Cancelation Hi,114.18,119.71,3576.93,Closed,earpad
+cbd15877-8f0d-4c05-adeb-7b7adec1384d,Bowers & Wilkins PX5 Wire connection Noise Cancelation Off,114.15,119.69,3576.93,Closed,earpad
+8ee4d11d-8ee9-4294-bde4-facb727379d9,Bowers & Wilkins PX7 Wire connection Amp Off,110.5,113.74,2108.0,Closed,full
+e4e20a9b-40bb-4453-b184-9971a8175a7d,Bowers & Wilkins PX7 Wire connection Noise Cancelation Auto,110.65,113.89,2108.0,Closed,full
+91157cf1-1ec9-4b31-b5ff-7e5aef084a7e,Bowers & Wilkins PX7 Wire connection Noise Cancelation Hi,110.52,113.76,2108.0,Closed,full
+d1da6466-7b5b-41ba-8053-e351f5d8f030,Bowers & Wilkins PX7 Wire connection Noise Cancelation Off,110.67,113.91,2108.0,Closed,full
+7d9abf71-8d68-4e52-8da5-6c82a3543099,BQEYZ BQ3,128.64,111.95,21.42,Closed,iem
+6a603d20-bc08-4d98-8283-099f185d6bd2,BQEYZ K1,130.57,112.08,14.17,Closed,iem
+adc07d3d-7ed5-471f-aafc-21eb224a49a2,BQEYZ KB100,130.64,112.12,14.07,Closed,iem
+403c050e-d32e-4b41-8290-01bb28bc1809,BQEYZ Spring 1,125.66,111.14,35.31,Closed,iem
+ad3103c3-bd77-4f61-864d-4db35758dfd6,BQEYZ Spring 2,130.83,115.15,27.06,Closed,iem
+c5f2b1cc-1fdc-42bb-a53b-2aa0fc84f1d1,Brainwavz HM2,124.13,107.73,22.9,Closed,full
+93e673d5-bb85-4904-885f-9e7e040b7831,Brainwavz HM3,116.86,102.13,33.66,Closed,full
+ab91713b-b323-4f4c-83c2-8a1eb9aa868d,Brainwavz S1,128.69,110.95,16.81,Closed,iem
+028f6eed-5016-4b63-a194-326212fdf665,C.E.C. HP-53,114.9,101.64,47.16,Closed,earpad
+1c3246b0-cb0f-4b74-8202-f2c74c18fc3c,Campfire Audio Andromeda,141.54,120.98,8.79,Closed,iem
+685bec78-b7de-4c99-85af-6560ce92a0e4,Campfire Audio Andromeda 2020,143.06,122.47,8.74,Closed,iem
+63735ef0-f9cb-4358-af65-fda804f3dff1,Campfire Audio Andromeda Gold,143.11,119.88,4.75,Closed,iem
+b3a68705-40f7-4e90-b2c8-ae07a0c4569a,Campfire Audio Andromeda Limited Edition,144.47,123.82,8.6,Closed,iem
+60d77531-9dd9-4bbd-bc64-6fffa028d021,Campfire Audio Andromeda S,144.51,123.92,8.74,Closed,iem
+e812b90d-30c6-4484-8846-dbf1764cff3e,Campfire Audio Ara,141.68,118.41,4.71,Closed,iem
+fd52dcd8-7d99-43ab-ae73-9b3de38bc49a,Campfire Audio Atlas,134.85,117.42,18.06,Closed,iem
+4d641e0b-fde8-4431-886b-3eb837e77cbb,Campfire Audio Cascade 2T Dampfer,119.05,105.55,44.69,Closed,full
+f8a1a477-1e64-4752-8230-54ff6f6d1253,Campfire Audio Cascade 3T Dampfer,118.92,105.42,44.69,Closed,full
+04fa13e4-410a-45f8-bfee-6057596ad1ea,Campfire Audio Cascade 4T Dampfer,118.22,104.72,44.69,Closed,full
+eb658ae0-4581-4299-a73a-c8989fd97c93,Campfire Audio Cascade No Dampfer,118.87,105.37,44.69,Closed,full
+74b44d34-d3f6-46b4-b7f7-0e6d92ffcbdd,Campfire Audio Comet,126.4,115.04,73.08,Closed,iem
+fd0dde95-1e65-4bc1-8f21-9bd1a42eda4b,Campfire Audio IO,137.42,120.2,18.97,Closed,iem
+bb96d7ac-9958-4a5c-b386-2646b4fe0463,Campfire Audio Jupiter,138.27,121.92,23.18,Closed,iem
+edb77b54-6f9e-415a-84f6-0cfbcd1f345b,Campfire Audio Orion,137.04,121.18,25.92,Closed,iem
+680008af-a71a-4e34-baba-26d4ecfadcc7,Campfire Audio Polaris,136.19,118.07,15.41,Closed,iem
+1366ce49-bec4-4da9-bc75-81154bb00af2,Campfire Audio Saber,134.36,114.03,9.27,Closed,iem
+b299c1be-a8d3-450e-9b56-8821e41ffad3,Campfire Audio Solaris,144.07,122.39,6.8,Closed,iem
+a2bdb28f-471e-4ee7-9239-919268f99d5a,Campfire Audio Solaris 2020,144.33,122.01,5.86,Closed,iem
+02444cbc-f410-42d9-bef9-73a208c1c62f,Campfire Audio Solaris Limited,144.64,122.28,5.8,Closed,iem
+fc47c8b7-b229-4c10-9bb6-5cae7b4c618b,Cardas EM5813,134.98,119.98,31.67,Closed,iem
+298e96d0-8635-4f94-9caa-2bc5bd8388c5,CCA A10,137.26,121.46,26.35,Closed,iem
+dbed0c4f-fa1f-4054-9633-52264a82e828,Coloud Colors C22M,121.9,107.5,36.28,Closed,earpad
+1aa635ed-de2a-401f-bad5-047bf4020632,Coloud NHL Chicago Blackhawks,122.76,108.26,35.51,Closed,earpad
+8b829ad5-4bc8-4583-ab6c-db491b2377a2,Creative Aurvana Gold,107.75,96.98,83.82,Closed,full
+51b73086-43c1-4ae0-8212-bf6af8356f14,Creative Aurvana In-Ear2,128.44,115.75,53.76,Closed,iem
+9444f2c5-81e5-4ecf-90d4-eae05b9bc5c5,Creative Aurvana Live!2,109.55,94.99,34.99,Closed,full
+4c7d24ef-7330-4a5c-bbfc-0d278836eb57,Creative Aurvana Platinum,107.25,96.93,92.71,Closed,full
+85f892d3-6302-4800-bd6c-29f70f990763,Creative Aurvana Trio,128.82,110.33,14.19,Closed,iem
+adb8e5ff-8530-41af-9e44-1310c832da1e,Creative EP-600,124.46,107.02,18.05,Closed,iem
+5708783a-ff8f-49aa-9359-20d6ae84aea5,Creative EP-630,130.13,112.6,17.67,Closed,iem
+2f9142b3-df95-47b7-b32e-a0dd1b7b3f2e,Creative HS-930 i2,123.81,106.2,17.36,Closed,iem
+5c79f00d-d6f5-4f48-a0b9-45dc71fc38bb,Creative In-Ear 3,133.95,119.82,38.62,Closed,iem
+492a3d78-705b-481f-9622-8f9a8d281370,Creative MA 200,121.34,106.39,32.05,Closed,iem
+d2c646c2-c737-4882-b6e1-ab1423a4ab88,Creative SoundBlaster EVO Zx,115.83,101.11,33.73,Closed,full
+68327723-bb18-4a66-80ce-9bafb8368691,CyberHome KUBT 803,122.6,103.68,12.81,Open,full
+e0c84825-0cd1-4945-9f02-c25d80176ac1,Cyclone PR2,129.21,113.21,25.16,Closed,iem
+d688aa39-3e3c-4fb5-b661-742dd464b1c4,Dali IO-6 Wire,109.26,104.24,314.74,Closed,full
+a71af185-8f53-4209-bb09-98224ee21ac6,Dan Clark Audio Aeon Flow 2 Closed,104.9,86.48,14.38,Closed,full
+3053befa-ea57-42bb-aa3f-857b464703b7,Dan Clark Audio AEON Flow Closed,107.88,89.25,13.73,Closed,full
+20689778-8dda-4b3c-b6a5-12f9fa31c5d4,Dan Clark Audio AEON RT Dekoni Elite Fenestrated,104.45,85.5,12.73,Closed,full
+1af302eb-81c0-4b18-88ff-b62fb89d7f6b,Dan Clark Audio AEON RT Dekoni Elite Hybrid,104.72,85.77,12.73,Closed,full
+c9f446e0-c7dc-4678-a6f0-6570fe3c0bb6,Dan Clark Audio AEON RT Dekoni Elite Sheepskin,107.98,89.03,12.73,Closed,full
+1ab9b3e6-cc8c-45e7-b0e4-5839f6b01b01,Dan Clark Audio AEON RT Mod,107.58,88.63,12.73,Closed,full
+8b7700b2-3eaf-4c4d-ba8d-22b0fe22dfc1,Dan Clark Audio Expanse,98.85,83.01,26.1,Semi-open,full
+41ef8f8b-fbce-44ba-8527-dd29edb7c64c,Denon AH-A100,119.65,104.51,30.6,Closed,full
+40fb25b9-726a-4428-a519-e82d6accf807,Denon AH-C751,125.14,107.81,18.49,Closed,iem
+18169dde-bd84-4bcb-b84c-7f8558d03a7f,Denon AH-D1001,112.86,97.82,31.34,Closed,full
+4c3c1e06-96aa-4197-9915-f327744d9099,Denon AH-D1100,116.4,101.12,29.7,Closed,full
+e60cc879-bafe-4ddf-a890-a3611b1c9af7,Denon AH-D2000,114.27,98.2,24.7,Closed,full
+30b07bf4-6584-4458-bbd7-f36614cfb6af,Denon AH-D2000 Snorry Mod,115.83,99.52,23.35,Closed,full
+3daf55d3-fe72-49c8-9682-d796927d6683,Denon AH-D5000,113.34,97.2,24.34,Closed,full
+1da1a553-2f89-4d9f-88ab-70a98ad7dd13,Denon AH-D5200,117.23,101.35,25.87,Closed,full
+513fdc7f-a130-41f6-bae1-9e676598af01,Denon AH-D7000,115.55,99.56,25.21,Closed,full
+5bd84dce-ec38-442b-935f-8da963c904ed,Denon AH-D7100,111.78,96.52,29.8,Closed,full
+923989f0-5430-4d3d-be39-e52acbbcf2fe,Denon AH-D7200,117.87,102.11,26.53,Closed,full
+2f735f28-e474-4e53-b706-e519a122a103,Denon AH-D9200,119.59,103.37,23.84,Closed,full
+0e8c78ec-7039-4e51-9fbb-23876cc36acb,Denon AH-MM200,124.13,109.94,38.12,Closed,earpad
+7a9c1967-f7db-4344-8964-ac0e7daafa98,Denon AH-MM300,116.69,101.97,33.71,Closed,earpad
+248db892-b4aa-4955-80fb-b1afbb56dbc8,Denon AH-MM400,111.95,97.2,33.45,Closed,full
+f0f8285a-9ff2-4b97-bab0-fd29f8d2c311,Dexp BT212 Wire,118.16,103.76,36.26,Closed,earpad
+b18c17f6-144b-431f-83f0-09811383024d,DITA Audio Dream,124.82,107.28,17.63,Closed,iem
+3c2cc48e-1340-4b19-8aee-19ccf31776ae,DITA Audio The Answer,126.81,108.95,16.37,Closed,iem
+e277eba0-b76e-4db3-bb68-4270ee16035b,DIY COM3,105.14,90.3,32.78,Closed,full
+c4037270-3ff2-468d-a67d-cdc08f3b750b,DIY Jade 3 Off-Off,128.77,111.36,18.14,Closed,iem
+af6997c6-32de-43d5-ae2f-c7a784630652,DIY Jade 3 Off-On,131.44,113.51,16.09,Closed,iem
+e95fc7a8-b221-4e2f-ac7d-5f27da47f1cd,DIY Jade 3 On-Off,130.17,112.52,17.16,Closed,iem
+e6a76d71-fef7-44a8-98d2-d0976dc8a741,DIY Jade 3 On-On,131.91,113.83,15.55,Closed,iem
+9f5b6450-73cd-4c74-8787-1535e8089cc5,DIY MDR-XB950AP-Beyerdynamic DT250,106.63,100.8,261.54,Closed,full
+fac3f6ca-6ef8-492d-9c31-14c4b8bf8353,Dope Audio Acid,119.27,102.52,21.13,Open,iem
+ef1de7d4-61d0-4c40-b498-866d9b1c1597,Dope Audio Lucid,116.99,100.11,20.56,Closed,iem
+de8b58d2-d050-4ba7-994b-530be8e144bd,Dope Audio Pure,117.14,100.2,20.21,Closed,iem
+1b351614-c6f1-45a8-8403-97c2ac433dac,Dunu Crius (DN13),128.66,117.32,73.55,Closed,iem
+4a6b7682-7e3d-440f-b6fd-282466cc7e05,Dunu DK-2001,134.66,115.47,12.06,Closed,iem
+51676397-6a0d-49a8-845f-131ef1b3bd54,Dunu DK-3001,134.39,115.34,12.43,Closed,iem
+55ebe0c0-c7b0-408a-a409-d4776e79f7be,Dunu DK-3001 Pro,133.75,117.02,21.22,Closed,iem
+981973b9-5c8d-4399-a12e-77322bcdab73,Dunu DK-4001,131.22,115.63,27.59,Closed,iem
+4bd107bb-01a1-4f36-9274-87ade28ea99e,Dunu DM-480,126.98,109.66,18.56,Closed,iem
+e296fb2c-4380-4c1c-9ca5-23839e57e7e5,Dunu DN-1000,124.93,104.14,8.35,Closed,iem
+a4dccab9-3133-42c2-b1ba-027bfefddb97,Dunu DN-12,121.08,103.27,16.54,Closed,iem
+67532d41-6024-46cf-82ca-c7b94dbc961d,Dunu DN-2000,132.85,114.33,14.07,Closed,iem
+25f8594a-e7ef-4392-bc18-3da18d3864e5,Dunu DN-2002,133.46,111.21,5.95,Closed,iem
+97c48acb-6015-4308-8dfe-c5e0baa5984d,Dunu DN-26M,132.34,114.86,17.88,Closed,iem
+7375ba38-2e7b-4bd8-a3a9-0fb8d208ee6e,Dunu DN-900,130.99,112.51,14.19,Closed,iem
+1377d37a-9b2e-45f5-a337-f0587df632ad,Dunu Falcon-C,129.54,111.6,16.06,Closed,iem
+467301ad-ba88-4244-9f32-7475c20e06cf,Dunu Hephaes (DN-16),128.46,110.85,17.32,Closed,iem
+c3a51dd3-3cc5-406a-913e-54cda5038443,Dunu Landmine (DN-23),132.0,114.24,16.76,Closed,iem
+84ab7154-e76e-4187-842f-5884bb4335da,Dunu Titan 1es,122.87,105.31,17.53,Closed,iem
+dbfd0ae8-fccd-46a2-b2b5-912c546fa70b,Dunu Titan 3,130.59,112.8,16.63,Closed,iem
+77945786-ae37-4add-a061-1e24c4e0a133,Dunu Titan 5,128.24,113.42,32.96,Closed,iem
+49e8bc50-9829-49a4-8f2e-274b4b159c5d,Dunu Titan 6,132.88,115.12,16.77,Closed,iem
+3e879e35-ee76-48e7-9af0-d19959ed4df3,Earsonics ES3,129.96,111.26,13.5,Closed,iem
+b0f72dea-8ad2-4841-b227-13afc87a59bd,Earsonics S-EM6 V2,127.29,106.88,9.12,Closed,iem
+d4ef7bae-9599-40c5-b115-8c82d7f3621c,Earsonics SM3v2,131.09,117.67,45.45,Closed,iem
+0bb6993f-0a57-48e6-b5d0-862d9ca2d63e,Earsonics SM64,122.11,109.35,53.08,Closed,iem
+0f217d5f-0962-4e89-8b75-9febcbd772ce,Earsonics Velvet 0,127.49,109.25,15.01,Closed,iem
+2f5d678d-a74b-47a4-b2fb-8d19b4afa27e,Earsonics Velvet 100,125.64,109.19,22.65,Closed,iem
+a7102c92-cc30-49bc-9ec8-ed8dea7b437b,Earsonics Velvet 50,125.81,108.63,19.11,Closed,iem
+717c33fa-fe01-4c10-9efe-ed556254ba1f,Echo TDS 16,107.49,89.67,16.5,Semi-open,earpad
+7f00a76a-dd15-4ae6-b331-c214e7bd1656,EDO Flat,102.97,88.85,38.65,Open,full
+23992f4f-2840-482b-9813-a7a2e7a69d63,EDO Harman,104.79,91.26,44.31,Open,full
+5892d08c-ecff-47d6-9b5f-810e653b2f38,Elecom EHP CL430,117.69,103.87,41.46,Closed,full
+786bd4f6-616d-473e-bf45-b0e146ca8922,Elecom EHP-BS100,128.91,117.14,66.46,Closed,iem
+fab72b79-f9d9-4405-a370-5f7ea4ee3efb,Electronica TDS-3,112.93,94.19,13.37,Closed,full
+a9c8e4e8-9803-446f-b155-9ffbdf364329,Electronica TDS-5m Cushions of Technics RP-DJ1210,102.09,91.07,79.17,Semi-open,full
+d74c763c-ba0b-4425-9e21-7201c79b3e14,Electronica TDS-5m Original cushions,100.41,89.39,79.17,Semi-open,earpad
+7a54bed9-084d-40b9-8459-702e75659650,Empire Ears ESR MKll,137.71,115.2,5.62,Closed,iem
+8b106ba5-8427-44f3-bf72-6a649f31946b,Empire Ears Hero,132.95,113.44,11.2,Closed,iem
+dc7e59dd-c323-4074-98a1-72b9aec91baa,Empire Ears Legend Evo,133.0,109.97,4.98,Closed,iem
+49511011-10fc-48dd-8954-bf848c81e9e9,Empire Ears Legend X,128.23,109.52,13.45,Closed,iem
+363fc80c-12a8-4c08-b66a-7556f52994d7,Empire Ears Odin,135.44,110.2,2.99,Closed,iem
+5f2b8853-0e05-4e8c-8a24-d0b755f2cedb,Empire Ears Valkyrie MKll,129.01,106.04,5.05,Closed,iem
+602945db-b8fe-4818-82e4-6faec2d1f689,Enigma Acoustics & Lotoo Dharma D200,125.01,109.81,30.24,Closed,iem
+56113ab8-2611-42f7-ae42-b1c8c680cc9e,Erzetich Mania,108.98,98.08,81.21,Open,full
+430e4753-0d0f-4634-8041-4c9cd4ee1bcb,Erzetich Phobos Default,112.08,98.73,46.21,Open,full
+f88afce5-4ec7-4391-9afd-c84bdd0a333a,Erzetich Phobos Gap Sealed,112.41,99.06,46.21,Open,full
+2f1be2bb-2a06-4014-abe8-61dbf3dea89f,Etymotic ER-4PT 1x pads,124.25,109.66,34.8,Closed,iem
+4720e12e-769c-4c74-8f31-6ad5b455b55a,Etymotic ER-4PT 2x pads,126.82,112.24,34.8,Closed,iem
+fdf6e321-945b-46d4-945d-48e07e635358,Etymotic ER-4PT 3x pads,127.84,113.25,34.8,Closed,iem
+4e3eafea-ff8e-4b9b-ba79-1b5df2f2c5cf,Etymotic ER-4PT Cable 47 ohm,121.79,109.17,54.73,Closed,iem
+45263da1-9243-4684-9580-69a12dc1be63,Etymotic ER-4S 1x pads,118.77,109.09,107.76,Closed,iem
+3249e4d7-2636-4c75-8d51-afd74b712bbc,Etymotic ER-4S 3x pads,120.28,110.6,107.76,Closed,iem
+5984b428-0872-4393-a5ef-a0b026684e00,Etymotic ER2XR,123.13,105.05,15.56,Closed,iem
+c406c85c-af89-47c4-a4a9-0b9b4a6f2a41,Etymotic HD5,107.16,100.24,203.21,Closed,iem
+477ed4c3-5b5e-4e7d-8fd0-e0e935fa15d8,Etymotic mc3,125.97,108.09,16.29,Closed,iem
+b29ba644-9da4-4371-96ed-9e14667dab29,Fearless Audio ACME Classic,132.54,114.79,16.78,Closed,iem
+5c9a0a47-2c4a-434b-ad70-f44f4cef163f,Fearless Audio ACME8,135.41,116.28,12.22,Closed,iem
+39bcbb2f-88d7-4a97-93eb-526f5873f576,Fearless Audio HyperS12,133.51,114.96,13.96,Closed,iem
+75e8aa7d-ba4a-48be-985f-60855fb813be,Fearless Audio S10 Genie,134.79,116.3,14.16,Closed,iem
+1a080404-5bfc-41d2-b583-c6982e3cf14b,Fearless Audio S4,139.57,121.48,15.51,Closed,iem
+502f7b5a-179e-4367-bde4-546683a0a0cc,Fearless Audio S5 HiFi,138.26,119.0,11.85,Closed,iem
+f99a0d73-fb4e-4167-8cea-d4b0e3ff9fac,Fearless Audio S5 Turbo,134.74,118.63,24.45,Closed,iem
+27e46a78-f9c9-4236-b3de-1674f0b0e9ae,Fearless Audio S6P,137.45,120.98,22.57,Closed,iem
+e6ed4629-98bf-498a-bb7b-9ebcc68069a7,Fearless Audio S6R,141.67,121.73,10.13,Closed,iem
+95074b9d-21be-4045-9ecf-882529d29cc6,Fearless Audio S8F Freedom,141.34,120.77,8.77,Closed,iem
+88eae890-b260-411e-b792-3f83218537b5,Fearless Audio S8P,141.57,121.39,9.6,Closed,iem
+3d75e052-3041-4458-9b3c-5e890d39ec10,Fearless Audio S8Z,137.23,118.24,12.61,Closed,iem
+214abee1-2d27-44cc-9b1c-f8ed134b92da,Fearless Audio Y2K-G10,135.42,118.39,19.81,Closed,iem
+88870691-f501-4599-a08a-c354c06ae040,Felix Audio Headphones,120.08,102.57,17.74,Open,full
+6902b1c9-7580-4b54-a7ba-d77dc16ce398,Ferrari Cavallino T350,101.78,91.8,100.37,Closed,full
+9df9c518-65d1-4cec-af20-06c19af7bffb,Ferrari r100i,128.79,111.06,16.87,Closed,iem
+2a70defd-cc47-4281-8ed0-27474088f179,Fidue A31s,129.42,112.72,21.35,Closed,iem
+62ee9a02-9972-426a-9b45-2d1df8335304,Fidue A83,133.69,113.77,10.17,Closed,iem
+48f39cd0-dd6a-477e-af13-913c694c4e4a,FIIL IICON,117.94,103.0,32.1,Closed,full
+39085a02-ee5b-4ed1-bb03-afddf2d18e82,FiiO F1,130.37,112.12,14.98,Closed,iem
+60fa73bc-9c74-430b-870e-cc6ccb8723d0,FiiO F3,128.5,114.24,37.5,Closed,iem
+fc816d22-545f-4a1e-ad9b-5bee37e349dc,FiiO F5 Wired Connection,124.72,109.76,31.92,Closed,iem
+281db313-0cdf-4a08-801f-c1f5f8c35425,FiiO F9,126.94,110.54,22.92,Closed,iem
+b2711734-02dd-4a4e-b158-3b8df9242ae2,FiiO F9 PRO,127.24,110.79,22.67,Closed,iem
+8ad266f8-b683-4d79-9a99-9111cc8ec2ea,FiiO FA7,133.25,116.82,22.78,Closed,iem
+42cdf929-1540-4406-a99e-f7a4ecda329e,FiiO FD5,132.25,117.47,33.33,Closed,iem
+6027e40d-a6f6-412c-a5c6-a87f78ccc27f,FiiO FH1s,126.96,110.9,24.75,Closed,iem
+a7b9f5b8-59fe-47a9-984f-430079534117,FiiO FH5,136.34,118.13,15.11,Closed,iem
+e4337f2e-b007-485b-b71d-40923e808690,FiiO FH9,131.78,114.26,17.7,Closed,iem
+d9e9ea40-bca2-4d3e-97fd-7ec96f60e6fc,Final Audio Design Adagio III,126.79,109.32,17.92,Closed,iem
+5fa53aae-9919-4d75-96f4-e47e2e0a4608,Final Audio Design Adagio V,125.95,108.36,17.42,Closed,iem
+04015b5a-d16a-4121-9034-8364af7c0a1b,Final Audio Design F4100 Deep,126.73,114.87,65.19,Closed,iem
+ba9e38d0-afde-46c3-83b7-4e2869f67a8a,Final Audio Design F4100 Deep Foam,127.64,115.78,65.19,Closed,iem
+df000937-1e7b-4cf3-8c28-11d94278c450,Final Audio Design F4100 Default,124.87,113.01,65.19,Closed,iem
+2163a89f-ed44-4fd4-bb43-a20501ad3c4b,Final Audio Design Heaven IV,134.07,115.5,13.91,Closed,iem
+259fd421-14d0-41bc-96cf-5563c5c1bd4f,Final Audio Design Heaven S,134.63,116.14,14.16,Closed,iem
+94c2781a-51e0-45f4-9899-7933b2cd9b24,Final Audio Design MURAMASA VIII,114.48,95.08,11.48,Closed,full
+ef25498e-543a-47bf-b1af-54f52d08d48e,Final Audio Design Piano Forte IX,127.9,110.58,18.52,Closed,iem
+d4852e4a-292d-403b-89a3-8a16406292e4,Final Audio Design Piano Forte VIII,128.61,111.24,18.34,Closed,iem
+3c5cb221-08d7-44f1-bafb-7987535f9439,Final Audio Design Piano Forte X,130.0,112.74,18.77,Closed,iem
+6f063f82-c5f2-4157-bb8e-4327fd1d8cd9,Fischer Audio Bellicoso,125.46,107.56,16.23,Closed,iem
+2f4e149e-c01d-4501-a0d4-e26132aabd30,Fischer Audio Bullets 6mm,126.33,108.57,16.77,Closed,iem
+2d1b047a-5e39-414e-b7bf-b65bd5201933,Fischer Audio Coda,117.56,103.5,39.2,Closed,full
+106d7ec4-986d-4091-b02f-2f3cb66d596e,Fischer Audio Con Brio,121.53,107.51,39.69,Closed,earpad
+0be52dd4-7005-459b-a1ef-6501f907c063,Fischer Audio Con Fuoco,118.78,105.1,42.91,Closed,earpad
+d2770f8f-1cfb-4f98-b703-3e3e09ebfa2b,Fischer Audio Con Moto,116.45,102.27,38.19,Closed,earpad
+923ce72e-b757-4983-abc7-c69f621aca7e,Fischer Audio Consonance,131.12,113.76,18.37,Closed,iem
+2fa890e9-c4c5-4f88-afbd-5df728f30a14,Fischer Audio Consonance Mini,126.48,109.26,18.96,Closed,iem
+7e31918e-f7ee-4488-b891-fee146d19a97,Fischer Audio Consonance v.2,126.79,108.85,16.07,Closed,iem
+6b60cab8-1a3a-415f-950a-5fdcd7b0af58,Fischer Audio DBA-02,126.33,112.04,37.19,Closed,iem
+8aa4da7e-0f20-490d-a64e-ec8a4d12c06b,Fischer Audio Dubliz,122.87,107.49,28.99,Closed,iem
+c288bd7a-8c82-4c24-9851-46375966e83a,Fischer Audio Epsilon,130.6,113.33,18.76,Closed,iem
+b83698ab-dae7-4a4e-bd4d-df10f0f43192,Fischer Audio Equilibrium V2,120.81,102.42,14.47,Closed,iem
+a69b11f0-7dff-4ef9-b8c9-9ec748497a24,Fischer Audio Eterna v2,130.84,113.9,20.23,Closed,iem
+d9793ef5-ad4d-49ec-ace2-df9cdd995730,Fischer Audio FA-002,117.37,105.9,71.24,Open,full
+e00bf87c-245b-41f4-85be-67a986d26583,Fischer Audio FA-002w Amphitheater 3x,116.55,105.08,71.39,Closed,full
+6b130255-b802-4a66-938c-588b75b53781,Fischer Audio FA-003,114.41,102.92,70.94,Closed,full
+d67ab3f8-cc14-43d0-84a2-b753a8460b6e,Fischer Audio FA-003 Ti Kennerton Cup,117.44,105.88,69.85,Closed,full
+b6608658-b92e-40fd-b377-44b14deb874f,Fischer Audio FA-004,114.33,99.41,32.18,Closed,full
+56e7ddba-5df5-48e8-acd4-8bb11a63b66d,Fischer Audio FA-005 Fubric Cushions,120.15,104.54,27.49,Closed,full
+a69feab0-5ade-457c-b89d-17427482c08b,Fischer Audio FA-005 Leather cushions,120.8,105.19,27.49,Closed,full
+76bbb33a-f6ad-4388-aa96-8b31a4126ca7,Fischer Audio FA-006,117.45,106.6,82.21,Closed,full
+1ac0d299-66fd-4dea-a081-13e587a53f97,Fischer Audio FA-010 0,118.93,104.46,35.71,Closed,full
+9436ac22-32d0-4128-8796-1b6832bb336b,Fischer Audio FA-010 1,119.72,105.25,35.71,Closed,full
+fe8725a3-dc48-4a11-b5c1-ef92f304c6a3,Fischer Audio FA-010 2,118.63,104.16,35.71,Closed,full
+cc3fc01b-1c3d-44ac-9fbe-4911475e92fd,Fischer Audio FA-011,105.69,96.59,123.31,Open,full
+00e28ae2-ad85-4efa-8723-ed4e2484968f,Fischer Audio FA-768,123.11,105.2,16.19,Closed,iem
+ff925aae-04b1-4d38-8fbe-14f928fb1e70,Fischer Audio FA-968 Soul,132.34,117.33,31.6,Closed,iem
+17fd57fc-ba86-46be-a641-a4bce2ac59e4,Fischer Audio FA-977 Jazz,132.08,114.84,18.89,Closed,iem
+8dc4134f-9a4c-4d18-8c4e-4eccbdf22df3,Fischer Audio FE-201RC Wow,124.85,107.06,16.61,Closed,iem
+42c9037b-6fac-4d13-b596-b8812d39279a,Fischer Audio FE-211 Blue Ribbon,125.17,107.58,17.39,Closed,iem
+b3e18526-350c-468a-b0b4-50f3eb239a57,Fischer Audio FE-301 Omega Ace,131.35,113.88,17.91,Closed,iem
+734d12cd-4850-46ff-a207-f7dc1911609b,Fischer Audio FE-351 Omega Twin,130.12,109.87,9.44,Closed,earpad
+369c9e1d-6bd0-4fca-80a5-900e444be040,Fischer Audio FE-501 Dubliz Gunmetal,126.32,111.25,31.14,Closed,iem
+5c5651ee-db1b-4516-941f-1407cde01115,Fischer Audio FE-511 Dubliz Enchanced,125.61,110.62,31.72,Closed,iem
+9390871c-b106-4d62-8a41-925636b354bc,Fischer Audio Hyperion,113.09,98.93,38.39,Semi-open,full
+8c8aae45-5c63-47d7-9b96-f27e1f74713c,Fischer Audio iCon,127.37,112.28,30.93,Closed,iem
+4018b11f-1478-4dc0-a777-d5cb653be7e2,Fischer Audio Inspiration,120.97,106.34,34.44,Closed,earpad
+32f9d175-5b2e-4c8a-bb67-b69bdd1b46f4,Fischer Audio Jubilate 64 Fabric cushions,116.12,105.14,79.81,Closed,full
+6a96cd93-985a-4bb6-a25d-2e54a6cc9e90,Fischer Audio Jubilate 64 Leather cushions,116.68,105.7,79.81,Closed,full
+61638f70-ae39-4df1-8957-d4d0b3ad218c,Fischer Audio Leggiero,129.76,111.92,16.43,Closed,iem
+9500a001-15ae-4091-8167-9d40770656b0,Fischer Audio Lyra,119.15,104.49,34.24,Closed,earpad
+43de2feb-fd3e-49e4-9660-95a65bf55605,Fischer Audio M12s,112.2,97.34,32.7,Open,full
+e5ff589f-1f22-4bf5-8448-3bd75cdd3f67,Fischer Audio M12s V2,114.56,99.57,31.71,Closed,full
+11eaf60f-2b34-4eb0-af3d-34ca8dbeb0c6,Fischer Audio Oberon,114.16,100.39,42.0,Closed,full
+9fe5bba4-0a51-44c3-90e6-6dac29b5e915,Fischer Audio Oldskool 33 1/3,118.3,109.02,117.96,Closed,earpad
+b0cdee51-9dc1-4ce1-b76f-ebff363437b8,Fischer Audio Oldskool 70,120.02,105.75,37.41,Open,earpad
+c04ae559-5a38-46e5-9592-f5e789314305,Fischer Audio Oso,124.23,106.47,16.77,Closed,iem
+5fb03130-6e3f-4148-9e0c-bf4ccabf720b,Fischer Audio Paradigm v.2,125.68,107.8,16.3,Closed,iem
+1d3a741a-76ac-42cb-9ae4-167266c1330b,Fischer Audio Saturn,120.47,107.01,45.08,Closed,full
+b4e0988a-89f5-45dc-b4de-51244b040641,Fischer Audio SBA-03,132.04,118.4,43.22,Closed,iem
+95a353ca-56a5-49e2-ba85-f649fa077095,Fischer Audio SBA-03 (refreshed),133.45,120.05,45.78,Closed,iem
+1deea6f7-fb6e-4c9f-b9f0-0bb0d3a2786d,Fischer Audio Spiritoso,127.34,109.77,17.5,Closed,iem
+9290ce45-0472-4d69-8a0a-bc2241330ff1,Fischer Audio Titan,115.53,104.04,71.0,Open,full
+71cf60df-c2ea-437f-ab12-ca7eb53b51d7,Fischer Audio TS-9002,128.56,110.35,15.12,Closed,iem
+c86ef144-6261-43a7-98a4-6821d1f3d2bb,Fischer Audio TS-9005,122.24,104.18,15.62,Closed,iem
+fce2079e-d9ca-4c64-85a9-c11882f796c4,Fischer Audio Wasp,127.0,109.28,16.9,Closed,iem
+82c61bf4-9ea8-45c5-b687-74dcbba98993,Fischer Audio Winzig,126.5,109.31,19.12,Closed,iem
+db5d86b4-0660-425f-b804-d922d0f9d2c9,Fischer Audio X-02,123.02,109.64,45.96,Closed,full
+b59ae08f-3094-4c65-8dcc-9bebdc802231,Fischer Audio X01,124.83,111.17,43.07,Closed,earpad
+19ed5d0b-76e2-4b03-a005-56a4acaf9ac0,FitEar 334,137.03,121.89,30.62,Closed,iem
+9f02fb4c-e377-4e63-8964-7ddb812a0ee7,FitEar 335 DW,135.3,121.79,44.54,Closed,iem
+fec6de5c-fd36-4042-b31a-677c467222d0,Flares Gold Cone Tips,120.43,102.83,17.39,Semi-open,iem
+1f1e4672-fdd7-4e70-80c2-1adbe849a79c,Flares Gold Ordinary Tips,121.19,103.59,17.39,Semi-open,iem
+84e4d645-28ff-45f8-9318-b6ea1759fa52,FLC 8d Black,132.19,113.38,13.15,Closed,iem
+b158445e-30c2-4d62-b60b-7a8d05507293,FLC 8d Blue,129.36,110.55,13.15,Closed,iem
+ee31ec35-89d7-4d05-b7c7-c16b6e6312b4,FLC 8d Gold,132.49,113.68,13.15,Closed,iem
+e2af1126-08bc-44c5-83f7-6a785258bdca,FLC 8D Gold filter,133.32,113.79,11.15,Closed,iem
+3891bd4f-bfea-4dc0-a531-39daa6069d54,FLC 8d Green,132.37,113.56,13.15,Closed,iem
+d802d3ca-3102-4420-a5a8-14709171ba1a,FLC 8N Black Black Clear,130.87,111.61,11.87,Closed,iem
+936f4c13-5145-4cd2-a014-7786ac81cc71,FLC 8N Black Black Red,131.64,112.39,11.87,Closed,iem
+86263a40-a279-4f94-8f91-8613a6693cd5,FLC 8N Black Clear-Gray,129.83,110.58,11.87,Closed,iem
+0f4d37df-5862-44ce-890c-e1bdbf6c4f5f,FLC 8N Black Gray Gray,130.61,111.35,11.87,Closed,iem
+39637a2c-581b-4acc-89ac-e5cbe680e151,FLC 8N Blue Gray Gray,129.23,109.97,11.87,Closed,iem
+3d6f5237-5f17-4d42-9505-3aabc7412617,FLC 8N Gold Gray Gray,131.07,111.82,11.87,Closed,iem
+92eb025a-9005-49af-83ed-d87027189024,FLC 8N Green Gray Gray,131.54,112.29,11.87,Closed,iem
+55224a2a-b10b-4e5d-8b67-95a93c2e68b5,FLC 8P,131.44,111.7,10.62,Closed,iem
+bfa6a487-d946-49bc-8f68-170860df6a98,FLC 8S Black Black Clear,131.01,111.71,11.75,Closed,iem
+6cba0f47-3202-4635-a334-cbd83b361f8c,FLC 8S Black Black Gray,131.67,112.37,11.75,Closed,iem
+0f32e732-cf02-4302-aa3e-1297582f3f6b,FLC 8S Black Black Red,130.89,111.59,11.75,Closed,iem
+4f034974-217e-47cc-b133-5325dd39323c,FLC 8S Black Clear Gray,131.24,111.94,11.75,Closed,iem
+57331112-2d03-4f18-b708-5292208998db,FLC 8S Black Gray Gray,130.21,110.91,11.75,Closed,iem
+3476edac-e2a5-43c6-8416-6260cc11f60c,FLC 8S Blue Gray Gray,127.76,108.46,11.75,Closed,iem
+32e8d2b1-55e9-4972-8817-e1c5c963e890,FLC 8S Gold Gray Gray,129.62,110.32,11.75,Closed,iem
+379dbd0b-3fc0-42e5-9bec-5fcde8c89c77,FLC 8S Green Gray Gray,130.13,110.83,11.75,Closed,iem
+8fc895d3-b0e7-49d8-b8e9-3c2537868e42,Fluid Audio Focus,119.22,104.32,32.38,Closed,full
+642407b5-da6a-4a21-af69-bbb5ed81948c,Focal Clear,110.55,100.12,90.6,Open,full
+c90834ef-1d06-44d2-b8e3-5ff1bc56b11b,Focal Elear,113.57,104.17,115.0,Open,full
+ae272376-2de7-4a52-82bc-9a4bcd7aa1b6,Focal Elegia,117.29,100.25,19.77,Closed,full
+4600c877-e712-48be-a8f1-3f4c4af1acb3,Focal Listen,118.86,103.42,28.59,Closed,full
+527e4560-15fc-44e7-93b4-e43f7cb9097a,Focal Sphear,126.11,108.46,17.2,Closed,iem
+179c4c63-0866-4889-8477-2fe71e64f583,Focal Spirit One,127.95,113.47,35.6,Closed,full
+36cdde63-c559-418d-8863-17eb13f2f4a7,Focal Spirit Professional,115.64,100.83,33.08,Closed,full
+e4643aa9-9339-45a1-a257-1e0a7e9ddaaf,Focal Stellia,117.99,103.85,38.53,Closed,full
+240512c6-215c-47a7-bc2d-e790bf745230,Focal Utopia,113.6,104.57,124.94,Open,full
+d8c89c14-3877-498d-a342-46f42ffd6061,Fonge S500,123.18,107.24,25.43,Closed,iem
+d64db980-3554-476e-8b7a-ebe0ed34ad82,Fostex T20 (Vintage),93.89,81.36,55.86,Semi-open,earpad
+0ea25171-f51c-4bbb-8df6-56e3e46effc8,Fostex T20RP MK3,105.62,93.12,56.16,Open,full
+040649a5-cad4-4e58-a705-4d93bfbecb48,Fostex T20RP mkII,107.21,94.65,55.49,Semi-open,full
+88440b63-05b6-4655-80cc-1c2a1e9bde54,Fostex T40RP MK3,107.81,94.87,50.83,Closed,full
+2f02b69c-8215-4715-9979-d31ded4846c3,Fostex T40RP mkII,107.32,94.58,53.3,Closed,full
+163d3ddd-8464-4ce8-baf0-6acc7c029339,Fostex T40RP mkII mod,105.11,92.03,49.14,Semi-open,full
+712e1df4-ae18-4837-868e-674c12a436e9,Fostex T5,112.03,98.81,47.64,Closed,earpad
+d722cbbc-1aa7-4453-a858-7cd31a950067,Fostex T50RP Audeze cushions,98.43,85.71,53.42,Closed,full
+93fe810e-99de-42fa-bc9a-d69394c792a7,Fostex T50RP MK3,101.99,89.29,53.64,Semi-open,full
+f8252126-c023-4ce4-afaa-6793680599e4,Fostex T50RP mod,97.79,84.93,51.71,Closed,full
+403e9857-6590-487d-b612-401ed8bf80a7,Fostex T50RP Original,107.02,94.28,53.21,Semi-open,full
+9b7c2368-f32e-404b-b2f7-4f1773a69d81,Fostex T60RP,104.42,91.54,51.45,Semi-open,full
+f9e8a9c1-7ed9-429c-bf79-4c0059f09539,Fostex T7,114.24,103.58,85.86,Closed,earpad
+8c7745c0-db91-4ce6-884a-d7d81c560bbb,Fostex TE-02n,123.62,109.7,40.56,Closed,iem
+24eecd04-a387-47ef-81e9-d2c07a0c29f8,Fostex TH 900,111.9,96.15,26.61,Closed,full
+7c48c962-6a1c-4861-b7cc-2e4faabbf489,Fostex TH-900 MK2 AT Pads,118.49,102.45,24.91,Closed,full
+6d2f00df-c343-48bc-8d68-3eb5de99663c,Fostex TH-900 MK2 Default Pads,116.56,100.52,24.91,Closed,full
+b4ba4ac5-a216-4faf-b866-69a35ff9ddcc,Fostex TH-900 MK2 Sapphire Blue,118.37,102.5,25.84,Closed,full
+b4da276f-51d3-404d-955d-788cfc4db8dd,Fostex TH-X00,116.0,99.87,24.39,Closed,full
+0589c418-b24f-436a-8ede-85baf388a837,Fostex TH610 Natural pressure,117.81,101.58,23.84,Closed,full
+57f92b8b-e28e-4329-b35d-3130653a356c,Fostex TH610 Tight pressure,118.32,102.09,23.84,Closed,full
+f302c19b-9d5c-4a73-b602-a56d41480665,Fostex TH909,118.47,102.46,25.04,Open,full
+204f4d8e-d819-4803-afb9-27b1e7b3b5fa,Fostex TM2 Wire connection,126.34,108.48,16.39,Closed,iem
+f5c014b5-6c21-48c0-b1af-68f2d2534dac,Fostex TR-70,108.75,103.29,284.56,Open,full
+02970e01-e88c-4ac6-ab1e-e46e9ded3bf8,GAL MP10,132.6,117.57,31.39,Closed,iem
+37593ad3-8798-465d-a3b8-dde374d92c8b,Gerkules HDP DJ-Adv G501,111.78,97.33,35.89,Closed,full
+6e398bcf-53b3-426b-a0e0-e0e5dc26920a,Gerkules HDP DJ-M40.1,113.28,98.99,37.24,Closed,full
+9dc11284-3b14-4d7b-9ba4-c4582946e698,Gerkules HDP DJ-PRO M1001,111.21,96.73,35.62,Closed,full
+e476fbbe-4b5f-4070-af95-c3be5996fca1,German Maestro GMP 240,102.74,92.94,104.53,Open,full
+b469a46a-ac3a-40c4-9aab-d0467a19829e,German Maestro GMP 250,103.21,93.57,108.61,Closed,full
+26978f89-340d-4ed6-b138-7c986aa7286a,German Maestro GMP 400,103.55,98.22,293.36,Open,full
+e350b7c3-b5c9-4e47-8c09-aadb4202ac62,German Maestro GMP 450 pro,106.25,100.98,297.2,Closed,full
+8eb33250-76cc-40de-8e17-02ef805496d8,German Maestro GMP 8.300 D,105.09,99.91,303.58,Closed,full
+eec541a1-90ea-4db8-a2ad-487a7b1e7d74,German Maestro GMP 8.35 D,119.27,106.12,48.44,Closed,full
+b0d188a9-1827-4c33-bdd6-97acd833aa0b,Gold Planar GL20 Closed,118.87,101.77,19.53,Closed,iem
+3fee59dd-385f-4894-8071-ada14506b491,Gold Planar GL20 Open,122.6,105.5,19.53,Open,iem
+474ca55b-40c0-49bc-a5db-7616d922eec3,Grado eGrado,117.79,103.75,39.51,Open,earpad
+f18a5249-f41c-4432-9276-c6fb1505fc4d,Grado GH3 Limited Edition,117.05,104.18,51.63,Open,earpad
+ea359c41-be46-4fc5-9cf8-8e1c923657cf,Grado GH4 Limited Edition,118.51,105.92,55.14,Open,earpad
+e2171353-f9d6-4fcb-bc3f-62034e0f4a08,Grado GR 10,132.78,118.38,36.37,Closed,iem
+e84551af-7fa4-455a-8475-aa2565d4da7b,Grado GR 10e,130.11,115.74,36.62,Closed,iem
+47551acc-a1fc-46f5-bc25-1180ab508597,Grado GR 8,127.31,118.24,123.92,Closed,iem
+5c205844-033c-4190-b1f7-b64faf628ebd,Grado GR8e,132.28,117.77,35.39,Closed,iem
+183ebe2b-65d5-461a-aed3-97dfaab49ca3,Grado GS 1000e,110.76,96.35,36.22,Open,full
+c47e3677-5866-44ce-b5ee-30d1ded0aed5,Grado GS 2000e,115.52,102.57,50.75,Open,full
+0e0eb611-2a8b-4258-91b0-f1f74803995b,Grado GS 3000e,114.13,100.88,47.31,Open,full
+85c06685-f33b-4c8c-a7ea-8aa5cee19f1a,Grado GS1000i,107.3,92.97,36.84,Open,full
+7c658719-adfb-4922-81a2-0d3e25c2573f,Grado GW100 Wireless Wire connection,116.81,102.88,40.46,Open,earpad
+c55d6a2f-ed6e-4852-bd3e-a4fd5821a9d3,Grado iGe,130.11,114.36,26.64,Closed,iem
+23d745cc-d985-46d5-8c4d-c133e54be878,Grado iGi,130.66,114.78,25.86,Closed,iem
+56692098-d163-4213-8a49-be993e1b8b15,Grado iGrado,111.71,97.07,34.34,Open,earpad
+ac9cf681-8059-402e-9929-88737a939bd9,Grado PS 1000,108.74,94.16,34.84,Open,full
+c8fa6f80-5e7e-4b36-910b-6c9b55b34e34,Grado PS 1000e,119.26,104.83,36.06,Open,full
+5192236d-1ea8-4d40-bd55-4d3b485214d1,Grado PS 2000e,114.33,100.88,45.13,Open,full
+a7f4da2d-a562-4594-a441-0f3ad19b6a03,Grado PS 500,112.97,98.4,34.91,Open,earpad
+abed8ed0-d2c8-4178-8859-f70a65bfeb34,Grado PS 500e,121.03,106.95,39.11,Open,earpad
+0b0198c2-d20b-40b8-8fa0-474d5219527e,Grado RS 1e,116.76,102.32,36.01,Open,earpad
+204fa811-a536-42a3-ae8a-8c9b491e7ef1,Grado RS 2e,117.27,102.9,36.57,Open,earpad
+8126eea3-6561-474c-9088-307af101014d,Grado RS1,111.33,96.63,33.93,Open,earpad
+fbc46083-e296-47f6-b31f-fbc4ba2f9664,Grado RS2,110.86,96.21,34.32,Open,earpad
+fc7147d3-2361-49c3-982e-5885fc3cf1a8,Grado SR 125e,117.23,102.71,35.25,Open,earpad
+b2265490-186a-4ec0-9198-99c6841ce86d,Grado SR 125i,110.14,95.4,33.52,Open,earpad
+8ecbd83e-e066-4d0e-8f3a-9399c67e45eb,Grado SR 225e,117.22,102.94,37.26,Open,earpad
+37122a92-18d1-4857-936c-9f947f53ac14,Grado SR 225i,111.33,96.61,33.74,Open,earpad
+beb057a7-826e-459e-9cc3-da3f79875bc2,Grado SR 325e,122.78,108.4,36.47,Open,earpad
+6fe80d8f-33c1-405f-bca9-36cc76dc7c06,Grado SR 325i,117.9,103.24,34.25,Open,earpad
+485991a8-f8c1-486b-9918-95e9db51c183,Grado SR 325i G-Cush,112.53,97.88,34.25,Open,earpad
+08b81768-630c-46e5-a931-1d11edddef48,Grado SR 325i L-Cush,118.35,103.7,34.25,Open,earpad
+ea1d9e06-baf0-4adf-8905-8716857affc3,Grado SR 325i S-Cush,116.13,101.47,34.25,Open,earpad
+294373ff-650c-4736-8847-f7d8ef3738a9,Grado SR 60e,116.99,102.65,36.87,Open,earpad
+95f5a010-9d18-4e43-bf22-f61461ebe464,Grado SR 60i,111.71,96.94,33.34,Open,earpad
+194f6753-2a6b-46ed-bb33-6a0ce9a771dc,Grado SR 80e,120.92,106.54,36.53,Open,earpad
+e25f7e17-b4b0-4c11-860b-5be713d084b1,Grado SR 80i,116.59,101.82,33.4,Open,earpad
+caf52f42-5ddf-4cac-91c7-53165f6903f5,HAAFEE HD7,121.4,106.69,33.83,Open,full
+acaad40f-40f7-4a74-8d3d-4e1190fc6569,HarmonicDyne G200,110.26,98.54,67.35,Open,full
+35dcbccc-7c1e-496a-95b3-4bbf2544311d,HEDD HEDDphone ONE,101.09,87.54,44.21,Open,full
+e05e6769-4075-4a3e-a61e-40b2a8daa473,Heil Pro Set 6,109.74,103.04,214.07,Closed,full
+405dc110-1a2e-4315-9b62-f976f34076f0,Hiby Crystal 6,135.0,118.11,20.45,Closed,iem
+fd3cd223-7cce-4844-ac90-89e577bf5ead,Hidizs H1 Wire,137.35,120.13,18.97,Closed,iem
+753dc9d3-d7c8-4643-b910-00ee152a59e8,HiFiBoy OS V3,136.21,116.76,11.35,Closed,iem
+4e6f86b3-e39f-4f6c-b03e-9fb94fde60ef,HiFiMan Ananda,110.28,95.5,33.21,Open,full
+c8679e31-59b3-48c9-ba26-44893bae178d,HiFiMan Arya,110.51,95.01,28.22,Open,full
+56669398-15e0-4b4e-9984-a908750b0636,HiFiMAN Audivina,106.63,90.03,21.86,Closed,full
+00fdbbd8-a476-4c7a-92bc-d35c1d6d64b5,HiFiMan Deva Pro,108.56,91.12,18.0,Open,full
+71eaf92b-6c08-4511-8f1a-33d832d4c73a,HiFiMan Edition XS,110.24,91.82,14.38,Open,full
+7ac72e47-2c59-44c1-833d-ae8af97034be,HiFiMan HE 400i,107.56,93.81,42.14,Open,full
+19c05d00-0f6d-4067-bf7d-45201630e757,HiFiMan HE-300,112.21,100.06,60.88,Open,full
+36c31129-8558-4e95-954e-b68af0fa578c,HiFiMan HE-4,100.28,85.57,33.82,Open,full
+91f96fa7-0ae6-4549-b16d-2225d8703541,HiFiMan HE-400,108.58,94.88,42.74,Open,full
+f34955a7-2ae5-425a-aec6-4704bebc23b2,HiFiMan HE-500 Leather cushions,101.86,87.13,33.71,Open,full
+e3f56bbf-1d2f-4f99-ae33-7d4594e1d921,HiFiMan HE-500 Velour cushions,101.32,86.6,33.71,Open,full
+c1486e00-a961-4152-b416-18408bd23ca0,HiFiMan HE-6 Fazor,93.56,80.65,51.14,Open,full
+70dc1f72-c14f-431b-8341-c0f22bae15d4,HiFiMan HE-6 Fazor Open,93.56,80.65,51.14,Open,full
+5f8371f7-0e03-450e-bd43-1ee560a07094,HiFiMan HE-6 Leather cushions,91.06,77.44,43.46,Open,full
+2a6b454d-238b-4a7e-bf34-f5939ad5f840,HiFiMan HE-6 Velour cushions,89.7,76.08,43.46,Open,full
+d4b04c30-3fbf-4fc8-96e3-9ebc2b098fa8,HiFiMan HE-R10D,116.84,101.79,31.3,Closed,full
+b945b532-517c-48bd-8dda-9e0a0f0d58a3,HiFiMan HE1000 V4,111.23,95.95,29.68,Open,full
+dd341fca-5658-45e6-a8f9-b1fc4e78769c,HiFiMan HE1000se Cable 1,109.15,94.29,32.64,Open,full
+44ffc4a3-e9bf-4bb6-a64f-390860ad940d,HiFiMan HE1000se Cable 2,108.97,94.21,33.42,Open,full
+ef9aaaf6-b613-4b8a-be0e-dc081fbfd7f9,HiFiMan HE400SE V2,104.64,88.68,25.35,Open,full
+0f6dd9f6-df81-4daf-8f9e-ef0703986acd,HiFiMan HiFiMAN Deva,109.43,91.84,17.45,Open,full
+d1e20e61-9412-4be2-81fb-b706013d7e4a,HiFiMan LE-5LE,95.54,81.85,42.7,Open,full
+fa8c8dd1-d660-478d-b5f6-e03938fb01df,HiFiMan Re 240,122.8,104.87,16.08,Closed,iem
+e8c440a0-4163-4bfb-901f-6e4828414a95,HiFiMan RE 400,126.8,112.08,33.8,Closed,iem
+c742da02-33c8-49f9-8436-a147fe2a77d8,HiFiMan RE 600,128.08,110.27,16.55,Closed,iem
+75bab8a8-3da1-49fe-a526-9334dc16ca83,HiFiMan Re0,120.64,108.1,55.73,Closed,iem
+9c259d17-3c7e-4c43-9ea7-1e9d97dbff57,HiFiMan Re2,125.4,110.33,31.1,Closed,iem
+9df8e30a-4644-45c8-b06f-87991fbda437,HiFiMan RE2000,123.02,110.75,59.27,Closed,iem
+f649d0e0-b6bb-4295-a574-16c7b622f7b4,HiFiMan ReZero,124.2,106.0,15.14,Closed,iem
+33b0c0f8-ebaa-4c8e-bbac-67f720b71c9a,HiFiMan Sundara,106.74,92.67,39.22,Open,full
+17792ecd-95aa-40f0-86b9-06568184f613,HiFiMan Sundara Closed-Back,113.61,96.08,17.64,Closed,full
+48a99689-b0b1-4c51-8d45-e8c0b68e306e,HiFiMan Susvara,99.5,87.45,62.43,Open,full
+f7fc9aa1-ea01-40e3-9348-9599d71c3d86,HiFiMAN Svanar,124.83,112.58,59.61,Closed,iem
+50636a47-30fb-46a2-87c4-773b218173e0,Huawei AM 12 plus,125.79,110.71,31.05,Closed,iem
+51593358-0083-4196-b2b2-e39ee78fd82a,Hyla CE-5,132.93,114.24,13.54,Closed,iem
+90727c4c-e504-4fe2-872d-26d35fc18551,HyperX Audio Cloud Stinger Core HX-HSCSC2,118.17,102.01,24.22,Closed,full
+301e8941-b459-4015-9a1a-781007b326c5,iBasso AM05,136.17,120.65,28.05,Closed,iem
+50dda156-9934-4960-b9c5-af060b2a9a9b,iBasso IT00,134.34,116.4,16.07,Closed,iem
+89dc098c-33fd-48cf-ba2b-47e9cab9522b,iBasso IT01,134.92,116.75,15.23,Closed,iem
+569edaa6-5254-48c8-9b59-aa66cdea0161,iBasso IT01s,135.47,117.78,17.01,Closed,iem
+3054f493-1a36-4486-83d2-242506a5b182,iBasso IT01x,134.68,116.78,16.22,Closed,iem
+a8eaa3cc-60f5-43be-a60c-f21798eaf4fe,iBasso IT03,131.04,109.99,7.86,Closed,iem
+f1dd15c3-4472-42ef-aef4-c313e7552219,iBasso IT04,134.03,115.53,14.13,Closed,iem
+0dccd125-e9d5-45dd-935b-dec87625304f,iBasso IT05 Black,136.86,119.33,17.69,Closed,iem
+f685bbac-0e61-4d70-bccd-130a16373da6,iBasso IT05 Gold,136.68,119.15,17.69,Closed,iem
+345f1789-ac3c-4eed-886e-f85ce90cf585,iBasso IT05 Grey,136.37,118.84,17.69,Closed,iem
+7429dd1b-12e2-42ed-872f-cfb1a478eb9d,iBasso IT07 Black,133.77,114.64,12.22,Closed,iem
+7ae8c157-aae8-4a11-af8d-c5b65b381ac7,iBasso IT07 Gold,132.03,112.9,12.22,Closed,iem
+2b7b9ff0-094c-4b87-b2f2-b2b99aa21ece,iBasso IT07 Silver,134.09,114.96,12.22,Closed,iem
+933a6be1-adca-4696-9997-9aeef5a8ac6b,iBasso SR2,122.39,106.58,26.24,Open,full
+6c0efd78-c676-460e-a117-06a2220d570d,iBasso SR3,111.73,103.75,159.07,Open,full
+d824bbb3-8e26-4538-9e01-2647130ec041,Ice Lab EX3,133.51,118.65,32.71,Closed,iem
+d1f720f1-a6ea-4ae4-b259-cac64bec3406,ikko OH-1,131.29,113.71,17.49,Closed,iem
+57133e1e-d1ef-4d46-9831-d2d74592ff27,ikko OH-10,131.03,113.46,17.5,Closed,iem
+a7992ab6-3aaf-4e6f-a1f1-f915ad098a86,ikko OH1s,129.69,113.67,25.01,Closed,iem
+336fe423-94de-4301-bbaa-80e63418efc1,ikko OH7,126.63,116.24,91.49,Closed,iem
+a41e8152-829c-4321-be75-17a903cdca26,IMR Elan Black-Black,131.85,113.61,14.98,Closed,iem
+82ed5c3a-fee2-4cc5-af3e-eab7221c9093,IMR Elan Black-Blue,132.29,114.05,14.98,Closed,iem
+72b4b523-f265-4010-99a8-98e32b0c4bdd,IMR Elan Black-Green,131.76,113.52,14.98,Closed,iem
+c2c63a9f-e41b-460d-8971-f8f3960f9253,IMR Elan Black-Purple,131.63,113.39,14.98,Closed,iem
+fc624a98-2dfe-40a2-992e-dce9f74a29cf,IMR Elan Black-Red,131.69,113.44,14.98,Closed,iem
+43c37db2-a78a-4d85-b71d-1ade84a69bdf,IMR Elan Black-Yellow,131.72,113.47,14.98,Closed,iem
+fb8ed5e1-ab4d-49b9-8f3a-7cbc010f4b44,IMR Elan Blue-Black,131.69,113.44,14.98,Closed,iem
+96f28609-5257-4135-b434-36d8b28bdd26,IMR Elan Dark Silver-Black,131.54,113.29,14.98,Closed,iem
+42e5d956-fdef-4935-9941-8cb685375bcb,IMR Elan Green-Black,128.1,109.85,14.98,Closed,iem
+70dc4c29-e10f-483f-a1a7-1e6521f99050,IMR Elan Purple-Black,130.71,112.46,14.98,Closed,iem
+64c5b97d-8cda-462d-92b5-d7d0f5ddaa83,IMR Elan Red-Black,131.38,113.13,14.98,Closed,iem
+62725909-e685-4779-a965-2efae72f2ddb,IMR Elan Silver-Black,129.63,111.38,14.98,Closed,iem
+a3d2587a-31ee-4aa6-b8f7-5d734949adda,IMR Elan Yellow-Black,128.21,109.97,14.98,Closed,iem
+9d6e922b-7a2b-44d6-9c25-acda7cafeb5e,IMR Opus Mia Black Black Close,129.37,113.22,24.26,Closed,iem
+e93512b5-9bde-4ed3-99a4-64277fe1a000,IMR Opus Mia Black Blue Close,129.71,113.56,24.26,Closed,iem
+464b8371-4e4f-4b20-a068-1b8dc750d9ab,IMR Opus Mia Black Gold Close,129.38,113.22,24.26,Closed,iem
+e2eeb2bc-dffd-4830-80ec-58de8b6d17c4,IMR Opus Mia Black Green Close,129.4,113.25,24.26,Closed,iem
+4bb20c16-be43-4410-9074-104c104ce651,IMR Opus Mia Black Pink Close,129.45,113.3,24.26,Closed,iem
+c657578f-c580-4370-9e2d-1bf6152386cc,IMR Opus Mia Black Red Close,129.24,113.09,24.26,Closed,iem
+02de517e-ca54-4f9b-bc52-a49586315d42,IMR Opus Mia Blue Blue Close,129.49,113.34,24.26,Closed,iem
+67f8f9c3-6161-495c-9198-def3ad0943d5,IMR Opus Mia Gold Blue Close,122.72,106.56,24.26,Closed,iem
+33b5f7d5-a8d0-4abd-a0a1-7c2c70b0a5de,IMR Opus Mia Gray Blue Close,129.12,112.97,24.26,Closed,iem
+d69c3b7e-a28d-4ebc-865a-5e3e01b1150f,IMR Opus Mia Green Blue Close,126.73,110.58,24.26,Closed,iem
+0246c34a-5428-47c9-b32c-d496f7eabbb6,IMR Opus Mia Pink Blue Close,128.91,112.76,24.26,Closed,iem
+be041f3d-917c-4660-9dce-2fab9c1cc019,IMR Opus Mia Red Blue Close,129.61,113.46,24.26,Closed,iem
+0812193e-9d82-46ba-b9eb-1c38f67d92c1,IMR Opus Mia Red Blue Open,129.63,113.48,24.26,Semi-open,iem
+6873b0a3-8459-476b-8243-4eb334141224,IMR Opus Mia Silver Blue Close,126.99,110.84,24.26,Closed,iem
+2949da9d-1400-4393-84e6-10f341654783,IMR R1 Black Close,127.62,112.66,31.92,Closed,iem
+b4d9fd79-8987-411e-b002-6560d21d2405,IMR R1 Black Open,128.04,113.08,31.92,Open,iem
+e1f5ab23-a2d8-4dda-ac0c-57c14e04e6a1,IMR R1 Black Semi-Open,128.01,113.05,31.92,Semi-open,iem
+9010cace-b819-48bf-ae2e-527875ac00c3,IMR R1 Blue Close,126.58,111.62,31.92,Closed,iem
+f4003caf-03fc-4383-a70d-ff5fb91c869f,IMR R1 Orange Close,124.62,109.66,31.92,Closed,iem
+443b2aa0-f942-48a1-af82-36b353da60e6,IMR R1 Pink Close,126.7,111.74,31.92,Closed,iem
+714583b0-2d85-4939-9608-d15ec8295846,IMR R1 Yellow Close,127.19,112.23,31.92,Closed,iem
+6609c89f-1b15-4008-abef-13105b87c716,IMR Semper Black Black Close,125.92,109.31,21.82,Closed,iem
+870418d1-561b-4caf-9147-7ab2e5f21de6,IMR Semper Black Gold Close,125.84,109.23,21.82,Closed,iem
+e9ad77a3-583f-4a70-8fcb-1bb16197eb2a,IMR Semper Black Green Close,126.12,109.51,21.82,Closed,iem
+26b142fd-78fc-4b24-9ac6-ccb6a1968cd3,IMR Semper Black Pink Close,125.97,109.35,21.82,Closed,iem
+3df4b972-91dd-40ca-a0d3-22e5e5fbab75,IMR Semper Black Red Close,125.86,109.25,21.82,Closed,iem
+08a3fc85-86dd-40ef-8c6c-801cfb883d9b,IMR Semper Blue Blue Close,126.17,109.56,21.82,Closed,iem
+83cb31ff-4a91-441a-84eb-387ae6d54a42,IMR Semper Gold Blue Close,118.52,101.9,21.82,Closed,iem
+47b481e5-1256-4175-be21-e6f9a61af1b0,IMR Semper Gray Blue Close,126.29,109.68,21.82,Closed,iem
+d4a5fbd1-4e79-4a9f-a014-1e096365630e,IMR Semper Green Blue Close,123.98,107.37,21.82,Closed,iem
+569a332e-bda4-486e-a443-7929adcbb8f8,IMR Semper Pink Blue Close,125.66,109.05,21.82,Closed,iem
+4a5571cf-59a4-49ef-bfb4-ff071860c0c7,IMR Semper Red Blue Close,126.09,109.48,21.82,Closed,iem
+0966b5d5-ee35-411a-aa5a-db1de9bc6130,IMR Semper Red Blue Open,126.26,109.65,21.82,Semi-open,iem
+c24e0a87-3eb5-41a1-9dc1-956fd83baeae,IMR Semper Silver Blue Close,124.73,108.12,21.82,Closed,iem
+0f3b3ef0-6696-47be-9e38-fbbd612100ec,Intro RX-190,129.59,113.65,25.45,Closed,iem
+51970cd7-ee19-4f7f-bc04-fd0def4279ce,Jabra Elite 85h Wire,102.32,93.93,144.9,Closed,full
+5d895b99-c948-4624-be34-0b0e2e193fe4,Jade Audio EA1,130.29,115.28,31.57,Closed,iem
+19bda8c5-12a1-4f10-94ad-d01bd4ea54fc,Jamo wEAR In30,126.54,108.71,16.49,Closed,iem
+229253e6-14f6-44e4-ac2e-a982f4ea1c13,Jays q-JAYS v2,126.66,112.18,35.68,Closed,iem
+a33241ce-ba99-4f6d-9686-a7ba108658b3,Jays s-Jays,128.24,117.27,79.96,Closed,iem
+8c35173c-8d81-4f5a-b3d1-a5a621d267c1,Jays u-Jays Wireless Wire,114.98,100.25,33.65,Closed,earpad
+61d6aaa5-dc91-433c-8583-ff77a625e407,Jays v-Jays Large,109.54,94.15,28.88,Open,earpad
+a4754d48-f379-40cc-b450-7c6e024d90e2,Jays v-Jays Medium,112.87,97.47,28.88,Open,earpad
+e8718176-87a9-4089-834b-9431a3207431,Jays v-Jays Small,120.07,104.68,28.88,Open,earpad
+f77f8b90-b46e-4fbb-9f07-16210fed19d6,JBL J55,120.11,106.07,39.44,Closed,earpad
+5186d31f-c50b-4a38-ab0b-bd156b95dca2,JBL Synchros S500 Off,118.31,103.76,35.08,Closed,full
+5434110f-5c62-42bf-9927-77807f5a4073,JBL Synchros S500 On,115.37,118.4,2010.85,Closed,full
+41bd6aad-1129-43aa-ab7a-04ce1baa0d6c,JBL Synchros S700,111.77,97.13,34.36,Closed,full
+b814a4d5-4f57-40d1-ba75-01558a1d1bca,JBL T150A,124.09,106.75,18.45,Closed,iem
+f919d770-7736-4d51-a559-edc45ac4bece,JBL V310 BT Wire connection,113.96,99.21,33.51,Closed,full
+fe631f75-4453-4416-9ce6-88cc99c15c50,JVC Esnsy HA-FR65,126.09,108.68,18.16,Closed,iem
+faf5b78d-9245-4e3e-8323-c14e4d05f938,JVC Esnsy HA-FX45,124.17,105.82,14.63,Closed,iem
+f7adbef6-f49c-4b7a-8025-e28c63225c96,JVC Esnsy HA-SR75S,109.95,95.87,39.07,Closed,earpad
+a203d940-6d0b-4abd-b270-a3ebac3a22cd,JVC HA-FD02,129.31,111.4,16.15,Closed,iem
+04a25e87-0f84-4f3c-8642-b36bcc06fbd6,JVC HA-FW01,132.81,114.71,15.51,Closed,iem
+7b8277ee-5e5d-4d44-b9d6-d48e80d19a54,JVC HA-FW10000,125.85,108.09,16.74,Closed,iem
+1c050cf0-4fe8-40fb-9eb7-677d5585a6b1,JVC HA-FX1X,129.1,111.27,16.5,Closed,iem
+e2af92dc-70a8-4406-bf6c-06db70ae8fff,JVC HA-FX77-B,123.55,105.27,14.83,Closed,iem
+71603c99-a90e-40f9-8f85-534f32eec3fa,JVC HA-FXZ200,120.33,101.83,14.13,Closed,iem
+c5cd51f1-e105-46c5-bf57-6bef229560a1,JVC HA-MR77X,112.66,99.7,50.62,Closed,full
+15b90d31-866c-4b2c-a8a6-807703aed42f,JVC HA-RX300,104.72,90.42,37.18,Closed,full
+9f666eef-3e52-4c43-bfe9-307a11009bab,JVC HA-RX500,109.52,98.93,87.37,Closed,full
+f5446392-ca87-4bfe-a2bf-651e5cc9a5bf,JVC HA-RX700,109.33,96.78,55.61,Closed,full
+244b890c-f403-4a3d-aeae-aa1980ebe6db,JVC HA-RX900,108.38,97.02,73.12,Closed,full
+2acba19f-bd37-43b7-a2a3-7ef4f777baba,JVC HA-SR44X,113.08,98.32,33.43,Closed,earpad
+7d48cfa8-4551-4f8b-b706-6094d5f6eb1f,JVC HA-SR500,104.67,90.52,38.46,Closed,earpad
+b40b6868-104c-4b53-8345-d7898335cb4a,JVC HA-SR85,106.82,93.02,41.71,Closed,full
+bb92fdb6-ed45-48d6-837d-f58fb6f7bb5e,JVC HA-SZ2000,111.01,95.17,26.09,Closed,full
+9f3345a4-69a9-4a49-bfe8-7e6a22e76880,KEF M500,123.68,109.0,34.03,Closed,earpad
+2db5a67a-83a6-478f-9edc-16906ba248dd,KEF Motion One Wire connection,126.1,108.55,17.59,Closed,iem
+08d893c0-532b-4f2d-80d7-59a56c7fd74e,KEF Porsche Design Space One Wireless Noise Cancelation Off,118.86,103.36,28.19,Closed,full
+ab296894-5892-464a-997f-bcf2f96f684e,KEF Porsche Design Space One Wireless Noise Cancelation On,120.7,112.34,146.09,Closed,full
+4915ba03-aedc-4397-9c67-edf4cbc6937f,KEF Space One Noise Cancelation Off,118.74,103.24,28.19,Closed,full
+a1d910b1-d038-47fd-8359-f07bfdff0e71,KEF Space One Noise Cancelation On,118.89,110.54,146.09,Closed,full
+ebfcba9d-8f37-4516-86c6-3e0367bbdba9,KEF Space One Wireless Noise Cancelation Off,114.04,97.87,24.12,Closed,full
+48bf1382-a536-4e81-aa94-f6c0d69622f9,KEF Space One Wireless Noise Cancelation On,112.18,103.83,146.12,Closed,full
+7ac1b07e-1627-40f3-ac69-6f6fddebc50f,Kennerton Algiz Filter 1,114.58,103.91,85.86,Closed,iem
+c92ccb2a-f9c7-463d-a7de-c1415bfa8a66,Kennerton Algiz Filter 2,116.33,105.67,85.86,Closed,iem
+76399f44-d508-4882-b950-2bf26a39eccf,Kennerton Aurora,122.99,108.15,32.83,Open,full
+5124a4ac-1d95-4263-9260-e39140bac5ae,Kennerton Gjallarhorn GH 40,122.07,107.35,33.71,Closed,full
+bcd9b906-9c68-49ce-a024-ccba241c4d86,Kennerton Gjallarhorn GH 50,116.67,101.8,32.61,Closed,full
+034175e2-e24f-4568-b9ce-bc912f1a96fd,Kennerton Gjallarhorn GH 50 JM Edition,120.75,105.86,32.47,Closed,full
+28a10df6-de00-4277-a054-1a6958520ca0,Kennerton IKIZ,130.76,110.51,9.44,Closed,iem
+2b838f1b-c906-43a6-97c2-50b696fc27e3,Kennerton Jimo,126.3,111.14,30.45,Closed,iem
+f6c92c77-fc18-46d3-9625-aafd6c2bc835,Kennerton Jord,120.32,105.75,34.93,Closed,earpad
+c42f8ea3-52d4-4279-8c6a-9669db065c39,Kennerton Laguz,131.08,113.38,16.99,Closed,iem
+9ea251b6-6a71-40f8-a270-d239ff5482e7,Kennerton M12,115.08,100.13,31.98,Closed,full
+0d9ab0aa-5449-444b-b007-7282ede98cc9,Kennerton Magister Pro,113.2,101.43,66.54,Closed,full
+3b1f3a0c-8b72-4301-948f-01ab8b7ce983,Kennerton Magni V1,116.74,101.95,33.15,Closed,full
+74ebfb20-127f-486e-bde0-51b011ef0a79,Kennerton Magni V3,117.66,102.93,33.7,Closed,full
+5ba74849-fb0c-4f1d-ab7a-b753688abca9,Kennerton Magni V3 Sealed,117.77,103.02,33.55,Closed,full
+f4a8617c-8bcf-425d-85d8-5e8b21eb0dcd,Kennerton Odin 2019 ECL-01,111.26,97.32,40.43,Open,full
+d8de97c5-f25b-4475-b43c-45ee91c6917d,Kennerton Odin 2019 ECL-02,112.52,98.58,40.43,Open,full
+6f7021f9-50e5-4d93-a69d-cffe675ec328,Kennerton RIG,116.34,98.77,17.48,Closed,iem
+4168b2cd-2410-433e-a40e-5fdfa8d391bd,Kennerton Rognir Dynamic ECL-1,117.59,102.72,32.58,Closed,full
+a60558cf-c64d-4bac-a258-21dbb5c4710d,Kennerton Rognir Dynamic ECL-2,118.14,103.27,32.58,Closed,full
+45a32e97-5596-459b-85c5-13b5675f9091,Kennerton Rognir Dynamic ECL-3,119.81,104.94,32.58,Closed,full
+b433e28e-7d3a-4f48-829d-fc1c7a8bbefc,Kennerton Rognir ECL-2,108.64,93.68,31.94,Closed,full
+d4528292-9744-4a64-8502-6639704f907f,Kennerton Rognir ECL-3,109.22,94.27,31.94,Closed,full
+a9efa379-f004-411d-a2ed-880018a8b7ff,Kennerton Stor,102.62,93.09,111.28,Open,full
+cd2c09a8-e7e4-4170-b87d-11c6eb6495de,Kennerton Thekk ECL-01,109.18,95.2,40.02,Open,full
+230a1cca-609a-4481-ae68-7d44e0e3a060,Kennerton Thekk ECL-02,109.91,95.93,40.02,Open,full
+a602dbc1-35e1-423b-b7da-45525310f867,Kennerton Thridi ECL-01,111.13,97.04,39.0,Open,full
+e7278b2d-8c90-40e5-a3ac-90d4bc8f9268,Kennerton Thridi ECL-02,111.84,97.75,39.0,Open,full
+09745ec0-e7a0-47a9-b86c-4550ca06a6fe,Kennerton Thror ECL-01,109.13,95.46,42.99,Open,full
+b72a3887-1f2e-4041-aef9-600e6203d241,Kennerton Thror ECL-02,109.73,96.07,42.99,Open,full
+5902ed71-b5c5-4f3e-8072-6bb72360f804,Kennerton Vali,116.36,102.82,44.27,Open,full
+a3a3bd1b-df57-44e0-a117-11d842f24656,Kennerton Vali 2019 ECL-01,118.74,105.14,43.68,Open,full
+b2b8fcfd-e4d8-4a17-a98a-ba4589bff813,Kennerton Vali 2019 ECL-02,119.91,106.31,43.68,Open,full
+7c6453f5-1dfa-4726-aa53-2132d0929180,Kennerton Vali Neoteric ECL-01,114.75,100.05,33.88,Open,full
+26a9e3b5-52e7-4abd-ad01-945a608e544f,Kennerton Vali Neoteric ECL-02,116.23,101.53,33.88,Open,full
+615abbbf-55be-4b18-be93-bb829a960c13,Kennerton Wodan Aluminum Driver 2021,111.26,96.99,37.48,Open,full
+c533f0b4-8350-4d56-9385-be52f29a4032,Kennerton Wodan ECL-01,111.22,97.18,39.5,Open,full
+2da50cfe-4dce-41b2-9790-cae6350e801f,Kennerton Wodan ECL-02,111.9,97.86,39.5,Open,full
+3d21ef86-1a76-4f59-84f0-f447dc55da20,Kenwood KH-K1000,116.8,103.12,42.88,Closed,full
+7549418c-5d6e-42ab-8ea6-cb9a4d08a1f6,Kinera BD005,132.8,114.0,13.17,Closed,iem
+0d1443c3-5146-4088-bf06-1f0c6513b7ee,Kinera Freya,132.2,114.27,16.12,Closed,iem
+4a3aaac5-1959-4c01-8819-d53aa6c1eeaf,Kinera IDUN,128.62,117.75,81.86,Closed,iem
+76f6d546-7d97-4a7b-8e93-308088308f9e,Kinera Odin,137.48,121.2,23.55,Closed,iem
+de4a78a6-1688-4518-b597-f250c8534ce7,Klipsch Heritage HP-3,111.99,95.97,25.01,Open,full
+b5814bd0-5d6a-465d-984b-414356beda54,Klipsch Image X10,122.33,111.02,74.01,Closed,iem
+8270d78e-5d29-4675-914a-455b1e728042,Klipsch One,119.12,104.87,37.59,Closed,earpad
+72fadbad-eec3-42dd-b32c-256a14445293,Klipsch X11i deep-fitting,128.75,117.27,71.13,Closed,iem
+ec3214dd-6a02-487e-989d-dbc2d99dbf87,Klipsch X11i Default fitting,124.3,112.82,71.13,Closed,iem
+2ef49c3f-7879-421e-91f3-e874db401487,Klipsch x7i,125.56,114.02,70.13,Closed,iem
+dd86661a-9aeb-4a03-ac5e-0fbd51b2345d,Koss Porta Pro,117.5,106.09,72.15,Semi-open,earpad
+ef6eb68a-7660-4e6e-84a2-d82bc2dd14d4,Koss SP3,118.38,95.04,4.63,Closed,full
+a158e326-8da4-4c35-940f-635b72898a24,Koss SportaPro,112.54,101.03,70.65,Open,earpad
+9ec06c56-5a1c-47f2-9330-f97eec6be9aa,Koss The PLUG,128.09,110.41,17.06,Closed,iem
+21d7f2fe-dec7-4094-ba21-60a4ec9bf75e,Kotion Each G4000,124.99,108.37,21.78,Closed,full
+4aa76a10-08b1-4add-b0ef-3b7d036f3615,Kotion Each G9000,123.5,107.74,26.56,Closed,full
+76b84e80-5e2e-4954-9ad8-8fd9761189df,KRK KNS 6400,108.82,94.04,33.27,Closed,full
+67a46742-549d-4cd4-8dc9-316a7d3c3f14,KRK KNS 8400,109.67,94.96,33.85,Closed,full
+bd23b4bd-4249-4502-a20a-80aaf2190433,KZ AS10,132.4,114.94,17.93,Closed,iem
+710a52d0-1ad3-4a57-b31f-531e834249f0,KZ AS16,137.01,122.95,39.28,Closed,iem
+2fb6a70e-1f37-4044-8dc4-424a70951daf,KZ ATR,123.82,106.06,16.73,Closed,iem
+97362714-4e15-4031-b8e3-a823ae366460,KZ BA10,135.8,118.41,18.21,Closed,iem
+4953c4b2-1db6-4564-8e21-288b3d3ac484,KZ DQ6,135.67,118.97,21.41,Closed,iem
+d8d324de-9f2e-496e-b4a8-61eead052029,KZ ED12,128.28,110.73,17.61,Closed,iem
+2a0d9679-d894-4f36-9a81-f438aff2d13b,KZ EDX,133.31,116.84,22.56,Closed,iem
+f58e6401-f02c-4990-bcb0-6de01b43d11a,KZ PR1 Pro,123.49,105.06,14.37,Closed,iem
+f81b9d83-cf47-446f-80cd-9fd6da782a08,KZ ZAX,136.29,119.48,20.84,Closed,iem
+48d8243e-fc63-4b97-8faa-5bb2e7414d9e,KZ ZEX Closed,134.99,118.41,22.0,Closed,iem
+05e19076-41aa-45dd-9ff9-d60149f37057,KZ ZEX Default,135.7,119.12,22.0,Closed,iem
+413bafb4-9216-4b26-9848-06db71bd80d3,KZ ZS10,126.94,111.44,28.16,Closed,iem
+0dd03bdf-1a46-49c9-9207-cbbe6ffdac6a,KZ ZS10 Pro,133.99,117.51,22.48,Closed,iem
+28509899-5a34-4ef0-837e-5f89ecc91f97,KZ ZS6 Close,130.53,111.93,13.8,Closed,iem
+6359df26-95f0-41b7-bb7f-ce0f3f0b2855,KZ ZS6 Open,130.67,112.06,13.8,Open,iem
+ec0b115c-a1ea-4b59-86f0-6ea9859e8170,KZ ZSN Pro X,136.1,119.89,23.92,Closed,iem
+eb8f5336-593a-4cd0-8bf8-b80cf67a994f,KZ ZST,128.45,108.97,11.28,Closed,iem
+19484aa9-e15f-4dbe-8c19-8744d5d6e031,KZ ZSTX,134.36,117.8,22.05,Closed,iem
+4db79390-b020-4c49-a83f-309e8a201be1,Lafitear LF3,128.74,111.14,17.37,Closed,iem
+ddfd45f8-0ff9-4b3a-b0c8-3ede8a36b691,Lark Studio LSX,133.84,117.65,24.05,Closed,iem
+a6b5f516-5068-4c7c-aa6c-cdccbfdc3031,Lenovo in-ear,115.63,97.9,16.87,Closed,iem
+b5fe2ecd-5458-4603-8dff-4830e6689a93,LETSHUOER Cadenza 12,133.59,114.88,13.45,Closed,iem
+62ad5a58-eb5f-452d-96ee-eb8823089896,LETSHUOER Conductor,128.84,108.6,9.46,Closed,iem
+86db0768-ecdf-44f3-b105-b7da6cf0b421,LETSHUOER EJ07M,129.73,110.58,12.17,Closed,iem
+6e8b81a5-6815-4457-8fff-c894916a8135,LETSHUOER EJ09,133.15,115.01,15.34,Closed,iem
+5e0e7b84-f8b1-4613-a9b1-ee94863c4494,LETSHUOER S12,124.5,106.55,16.04,Closed,iem
+4fe08871-de01-4804-9dd8-f6b7b6dea72e,Lime Ears Aether R Off (Universal),130.71,114.43,23.55,Closed,iem
+9dc972fd-90cc-441c-98b8-fecdd87f2a9f,Lime Ears Aether R On (Universal),131.24,114.38,20.57,Closed,iem
+f1388773-c51d-4417-8fc9-140fb6b2c658,Lime Ears Lambda (Universal),134.84,121.0,41.28,Closed,iem
+185db397-3572-434e-852d-5561ce36f9ed,Lime Ears Model X Off (Universal),128.89,113.7,30.27,Closed,iem
+f31b4794-ff34-4856-97f6-543f48a821e9,Lime Ears Model X On (Universal),132.14,115.49,21.59,Closed,iem
+0e9a08f8-68fd-4089-a92d-a75aae793608,Lime Ears PSI Off (Universal),127.21,114.45,52.91,Closed,iem
+bcf39172-2534-4943-91c1-b4c0958406c8,Lime Ears PSI On (Universal),129.09,115.76,46.45,Closed,iem
+287d09aa-eac1-4734-9d92-45015662c319,Logitech h-151,123.8,108.06,26.64,Semi-open,earpad
+f8596927-2cca-46a4-b95a-78dc9e9b6998,LongLife E-107,131.31,115.55,26.54,Closed,iem
+6623b29a-f986-4b02-8027-20a04cfce22e,LZ Hi-Fi Audio A4,128.33,110.57,16.76,Closed,iem
+579104aa-6753-43a0-baff-599e5fb63011,LZ Hi-Fi Audio A6 mini Black,129.87,113.03,20.72,Closed,iem
+836ea8b2-8078-475a-84b6-d5ea264d34c6,LZ Hi-Fi Audio A6 mini Blue,130.73,113.89,20.72,Closed,iem
+1e97713e-33e0-43d1-8305-805895caa32f,LZ Hi-Fi Audio A6 mini Red,126.33,109.49,20.72,Closed,iem
+68a750c2-6e8b-4550-a2a4-7655067475ca,M-Audio IE 40,132.07,117.01,31.17,Closed,iem
+05beedc6-28f0-4e6e-b93f-20092346c760,M-Audio IE-30,132.14,113.53,13.75,Closed,iem
+66a07956-7fb5-4b62-ad5b-b228a78414d2,Mackie MC-150,118.8,104.13,34.09,Closed,full
+0d51f99c-df20-48f4-aebb-1b75d142c84c,Magaosi DT6 Off-Off,137.37,123.09,37.3,Closed,iem
+36db1e4a-5f4a-4048-833b-c9e2f6b6aa58,Magaosi DT6 Off-On,137.8,123.41,36.35,Closed,iem
+74e54cdc-b8c9-4405-81a9-7239e66f4411,Magaosi DT6 On-Off,138.07,122.58,28.24,Closed,iem
+7c2e02ea-b591-4779-894f-75580756e02e,Magaosi DT6 On-On,138.49,122.88,27.44,Closed,iem
+d1edae2b-d63a-4c67-a4fa-bcdbd5f036ae,MagicSound Bionic MK3 Close,115.72,97.41,14.78,Semi-open,full
+28d48776-af0c-4ae2-803b-7fe43499f8f7,MagicSound Bionic MK3 Open,118.53,100.23,14.78,Open,full
+c1f4c765-f588-479b-80c4-a52c31542e9d,Marantz MPH-1,113.7,99.53,38.32,Closed,full
+f0b288c7-79c2-458e-a547-4a74b61aa995,Marantz MPH-2,113.0,98.8,38.04,Closed,full
+11137207-be98-4db5-a1ec-4e3cbcd0effb,Marantz MPH-3,118.23,104.8,45.41,Closed,full
+3e5372b4-d470-47cf-9df7-c6077bbbc613,Marantz MPH-4,111.63,97.21,36.2,Closed,full
+4715752f-4c9d-4842-b352-3fd28eca90c1,Marshall Major II,117.36,105.62,67.09,Closed,earpad
+7b8d99b9-f2ee-4c40-967f-cc70a3ed983a,Marshall Monitor,113.77,100.3,44.95,Closed,earpad
+82eadcba-d24e-4824-b95c-51f84557f702,Martin Logan Mikros 70,131.02,114.5,22.3,Closed,iem
+c0a31250-c0ee-4570-9a4e-20ecdf40f35f,Massdrop Plus,136.87,118.76,15.43,Closed,iem
+932ee329-dc34-4073-8735-cdf7c38b42ee,Master & Dynamic MH40,120.49,105.82,34.11,Closed,full
+6bafacfa-c440-453b-8542-3008e53be9be,Maxell Ear Bud,123.22,107.79,28.64,Closed,iem
+13ddb8a4-0f98-4432-9d1b-821d55a43db9,MB Quart QP 200,101.22,91.55,107.82,Open,full
+4015cec3-7edf-4122-98af-619810abd005,MB Quart QP 400,104.2,98.87,293.03,Open,full
+0cf7a8b2-89a7-4e66-8963-3a35d6c07dfd,MEE Audio A151,129.61,118.49,77.3,Closed,iem
+1121d517-5858-446c-b009-e6247379bd2f,MEE Audio A161,133.02,119.96,49.34,Closed,iem
+9c8f60a5-d974-464d-9222-1102ac83dee1,MEE Audio M6,124.21,106.49,16.91,Closed,iem
+50c2e0db-4841-4a2a-a137-5aa76fbb5cf8,MEE Audio M6P,125.97,108.47,17.8,Closed,iem
+d6bf9721-c7f3-44e3-8606-281b1afec324,MEE Audio M6Pro,126.03,108.15,16.27,Closed,iem
+37b88908-aef8-4bfe-8e56-0bcc2d3be816,MEE Audio MX2 PRO,122.73,107.62,30.82,Closed,iem
+6ce4d91a-462f-4e6b-84b7-ea837b9a49ed,MEE Audio Pinnacle P1,116.84,103.83,50.01,Closed,iem
+5e016198-3652-4c53-91cb-06f3289a09c3,MEE Audio Pinnacle P2,124.99,107.2,16.64,Closed,iem
+d42c5ecc-401e-424f-a2ae-55a7e14d5fd5,MEE Audio R1,124.97,107.61,18.36,Closed,iem
+94211fe8-6eb0-44f6-a9bc-fa23febd3bb1,MEE Audio S6,123.58,105.55,15.74,Closed,iem
+da03839f-9ca5-449f-9203-724c6d1ea38f,Meze 11 Neo,125.78,108.2,17.48,Closed,iem
+a4e595bb-d45a-460c-8471-0e748c9c1435,Meze 12 Classics,127.27,109.6,17.1,Closed,iem
+181f82e6-1e20-42be-a483-afb8dfbfcc16,Meze 99 Classics Not a tight fit,119.48,102.58,20.42,Closed,full
+21275290-54ef-46c8-8bf0-369500a454ab,Meze 99 Classics Tight Fit,119.93,103.03,20.42,Closed,full
+b610af8a-6de1-41f3-958c-e98b16d93d79,Meze 99 Neo,124.19,107.32,20.59,Closed,full
+3d3619bb-eeef-4342-a029-6917108519cc,Meze Empyrean,114.16,99.29,32.57,Open,full
+69541cca-8569-4e38-8c07-8e0831913622,Meze Rai Penta,133.68,115.93,16.81,Closed,iem
+d387eb3b-101c-49b3-964d-660f1b7c9cb9,Meze Rai Solo,130.4,113.15,18.85,Closed,iem
+fec24992-9d2e-48da-b90a-84ce8f4238a2,Monoprice 8320,124.46,109.34,30.71,Closed,iem
+91361e79-419c-41ee-9cd8-a2ee6cab05da,Monster Beats by Dr. Dre Studio,120.37,113.64,212.48,Closed,full
+2521df43-773c-471c-9aa7-7f7e6ed73b4e,Monster Beats Lady Gaga HeartBeats,123.58,106.24,18.46,Closed,iem
+058cec4b-b5d2-4415-98f5-d4524b76b017,Monster Beats Mixr,119.42,102.24,19.14,Closed,full
+f8b8dc15-6eca-46fa-b1c3-f8bd9367c9b2,Monster Beats Solo with ControlTalk Headphones,114.41,99.15,29.8,Closed,earpad
+6fc2263f-3370-4fe6-9642-296f52d5ec32,Monster Diesel Vektr,115.84,101.15,34.0,Closed,earpad
+1c39c1cb-033c-4473-a302-bdf010ae408f,Monster Elements Wireless On-Ear Default,127.04,109.46,17.47,Closed,earpad
+f3307565-baa7-4047-9931-69ec939dba29,Monster Elements Wireless Over-Ear Analog wire,123.43,106.04,18.22,Closed,full
+16be998c-ce9a-4cfe-9c2f-e303dfbd0cd5,Monster Inspiration Noise-cancelling Off,111.64,97.22,36.08,Closed,full
+ce6f3f3a-7b73-4dc1-9f4a-96b15133eccd,Monster Inspiration Noise-cancelling On,115.09,104.97,97.35,Closed,full
+8b174d92-f902-4031-8fab-58ff07f815e3,Monster Jamz In-Ear,129.62,112.4,18.97,Closed,iem
+40a20d07-3742-4d37-b429-b83d1ef18cc3,Monster Miles Davis,124.72,107.53,19.12,Closed,iem
+c4df9637-58ad-49f3-939a-bf93f7f06c69,Moondrop Blessing 2,124.97,109.22,26.62,Closed,iem
+1fc6697b-36cc-4b3f-81df-b4c50676b3ad,Moondrop Kanas Pro,126.72,111.58,30.62,Closed,iem
+aca95d00-1a18-40fb-a04e-1efe8ea80770,Moondrop KATO,127.94,113.38,35.02,Closed,iem
+29f57a8b-5c1a-4d87-8427-6beca904d3d4,Moondrop KXXS,127.39,112.2,30.29,Closed,iem
+1aa80850-f325-4aa3-b5b6-72253d1d4afd,Moondrop Stellaris,119.39,103.98,28.8,Closed,iem
+39b847b6-fd2b-428a-a119-8311c6a8dd89,Moondrop Variations,125.05,105.12,10.15,Closed,iem
+b93f01ce-642f-4cc3-9747-9b9a3cc0d90c,Moondrop Venus,106.21,88.7,17.74,Open,full
+d7c02232-ce3a-4ce5-921d-9445129b16ce,MrSpeakers AEON Black Dampfer,108.97,90.2,13.3,Open,full
+78161aa1-ba18-45cc-aed3-73f63f9bd235,MrSpeakers AEON White-1 Dampfer,108.57,89.81,13.3,Open,full
+0d38bafd-8476-4a38-86ea-8617adf09ff4,MrSpeakers AEON White-2 Dampfer,109.34,90.58,13.3,Open,full
+888443f5-25a1-4af7-a14f-6c2830f56899,MrSpeakers Alpha Dog,97.55,84.17,45.91,Closed,full
+8ce98729-a80f-4743-b295-66bdfdd8863a,MrSpeakers ETHER,115.17,99.03,24.31,Open,full
+00e67844-e9ef-41d3-9e31-1c0a8d1b5cc5,MrSpeakers ETHER 2,101.56,84.78,21.0,Open,full
+5dede805-3038-4b35-b53a-388eb831bcd4,MrSpeakers ETHER C Flow Mod,107.5,91.02,22.51,Closed,full
+81aef024-58f8-4563-980b-72ef94b1ed6c,MrSpeakers ETHER C Flow Mod Kennerton ECL 1,103.39,86.91,22.51,Closed,full
+adc2329a-3a56-47db-8900-32c646407491,MrSpeakers ETHER C Flow Mod Kennerton ECL 2,92.48,76.0,22.51,Closed,full
+b4b3303a-bf33-4ec6-bd8a-214e19390ccc,MrSpeakers ETHER C Flow Mod Kennerton ECL 3,106.31,89.84,22.51,Closed,full
+5d242c94-76aa-4945-a24e-6c8e781db385,MrSpeakers ETHER C Flow Mod VesperAudio 0,92.42,75.95,22.51,Closed,full
+07cbc226-6a51-42b4-946c-d1ce0565547e,MrSpeakers ETHER C Flow Mod VesperAudio 1,88.93,72.46,22.51,Closed,full
+2b95097e-3e0f-40c0-8483-c776221ac840,MrSpeakers ETHER C Flow Mod VesperAudio 10,87.21,70.73,22.51,Closed,full
+e4333fe8-2551-4d69-9b04-c9cb4d2ec6ab,MrSpeakers ETHER C Flow Mod VesperAudio 12,86.32,69.85,22.51,Closed,full
+960b8a7e-5236-4d4b-abf9-7b4187652824,MrSpeakers ETHER C Flow Mod VesperAudio 13,85.99,69.51,22.51,Closed,full
+419f28e2-f1a6-4f9a-98be-9bf6cd9316fa,MrSpeakers ETHER C Flow Mod VesperAudio 2,88.89,72.41,22.51,Closed,full
+1e8df9d5-380d-4f46-a252-d0f1dfa9e0a5,MrSpeakers ETHER C Flow Mod VesperAudio 3,88.11,71.64,22.51,Closed,full
+f5714c6f-4a26-4dd0-887d-0d7f7ee899d8,MrSpeakers ETHER C Flow Mod VesperAudio 4,88.29,71.81,22.51,Closed,full
+99303090-49e8-426c-9e2b-6f6c21d0e0e8,MrSpeakers ETHER C Flow Mod VesperAudio 6,87.07,70.6,22.51,Closed,full
+287dbdd8-4259-4e80-bd37-77c6347efe4e,MrSpeakers Mad Dog,97.53,84.66,51.66,Closed,full
+99d939dd-b56f-466d-a0f4-89b00f9e5a80,Musical Fidelity EB-50,129.02,118.03,79.6,Closed,iem
+adf2fd99-3a8f-4638-888c-4ad6b12da1d0,MyST Gatling,95.73,81.79,40.37,Open,full
+ebcf1bb3-36c2-4a98-9281-841ce750cfb4,MyST Gatling 42,94.27,81.31,50.5,Open,full
+23e63c18-05bd-4e67-ae6b-4f9bbe9a7db3,MyST Gatling AT Aineri Mode Cable 1,92.37,79.49,51.5,Open,full
+9a7f286b-822f-4842-bb95-b9c3afd3e41e,MyST Izo-OS,89.81,74.28,27.95,Open,full
+64a17210-3cf0-4a82-bee5-d2f1c6bfd78e,MyST IzoEM-1,119.13,94.53,3.46,Closed,iem
+1aa3f144-9816-4e79-a142-c01b7d4e3c21,MyST IzoEM-1 2017,102.22,86.29,25.55,Closed,iem
+2519008a-a928-4299-9278-7d15fd39f7ab,MyST IzoPhones-30 Black,100.9,85.2,26.9,Open,full
+6f0b7f00-182f-45ed-a775-551541bf3bd5,MyST Izophones-30 Silver (Old),96.88,81.57,29.46,Open,full
+a8565526-8002-41d4-89c6-9b0df15f5b6e,MyST Izophones-30s,98.14,82.57,27.74,Open,full
+22c7f741-ddbd-43aa-9521-31a049e96c52,MyST IzoPhones-60,90.51,79.85,85.79,Open,full
+b2ca9300-c40a-42e2-a8e0-b04ba1273ff9,MyST Nail 1,122.59,114.62,159.57,Closed,iem
+334e6271-46c1-4012-85dd-0293e3a636d0,MyST Nail 3,127.09,115.57,70.59,Closed,iem
+ff7103a4-76ca-4887-af4e-e842dd668d05,MyST Nail 4,133.09,120.36,53.36,Closed,iem
+6c09c5d5-10d7-46a1-96d1-b20802f1f0fc,MyST Nail2v2,120.39,115.57,330.04,Closed,iem
+1d9e3a6c-5617-41e9-85fd-6ca45de767f3,MyST Nail2x2,120.89,114.85,248.83,Closed,iem
+2c6710a5-3221-4e01-9439-4d21280a9bd4,NAD Viso HP50,116.48,102.07,36.22,Closed,full
+44c88782-ba68-4e3c-87fe-3a8aa34d2d30,Nakamichi NBE 250,127.17,109.47,16.99,Closed,iem
+5dde3b0f-83ab-4ded-82e6-95e17584991a,Nakamichi NEP-MV5,125.09,107.75,18.47,Closed,iem
+8225f954-54ee-46f4-a54b-40c458fe5a07,Nakamichi NEP-S600,124.38,109.5,32.52,Closed,iem
+fc28cf9b-8e34-4c8c-90a6-1d4e7db6e105,Nakamichi NEP-S660,123.21,105.72,17.83,Closed,iem
+32b04bca-e0a2-4078-9803-5155ebe4cc04,Nakamichi NEP-S800,131.6,114.4,19.04,Closed,iem
+9efdab23-1a76-4f30-89bd-85e3f05775cc,Neumann NDH 20 Default,111.31,103.68,172.59,Closed,full
+7d342fad-baef-44f2-b6eb-5510fe354c85,Neumann NDH 20 No Dempher,112.86,105.23,172.59,Closed,full
+e71363e5-239b-4ff8-91c2-538e7ba31af6,Neumann NDH 20 No Dempher with Glass,112.57,104.94,172.59,Closed,full
+4e4fbedc-3747-4861-814f-f0e7bebdbe94,NICEHCK HC5,140.39,123.56,20.73,Closed,iem
+11b22378-f5b2-49f3-a325-1d155682fd2e,NICEHCK VIDO Dampered,113.46,98.69,33.35,Semi-open,iem
+5b2c57ee-06b1-42ac-8171-aa171167120f,NICEHCK Vido Default,123.29,108.49,33.09,Open,iem
+2d404058-69ec-4511-a93e-0d34f09f9810,Noble Audio Dulce Bass,133.69,117.73,25.39,Closed,iem
+574d1acb-8e54-434d-9636-ddc850c4d38b,Noble Audio EDC Bell,127.47,109.78,17.03,Closed,iem
+0862429c-4004-41af-8918-44ef4e64e716,Noble Audio KAISER ENCORE,136.3,119.15,19.29,Closed,iem
+3f3ba40b-fc38-4a8b-a285-219abd98ff7d,Noble Audio KATANA,137.82,120.07,16.8,Closed,iem
+908bb7a5-5ee8-4025-8ab7-ca157a844218,Noble Audio Khan,131.15,114.07,19.61,Closed,iem
+bfc685b1-1b3d-4282-8679-fd401370baf1,Noble Audio SAGE,133.54,117.53,25.09,Closed,iem
+61b96867-3661-4519-88df-b29987a106ef,Noble Audio Savana,134.46,118.24,23.93,Closed,iem
+ffad615a-4bbd-4a1b-9692-53d50e0c7720,Noble Audio SULTAN,134.89,115.47,11.43,Closed,iem
+39aa49a5-244d-4aac-92ca-86949fb01af4,Noble Audio Trident,135.47,119.17,23.45,Closed,iem
+4550b288-ca2a-4d98-a17a-ae8f0604d2ab,Noble Audio TUX 5,133.32,113.56,10.55,Closed,iem
+76107e2d-a1fa-438c-8274-259f832dca09,Nu Force NE-600M,127.11,112.19,32.16,Closed,iem
+e7dd189f-acd7-4622-a6e6-3e520764eba7,Nu Force NE-600X,128.23,110.58,17.19,Closed,iem
+8028bdb9-8f3d-4b82-a901-a75a122404d1,Nu Force NE-770X,123.36,105.4,16.0,Closed,iem
+5f79cbaf-ed66-4d3b-851a-faeb890da74c,Nu Force Primo 8,135.73,120.78,31.99,Closed,iem
+81fd874e-6412-4029-9f43-c142118681ee,Oblanc Shell NC3-2 Max,114.01,118.49,2809.73,Closed,full
+c0d1d91c-184e-47cc-bfa0-6bd3fb3a2738,Oblanc Shell NC3-2 Min,111.95,116.43,2809.0,Closed,full
+a9ec62b0-2009-4281-9fa3-5a7a3214793e,oBravo ERIB-1C,120.03,101.68,14.6,Semi-open,iem
+c4bcf154-ffb0-41f6-88cf-e5e3aa0d3ace,Ollo Audio HPS S4,117.43,102.83,34.64,Open,full
+15a1f6a8-ee9b-4dce-b888-d610cfc77f04,OneOdio Studio Standard Professional DJ headphone,117.77,103.38,36.33,Closed,full
+8b5b1ad1-1306-4086-9821-4ab134eab786,Onkyo E900M,126.97,108.02,12.73,Closed,iem
+3104e563-312e-4b68-97a4-7fd2658a551c,Onkyo IE-FC300,122.28,107.24,31.34,Closed,iem
+c2298b7d-4356-4960-a584-e8212860926c,OperaFactory OM1,129.81,112.06,16.8,Closed,iem
+b207ebd2-e035-4361-a517-de1f548dbb3c,OperaFactory OM3,128.35,113.18,30.43,Closed,iem
+26683bbf-b917-419c-b8c1-1875139d904d,OPPO PM1,110.63,95.7,32.17,Open,full
+7f52505f-1989-4c1d-b87f-d49a13b8c711,OPPO PM1 Alternative cushions,109.57,94.55,31.43,Open,full
+aa8b4093-aa7f-4fd2-bf86-c18904942df3,OPPO PM1 Velour cushions,107.47,92.44,31.43,Open,full
+1b9bff80-b901-422a-bdd2-1eef000dc68c,OPPO PM1 Velour cushions and Damper,108.04,93.01,31.43,Open,full
+4c93cd0e-f28c-4010-86ea-a61856a980cb,OPPO PM2,111.39,96.37,31.5,Open,full
+0f8fbd59-92d5-4731-b866-9d15a1fcfe02,OPPO PM3,111.86,96.22,27.28,Closed,full
+0158f743-76c6-4098-93e4-6cc2c2f98ec9,Oriolus Finschi,130.78,113.25,17.68,Closed,iem
+ddb4cca4-be07-44eb-b0a7-9201fc1102cd,Oriolus Forsteni,127.49,111.31,24.07,Closed,iem
+6c8d24a2-834e-4c91-80a9-9298d2e92a9e,Oriolus Mellianus,125.83,110.67,30.45,Closed,iem
+ffc48586-5f06-421d-8ecf-8f30b7bffecc,Oriolus MK2,131.95,113.62,14.68,Closed,iem
+44919416-7ecf-4213-b9c2-6c1a0e69db42,Oriveti Basic,133.73,116.54,19.09,Closed,iem
+832601d7-ab3e-4acd-b18f-8ec4076efa52,Oriveti OH500,135.19,115.31,10.27,Closed,iem
+bc89a63d-b5bd-4348-a699-6cc864506867,Oriveti Primacy,137.89,117.02,8.19,Closed,iem
+f11cbd4e-eed9-4bb8-8574-a98b211fb3a3,Ortofon e-Q7,131.38,117.36,39.64,Closed,iem
+ba4f526a-6adf-4503-b35a-1761658b745f,Ortofon e-Q8,139.12,121.19,16.11,Closed,iem
+074df5de-09be-4d3c-8507-662daa36dfe9,Ostry KC06,135.33,117.77,17.54,Closed,iem
+3b066c74-e935-4e7b-8479-25b14323a865,Ostry KC06A,135.11,117.57,17.64,Closed,iem
+6015b5a2-401e-4e63-a606-1da701937a30,Ostry KC09,132.83,117.5,29.32,Closed,iem
+928df2ee-1fb6-4831-afe6-2b0e2b0655d9,Paiaudio MR2,136.93,121.61,29.38,Closed,iem
+3c6bba32-d5ae-4e6e-9a96-2240be184e19,Paiaudio MR3,132.81,118.08,33.61,Closed,iem
+6e55efc6-c332-4c1c-8c84-5cf6386d2714,Panasonic HJE 120,124.68,107.12,17.55,Closed,iem
+4da18bd7-6106-4e83-9f4a-225d2b5c61d7,Panasonic RP-HT010,114.63,98.7,25.5,Semi-open,earpad
+c97f337d-1efc-4a2b-8683-e67850d18477,Penon Globe,136.86,116.4,8.99,Closed,iem
+180baa4c-b1bd-42ba-b16b-de1a113e7cf4,Penon Legend Off Off Off,139.81,120.34,11.29,Closed,iem
+bb0455b7-15cf-4c0b-8699-fcb87c91f156,Penon Legend Off Off On,139.98,120.43,11.1,Closed,iem
+b064f024-2377-443f-9753-adf6f5bbe5c1,Penon Legend Off On Off,140.45,120.63,10.42,Closed,iem
+2febb06d-607d-4499-a470-7661f2f7b53c,Penon Legend Off On On,140.87,120.84,9.93,Closed,iem
+9e316410-9f96-4968-bdea-a269bba85863,Penon Legend On Off Off,139.9,120.43,11.32,Closed,iem
+416e454e-3b67-4257-a3c8-8a1b7c119fc3,Penon Legend On Off On,140.05,120.5,11.11,Closed,iem
+31c561b2-e0b4-42c3-b40c-3788a4b5cb48,Penon Legend On On Off,140.53,120.71,10.43,Closed,iem
+78caed1b-123d-4f73-b2df-195b5e2115e1,Penon Legend On On On,140.95,120.93,9.97,Closed,iem
+517c4bae-0898-4b85-ab7a-b2c32e34e7d0,Perfect Sound Dido D901,121.56,104.6,20.17,Closed,full
+93e770d1-ec0e-4d0d-a709-975220567def,Periodic Audio Be,130.56,115.99,34.91,Closed,iem
+81468ad9-c417-4433-bfb2-a0f207b3077d,Phiaton MS 400,122.47,108.55,40.6,Closed,full
+255914f0-7018-44d5-aa18-0a81e3b9e6cd,Phiaton PS 320,118.9,103.81,31.01,Closed,earpad
+ee9be5f8-c635-4bc0-8107-cca4ce9a8ca9,Philips EM-6126,121.53,101.8,10.63,Closed,earpad
+90fc1fcc-ce05-43cb-8a3f-de665270dfb8,Philips Fidelio L1,110.49,95.07,28.75,Semi-open,full
+ddd08b20-c789-4a2d-90ca-55fe0b59f984,Philips Fidelio X1,116.18,101.82,36.62,Open,full
+9cfb60b2-b0b1-40be-85f1-26515ea387c0,Philips HP 195,103.62,89.33,37.26,Closed,full
+d6397bd7-ae3e-47ce-ac10-8745819c7780,Philips O Neill SHO 9560,109.86,95.53,36.94,Closed,full
+b658624d-e893-4208-95f0-5491db9fa23f,Philips SHB 9100,113.83,99.23,34.65,Closed,earpad
+79c534f0-3c0f-45b7-bc94-2e62841edc42,Philips SHE 5105,128.39,111.07,18.54,Closed,iem
+a31e253c-19cc-479d-b3f6-aa78d0068685,Philips SHE 7000,124.14,106.82,18.54,Closed,iem
+fe9c0b97-8e3e-4556-8c3d-b50c7b0ee642,Philips SHE 8000,129.5,112.09,18.17,Closed,iem
+4133ece8-5593-42b2-8377-aa8902f4adcd,Philips SHE 9005a,127.82,110.59,18.91,Closed,iem
+8b1d0f3f-056d-4baa-ae44-8966b9f64180,Philips SHE3590,126.48,108.83,17.16,Closed,iem
+39a11638-c890-4bfa-9eed-aa5be532c357,Philips SHE3700,128.04,110.2,16.44,Closed,iem
+53a27d9b-0a12-4564-b829-cc3699acfd7f,Philips SHG 7210,112.6,97.98,34.5,Closed,earpad
+6065f2b0-9a35-492d-a0a4-8b349912d52b,Philips SHL 5905 BK,107.63,94.88,53.07,Closed,full
+3ce347e8-bdcd-4099-a647-443d2ca74b91,Philips SHM 6110 U,113.17,98.05,30.77,Closed,earpad
+e41a1f40-7903-4db7-ae8c-9abc48acbe52,Philips SHM 6500,101.33,88.27,49.43,Closed,full
+d00fda11-9ccf-42d8-a336-69eed9de2773,Philips SPH 6000,110.07,95.6,35.75,Closed,full
+c19af7ac-8972-4dd5-92cc-bdb183fb4746,Philips TAE4105,126.18,111.49,33.93,Closed,iem
+da713963-bd82-472d-97cf-22ceaf962719,Philips TAUE100 In Ear,129.82,115.09,33.67,Semi-open,iem
+d337a2d3-98a7-43e1-b269-f6dda3283716,Phonak Audeo PFE 111 112 Complete Black Filter,123.67,109.45,37.83,Closed,iem
+63ee62ae-95aa-4d4a-b34d-b6415cc783a4,Phonak Audeo PFE 111 112 Dark Grey Filter,123.93,109.7,37.83,Closed,iem
+d1c2210d-59a4-4545-9988-75d6de78bb58,Phonak Audeo PFE 111 112 Green Filter,122.09,107.87,37.83,Closed,iem
+f28ab458-79af-4ef0-950c-40605955e34e,Phonak Audeo PFE 111 112 No Filter,126.97,112.74,37.83,Closed,iem
+6cf6b53d-0b3d-41ea-b009-d96bc0a93b5e,Phonak Audeo PFE 111 112 Universal Black Filter,121.94,107.72,37.83,Closed,iem
+710af9e6-b550-4c28-8cf8-61723c12febc,Phonak Audeo PFE 112 Light Grey Filter,125.56,111.34,37.83,Closed,iem
+ecee7bbb-766b-4dd3-b232-686baf478f02,Phonak Audeo PFE 232 Complete Black Filter,122.39,107.97,36.17,Semi-open,iem
+26980835-ef46-4946-89e1-9c899f84635e,Phonak Audeo PFE 232 Dark Grey Filter,120.01,105.59,36.17,Semi-open,iem
+155d5c8e-a2cf-4d9e-bcee-9c62e3422fa9,Phonak Audeo PFE 232 Green Filter,119.56,105.14,36.17,Semi-open,iem
+bbd68fef-bd10-4f92-bdb5-896f443bb899,Phonak Audeo PFE 232 Ligth Grey Filter,124.9,110.48,36.17,Semi-open,iem
+829a5b22-8303-4328-80bb-ce15d91c9a9c,Phonak Audeo PFE 232 No Filter,126.57,112.15,36.17,Semi-open,iem
+e831e2fc-ef0e-4f0f-8708-d1477c9a6450,Phonak Audeo PFE 232 Universal Black Filter,120.01,105.59,36.17,Semi-open,iem
+6132dbe2-373f-4a74-80af-fd39705c9dba,Pioneer HDJ-1000,112.71,100.52,60.35,Closed,earpad
+0812c568-668c-48c5-a70a-74714bcbc5f1,Pioneer HDJ-2000,115.57,101.58,39.94,Closed,earpad
+c8239ed8-6285-4f02-91d3-9983bcc5c620,Pioneer HDJ-500-K,115.22,102.94,59.17,Closed,earpad
+f52f3ba2-ce2d-45a8-aaed-99e750ca7732,Pioneer HRM-6,117.85,104.26,43.74,Closed,full
+5869fd3c-d96c-4721-af8f-49dac34e9018,Pioneer SE 700,85.54,92.81,5331.77,Open,earpad
+a9323c70-ee29-4913-a64f-3f40a945f7df,Pioneer SE-CH5 BL,127.18,111.29,25.74,Closed,iem
+3336aff7-1ff8-42a6-8b13-693501023e9d,Pioneer SE-DJ5000,115.69,103.43,59.37,Closed,full
+cfb54dc5-974d-478e-93fc-24f3c1453db8,PMV PP All Closed,123.23,105.89,18.44,Closed,iem
+2a3f885c-2ac6-499b-ad5d-220ffa14e2d8,PMV PP Default,123.07,105.72,18.44,Closed,iem
+fa41ff14-2323-4b3f-890c-f1ee90f9fae4,PMV PP In Closed,123.34,106.0,18.44,Closed,iem
+e093167e-828a-4adc-a713-f0b37c2dd304,PMV PP Out Closed,122.96,105.61,18.44,Closed,iem
+d099439b-3440-4c85-b824-63f6476279f3,Prodipe 3000,118.62,104.38,37.63,Closed,full
+cb838f01-47f9-417f-accb-18f6e49296a5,Proel Eikon H1000,113.69,99.33,36.62,Closed,full
+db42b757-10b7-4631-9dca-9b02ac9b1e19,Proel Eikon H200,118.7,104.43,37.41,Closed,full
+2a7b63a8-a9c3-45a5-89c7-cc622d5cee6f,Proel Eikon H800,117.59,104.07,44.49,Closed,full
+aeb2a909-7756-4eb8-a38c-d1c2da031c78,Prology PL170,134.3,120.86,45.37,Closed,iem
+1cf53a81-9cbf-4ff7-a9f9-ea983a51747c,PSB M4U 1,118.82,104.35,35.77,Closed,full
+2b44557a-9373-4250-95d8-584de3ff9d2d,QDC Anole VX,135.94,120.3,27.27,Closed,iem
+b755b502-6bbf-4c15-956f-2f3abc52f36e,QDC Neptune,136.33,117.57,13.32,Closed,iem
+ef1b9622-523b-413b-a72d-5fbb23e7dc1b,QKZ VK4,132.22,114.27,16.03,Closed,iem
+790b7461-bd12-449f-86e3-635603408faa,QKZ X36M,126.83,109.04,16.65,Closed,iem
+05f607aa-8eca-400f-8127-84473a2c9fdb,Quad ERA-1 Hybride cushions,111.83,95.31,22.3,Semi-open,full
+f9c76d3a-049f-4094-84d6-62b3c3ec584c,Quad ERA-1 Leather cushions,111.07,94.55,22.3,Semi-open,full
+98f5fdc7-08ee-48c4-8c20-5ba763765a01,QUIK LOK HP-10,124.37,110.21,38.43,Closed,full
+b94bc158-a5c8-45ea-ba6e-71c1f7c1ff63,Radius HP-TWF-21,125.28,108.94,23.25,Semi-open,iem
+68429970-bf8d-4ff2-b3dd-09ad017dac08,Razer Kraken Pro V2,122.45,107.32,30.66,Closed,full
+2c93536b-0972-42d4-ad95-f64dd439a006,Remax RM-580,126.46,110.74,26.81,Closed,iem
+fcd55cf6-371c-42f9-a524-08f0b5d94169,RHA CL1 Ceramic Default,115.06,105.98,123.56,Closed,iem
+9054acc8-1d98-42b4-8a79-6fd9ae37a5e8,RHA CL1 Ceramic Sealed,115.99,106.91,123.56,Closed,iem
+b15ebfcc-6be8-4b69-9879-92d8183f15db,RHA CL2 Planar Wire connection,123.04,104.92,15.43,Closed,iem
+2fd51382-b5f1-4d40-99cf-63274a53f27c,RHA MA750,128.58,111.28,18.64,Closed,iem
+067e264a-bcca-4884-978e-5df14c68cfcd,RHA MA750i,127.09,109.59,17.79,Closed,iem
+06aea82e-2d7d-4aee-a4f1-35b0cf6335ed,RHA T10,120.92,103.48,18.04,Closed,iem
+e0682c98-d18a-49c0-8771-752b657e951a,RHA T20,127.4,107.84,11.07,Closed,iem
+82c0a35d-138d-48c1-aaa9-bc75eb653c1b,Rode NTH-100,117.95,103.56,36.38,Closed,full
+4672aa0a-6e22-4c2b-851c-26c536c96c8d,Roland RH-200,111.66,99.86,66.02,Closed,full
+23407984-e5d3-4648-b8c2-56d70fc5fd11,Roland RH-A30,116.58,103.03,44.17,Open,full
+0e277913-1341-47a7-b259-46aa8e749750,SeeAudio Yume Azla Xelastec Tips,129.57,111.27,14.82,Closed,iem
+99c79144-79be-44a6-9b27-7af33cd925f6,SeeAudio Yume Foam Tips,131.46,113.17,14.82,Closed,iem
+dd1bf076-570f-4c34-8248-2cd730a2e1a1,SeeAudio Yume Gray Tips,130.0,111.71,14.82,Closed,iem
+8ef40fa9-f61d-4ae5-bdfd-790015ba64a6,SeeAudio Yume Hybride Tips,131.85,113.56,14.82,Closed,iem
+17fb1fa3-71ca-42f3-bec2-830dd4c67796,SeeAudio Yume Short Foam Tips,130.08,111.79,14.82,Closed,iem
+0cfaa2eb-4612-468f-9d3b-810b46b43cb2,SeeAudio Yume Spinfit CP800 Tips,131.2,112.91,14.82,Closed,iem
+fc44a6a9-bc79-4b87-8e43-051389985c4b,Sendy Audio Aiva,105.78,91.01,33.36,Open,full
+bc874b1d-6d68-46f3-afe8-d253249b4162,Sendy Audio Apollo,111.83,94.12,16.95,Open,full
+b070a546-99af-4332-95d8-17fa05c034b4,Sendy Audio Peacock,115.9,102.72,48.13,Open,full
+18844bfd-8357-4292-9482-6094f51db862,Sennheiser Amperior,113.29,96.7,21.94,Closed,earpad
+2b85b523-c8f9-4bcf-ad52-3842ef4fd71e,Sennheiser CX 1.00,122.8,107.64,30.43,Closed,iem
+e50b2c29-6ac3-41c4-a200-0c7975551704,Sennheiser CX 100,123.41,107.76,27.24,Closed,iem
+9cfe4ab8-7609-4e20-bbe1-519f6d8d154b,Sennheiser CX 180 Street II,129.02,111.14,16.32,Closed,iem
+aeb53ae8-72be-47ed-9fe5-e8b84fc71be3,Sennheiser CX 2.00,124.01,108.69,29.4,Closed,iem
+8623d877-43d2-4743-bcca-d8fbe4c6e646,Sennheiser CX 200 Street II,128.98,111.21,16.7,Closed,iem
+054ebefe-1d50-4178-9002-ea68bdf675bd,Sennheiser CX 3.00,124.61,107.57,19.76,Closed,iem
+5a3748e7-a208-4d18-b284-c1f59140575c,Sennheiser CX 300-II,130.54,112.63,16.15,Closed,iem
+88f2e0f1-31db-4ec7-91c0-4e5ef2083533,Sennheiser CX 5.00,124.87,107.85,19.88,Closed,iem
+ca3d7033-ef6e-43e8-8bc4-07f5a5b85cd1,Sennheiser CX 550,131.94,114.16,16.68,Closed,iem
+fff277e0-daac-4c10-a7e6-f2014519efea,"Sennheiser CX 870, CX 880",120.58,105.93,34.23,Closed,iem
+e823b56e-4f37-45bf-afbf-8f673c4e04cd,Sennheiser CX 980,119.66,104.94,33.74,Closed,iem
+d5d38c8b-96f5-4df6-9f5a-18a651e1b15a,Sennheiser CX-400 II,126.09,108.91,19.17,Closed,iem
+a28be1ed-08bb-4e2e-9643-233a269e529f,Sennheiser eH 2270,103.32,91.73,69.29,Closed,full
+a230aac7-70b1-4ed2-b940-f71b815ebb33,Sennheiser Fake IE 80 Max,131.01,113.13,16.27,Closed,iem
+c0592d5e-e6ae-48d9-8b8e-8909e753b34d,Sennheiser Fake IE 80 Min,130.92,113.03,16.27,Closed,iem
+cc63a8c4-0dd3-4590-a1e4-daa79f3d752f,Sennheiser HD 202,118.73,104.08,34.29,Closed,full
+189e88d5-0042-41ca-aa8d-c028dc3fbc1f,Sennheiser HD 206,111.9,96.14,26.56,Closed,full
+533fe7a1-6a82-415d-b4f4-9673ef8b49ad,Sennheiser HD 206,113.93,98.01,25.57,Closed,full
+d240e129-8cf1-4033-a49f-efe6e353ae18,Sennheiser HD 212 PRO,114.13,99.67,35.88,Closed,full
+9089e7ca-9314-4845-9d16-7e5ca76494ea,Sennheiser HD 215,111.4,97.67,42.31,Closed,full
+871cc6d8-3915-4c71-b524-9c78fe4f4473,Sennheiser HD 218,112.18,96.27,25.63,Closed,earpad
+ab261ea2-2ec0-4d00-a10d-a190f34b60d4,Sennheiser HD 228,111.32,95.5,26.14,Closed,earpad
+7825701e-0e21-44b9-a4fa-5beac29e35ac,Sennheiser HD 25 II,109.77,98.52,75.05,Closed,earpad
+6a32ddcd-3681-4cad-a26f-1fedb9087c58,Sennheiser HD 25 Tight Fit,121.91,110.23,67.96,Closed,earpad
+7b40e946-1d7f-4b11-997d-7a41864b1ce6,Sennheiser HD 25-C II,114.78,103.22,69.78,Closed,earpad
+6fb9230a-a60b-48ce-8075-5d8ce71010f7,Sennheiser HD 280 Pro (mk2),116.57,105.05,70.45,Closed,full
+659dfc63-212f-4a60-b79b-ff985cef1df6,Sennheiser HD 280-13,107.8,103.88,406.07,Closed,full
+c6557caf-36fb-4a37-b89e-94cb8ff291ef,Sennheiser HD 380 Pro,114.49,102.41,61.85,Closed,full
+8c8ca3a8-509b-43b1-9f82-ccde0cc96db6,Sennheiser HD 4.20s,115.97,99.52,22.63,Closed,full
+cc6ce07e-5c9f-4a48-a527-8f51f5cf98d9,Sennheiser HD 4.30,116.73,100.35,23.06,Closed,full
+d6c4cc30-5de1-410d-be0c-383bd4c6f125,Sennheiser HD 449,110.34,96.24,38.96,Open,full
+6d97d607-0483-43b6-a97f-09fc85c01318,Sennheiser HD 451,111.6,97.35,37.58,Closed,full
+13363c3a-2ca5-4996-9ede-d7c7ca720e46,Sennheiser HD 461G Natural fit,113.68,99.43,37.64,Closed,full
+6d1a8421-cead-4ae7-9bda-913ec18ade55,Sennheiser HD 461G Tight fit,115.03,100.78,37.64,Closed,full
+ab70e88d-57d6-4f28-ac15-efe6918e1da8,Sennheiser HD 490,111.44,97.17,37.37,Open,full
+39769f9b-6811-4baa-97fa-3865a841801d,Sennheiser HD 515,113.7,102.21,70.97,Open,full
+84d88c9d-7108-40d6-8104-f708c47365f2,Sennheiser HD 518,113.25,102.94,93.06,Open,full
+cc81a21d-59b2-41ba-87d1-827e865bb428,Sennheiser HD 555,113.4,103.47,101.6,Open,full
+6e80a908-37e6-4d05-abca-495e15e18bde,Sennheiser HD 558,110.13,99.32,83.1,Open,full
+ad615e89-08f1-4f9e-9c2b-c8c2775e5980,Sennheiser HD 560s,111.63,103.72,161.69,Open,full
+2d49279f-769c-4493-8af5-f323d1a5efb7,Sennheiser HD 569,118.88,103.4,28.35,Closed,full
+c0d65249-33d6-4e03-9a17-310e25159b61,Sennheiser HD 579,111.05,99.93,77.35,Open,full
+abaab924-0c5f-4bad-abaf-65f94e0d73f7,Sennheiser HD 580,108.24,103.55,339.71,Open,full
+9aafccab-4b70-413d-a081-50b51d1dd5e7,Sennheiser HD 595,112.03,101.8,94.94,Open,full
+d6db9b76-76ae-4b03-afa5-1dfac9c9b94d,Sennheiser HD 598,111.49,100.71,83.52,Open,full
+949a9a70-b8e9-45de-b941-d057f1e194dd,Sennheiser HD 599,112.17,100.95,75.49,Open,full
+d07535ce-068f-4407-8bad-f8e91666e4a1,Sennheiser HD 600,105.08,100.54,352.12,Open,full
+1717be5c-2070-4cb3-9f87-4d90d164c06a,Sennheiser HD 650,105.08,100.45,344.89,Open,full
+300eddd2-b2e0-4281-8278-440f90156725,Sennheiser HD 660s,110.15,103.51,216.75,Open,full
+f7e62bc3-eed1-442f-bc8e-84bda3f4dbb3,Sennheiser HD 700,104.24,97.95,234.88,Open,full
+e5fee286-d93d-47ff-8231-f5d2656f3018,Sennheiser HD 800 American Cushions,105.49,101.91,438.93,Open,full
+f9a9d107-5f36-4fc8-b488-efd43877998b,Sennheiser HD 800 Default,103.76,100.09,429.38,Open,full
+55c6510a-4312-4177-8e67-f7e22c39acd1,Sennheiser HD 800s,105.18,101.64,442.68,Open,full
+1da6e5fa-3977-4954-92d3-9c5dc7af7a83,Sennheiser HD7 DJ,113.97,104.55,114.16,Closed,full
+c5a91ffb-e3bd-4712-adad-7316c88db74d,Sennheiser IE 300,129.84,111.55,14.81,Closed,iem
+69cc3abb-2306-4324-ad4e-0cfdb9553f21,Sennheiser IE 400 Pro,129.87,111.46,14.44,Closed,iem
+615ddfe7-697d-4ee3-ac11-41816a28f75d,Sennheiser ie 80 Max,131.81,114.13,17.05,Closed,iem
+3c6aaa28-e10d-4b10-932a-2d814635a070,Sennheiser ie 80 Min,131.67,113.99,17.05,Closed,iem
+05f2f96a-4961-4ef8-90ca-774fe276e519,Sennheiser ie 800,125.04,107.5,17.63,Closed,iem
+85831ba3-afa4-4701-a25b-662f8e113a8f,Sennheiser ie 800s,127.03,109.42,17.36,Closed,iem
+5930c921-7cd3-4321-b3ea-2610ccb3acea,Sennheiser ie4,127.3,109.74,17.54,Closed,iem
+c057525e-24c5-496d-905e-6847646e12f7,Sennheiser ie60,130.0,112.1,16.24,Closed,iem
+b61414c4-9683-4fbd-947c-6a4f7a0a11c7,Sennheiser ie8 Max,130.08,112.41,17.09,Closed,iem
+5e90b52f-54a2-4d6f-852d-eb8f7bf9d13e,Sennheiser ie8 min,129.73,112.06,17.09,Closed,iem
+1331930f-786d-4be5-9f58-240885342bf4,Sennheiser MM 50,132.69,114.85,16.44,Closed,iem
+90fa1799-fb4f-4771-96c0-e120b3060162,Sennheiser MM80i,129.57,111.73,16.45,Closed,iem
+7e872f6b-91aa-43ce-8326-c63a90420aa4,Sennheiser Momentum,119.65,103.23,22.81,Closed,full
+cea76a32-6c06-4014-9b54-2f55118783db,Sennheiser Momentum 2.0 In-Ear (M2 IEi IEG),120.66,103.67,20.0,Closed,iem
+840fa279-ae33-41a1-9217-96981e5ead77,Sennheiser Momentum on-ear,114.54,98.17,23.09,Closed,full
+31a82243-ebba-47e7-94d7-6050e669e0c9,Sennheiser Momentum On-Ear Wireless (M2 OEBT) Tight Fit,124.46,120.33,386.27,Closed,earpad
+7519b8bf-723a-4181-9ce9-f3225223b2f0,Sennheiser PC 330 G4ME,110.61,96.78,41.47,Closed,full
+dcb086ae-c042-4ede-91e2-28cea515bc70,Sennheiser PC 350 Xense,106.97,101.02,253.94,Closed,full
+1531bcc6-fc72-4ba5-9147-fb4cf542b9c4,Sennheiser PX 100,124.83,110.87,40.12,Semi-open,earpad
+918122cd-84aa-4263-9fed-423e39969ede,Sennheiser PX 100 II,111.6,97.52,39.15,Open,earpad
+12ef8789-55fc-4cc4-938c-86be5ea6cdee,Sennheiser PX 200 II,108.83,94.73,38.93,Open,earpad
+8fc4181a-79f2-4c4b-bf3a-f86e081ab009,Sennheiser PX 90,103.3,88.77,35.29,Open,earpad
+1e74f134-651a-45bc-a8af-b4edba5c5863,Sennheiser PXC 550 Wireless Wire connection,96.57,93.04,443.66,Closed,full
+b5e8ca1a-dd09-4f8c-bef5-955986166e55,Sennheiser URBANITE XL,116.07,99.85,23.85,Closed,full
+a1ed1ae0-5fe2-4e90-b99f-148ea3a5b5ab,Shanling ME100,134.48,116.97,17.72,Closed,iem
+46692178-dd09-4aaf-9090-10c68efd0d39,Shanling ME80,136.56,118.28,14.86,Closed,iem
+77601da0-9728-4f8e-a025-8410a495b9f1,Shozy Hibiki Mk.2,128.59,113.97,34.5,Closed,iem
+181f0711-13f3-43c0-9213-6cdd79339f45,Shozy V33,127.05,109.22,16.49,Closed,iem
+a6cbcde3-3683-43c0-9462-4dd4a02a69bc,Shozy V33 Pro,128.37,110.47,16.24,Closed,iem
+7d6b54c5-c1d9-4b2f-9ccc-f696036762c1,Shozy Zero,125.52,107.67,16.4,Closed,iem
+7dd13bf1-4d52-4476-bd8c-5c63ff483f33,Shuoer Tape Pro,127.06,108.92,15.36,Closed,iem
+50e10622-6bf6-43e0-94d1-5326aa430885,Shure SE 102,125.09,107.1,15.88,Closed,iem
+1a5ffea1-09b6-42ea-8c8b-de8974947c2a,Shure SE 215,125.3,107.4,16.22,Closed,iem
+d76e1660-8620-4c73-97ec-aa3aeb3b22c3,Shure SE 315,132.97,118.25,33.7,Closed,iem
+0ed90cb1-831a-4325-9432-fb5a8c41f95f,Shure SE 535,133.99,118.14,25.99,Closed,iem
+98f65881-a9ac-418a-8530-3b27a7ac6edf,Shure SE 846,135.54,115.95,10.99,Closed,iem
+eafca684-8caf-4ec3-be27-e65b223b8718,Shure SRH 1440,109.12,94.99,38.66,Open,full
+125a87d8-0f4d-4768-ba74-5d546c08c9e5,Shure SRH 1540,112.53,99.14,45.81,Closed,full
+f40929fc-00a4-48bf-af21-0eb981d9f6be,Shure SRH 240,126.91,112.8,38.85,Closed,full
+87f4269b-43cf-4f14-a538-ddc38a9b698b,Shure SRH 440,117.53,103.8,42.37,Closed,full
+0ccb8a7c-7a81-48fa-92b9-6c8b8f4c1778,Shure SRH 750DJ,112.28,98.29,39.98,Closed,full
+6c2a74d7-eab9-4a3b-98d6-3aa011873303,Shure SRH 840,111.82,98.23,43.78,Closed,full
+d1bffbea-ace9-4c8d-9df7-1b872d826e3f,Shure SRH 940,114.8,101.05,42.13,Closed,full
+194f3388-7b87-42ef-8377-27236046b788,Shure SRH1840,108.84,96.92,64.34,Open,full
+b21e35ce-88b8-4760-b817-277d8cc982aa,Shure SRH440A,120.88,106.55,36.86,Closed,full
+a1e56761-c714-49db-8ab2-2e3fe46bd8af,Simgot EK3 Off-Off,137.78,121.67,24.48,Closed,iem
+201aefd8-db2d-45b7-a50a-b239d68c727b,Simgot EK3 Off-On,139.0,122.44,22.08,Closed,iem
+09135b95-6a7e-4e2c-a7c6-6da4c441d4b2,Simgot EK3 On-Off,137.76,121.42,23.23,Closed,iem
+5c52565d-932d-4321-b64e-4e4c730a7301,Simgot EK3 On-On,138.92,122.15,21.05,Closed,iem
+ce47786f-6c2e-47db-b5d0-be7f76250da3,Simgot EM1 Default,131.86,114.53,18.46,Closed,iem
+1aaacca7-b2d1-4851-9342-94f08c163444,Simgot EM1 Sealed,133.34,115.97,18.32,Closed,iem
+e09b206a-5647-4474-938b-999d6eaf86c8,Simgot EM2 Default,137.78,119.08,13.5,Closed,iem
+63967421-87c9-4852-b0df-5aeddb308a19,Simgot EM2 Sealed,138.01,119.31,13.48,Closed,iem
+3be6c869-6a80-4c11-bd2a-0fdce770cbd2,Simgot EM3 Default,127.71,109.82,16.27,Closed,iem
+cb23c7d5-68cc-4183-8ce5-c420d5277a97,Simgot EM3 Sealed,129.97,112.08,16.27,Closed,iem
+2325135f-16f9-4496-bdfd-458ea34fdd86,Simgot EM5 Default,127.74,109.86,16.29,Closed,iem
+58f0e54e-d4f0-4e15-86bc-f976a938a1b2,Simgot EM5 Sealed,129.47,111.58,16.29,Closed,iem
+ec51d946-5c1a-4d9f-8518-788b69283130,Simgot EN700,130.16,114.23,25.51,Closed,iem
+2fb36ee5-714d-4f7f-802d-4d78279a1178,Simgot EN700 MKII Default,132.91,115.32,17.42,Closed,iem
+8e8ff624-36b4-4300-80cd-4feb5ca561d0,Simgot EN700 MKII Sealed,133.49,115.9,17.39,Closed,iem
+7ea94fea-bed2-468e-ba47-74064e619ce1,Simgot EN700 Pro Default,132.46,114.9,17.54,Closed,iem
+d5a53aa0-5c6a-43f8-a7ac-8c3a0f9a470a,Simgot EN700 Pro Sealed,133.16,115.55,17.35,Closed,iem
+8c175d6b-58c4-46a5-bbd8-00af63373b0f,Simgot ET1000 Hybrid cushions,114.31,97.39,20.36,Open,full
+7d707ab1-2760-4a3e-8e21-7c38ca0686b0,Simgot ET1000 Leather cushions,112.53,95.62,20.36,Open,full
+25dbebb5-9a62-4aac-8c23-b7c0d66e9aaf,Simgot MT3 Meeture Default,132.48,115.03,18.0,Closed,iem
+e42e4c9b-0835-449e-aa37-b4cd43c817c5,Simgot MT3 Meeture Sealed,133.23,115.78,17.98,Closed,iem
+b310faa2-1086-4561-9b95-a0aa86c7d04d,Simphonio RX10,122.85,110.86,63.23,Closed,iem
+a8d587f8-d395-4970-90a1-ca063d0f1c37,Sivga Audio Oriole,120.86,106.47,36.36,Closed,full
+9e6cd86b-db56-46f0-be5c-752d73c5d94d,Sivga Audio P-II,106.5,91.77,33.66,Open,full
+1148e6bc-6d2b-4364-8b8d-dff750c24dc1,Sivga Audio Phoenix Cushions 1,117.42,102.54,32.47,Open,full
+61420976-8285-425f-baa2-94c14363eccb,Sivga Audio Phoenix Cushions 2,116.84,101.95,32.47,Open,full
+f58ef411-5561-439d-8c02-9f90377f3d66,Sivga Audio SV021 Robin,116.26,101.64,34.54,Closed,full
+16f4a390-9dee-4650-8705-dd5e51f534c7,Sivga Audio SV023,108.62,103.82,331.73,Open,full
+5323d7b7-619f-4880-b159-9219dc365637,Skullcandy SK Pro,114.21,102.66,69.97,Closed,full
+8bff198b-de26-4a23-a751-8eba03a77952,Smabat ST 10s,128.35,114.56,41.82,Semi-open,iem
+63399ecb-2d90-4489-91d9-d3be856f2109,Smabat X1 Hi,119.76,110.38,115.44,Closed,iem
+b788a995-4a3c-4fe8-a33a-b6ec59cb5574,Smabat X1 Low,126.09,110.78,29.46,Closed,iem
+1b1dda2c-da1e-4e13-a886-87563301f92e,Snorry Trion,98.82,82.49,23.25,Open,full
+b1f32a27-af27-42a5-ba63-9b65502b9387,Snowy88 Hybrid 5 Filter 1,135.29,118.3,20.01,Closed,iem
+cea576ca-d7a4-4bf9-949e-bbf81835e0cc,Snowy88 Hybrid 5 Filter Brown,136.83,119.84,20.01,Closed,iem
+29380a48-b493-4a27-afec-d0f9a5bcf3f1,Snowy88 Hybrid 5 Filter Green,134.84,117.85,20.01,Closed,iem
+80f09d29-17da-4f69-a0a3-d09208dc3664,Snowy88 Hybrid 5 Filter Red,133.74,116.75,20.01,Closed,iem
+8a6fa4e1-810b-4fdd-8c76-ab98c4e28531,Snowy88 А6,128.47,115.42,49.52,Closed,iem
+4c155d0e-a9f8-4c2c-8d81-4a08b99ed3bc,SoftEars RSV,132.89,112.23,8.6,Closed,iem
+4d4b0960-0175-44bb-a17f-703b8e2f8afc,SoftEars Turii Ti,130.49,114.39,24.55,Closed,iem
+41608edd-320a-4a4f-85d7-2bc9100b5cfa,SoftEars Volume,129.88,108.02,6.51,Closed,iem
+af556861-19df-4a69-8d89-a53b9b16468f,Sony 10RBT,106.27,92.77,44.72,Closed,full
+e1f8303f-f235-408d-b248-ab0c9172c396,Sony CD3000,114.05,100.14,40.62,Closed,full
+00965f16-7c25-45dd-8d8f-a7e757336d93,Sony Fake MDR V 700,119.4,105.82,43.91,Closed,full
+a0834061-4fad-47cd-a444-609c58ff5d33,Sony Fake MDR-7506,121.18,110.16,79.07,Closed,full
+62cbd6b4-3243-416a-b78d-b131b9aef481,Sony IER-M7,124.8,108.88,25.62,Closed,iem
+44ba0bca-ffa1-47d6-8c7e-38a528221e34,Sony IER-M9,125.92,108.9,19.86,Closed,iem
+8189f289-92b6-4ee4-9dd6-2f1a961349c2,Sony MDR 10RC,105.74,92.22,44.45,Closed,earpad
+08e9f2be-55f0-40d6-8455-a89d8fa53dc1,Sony MDR 1R,125.4,110.59,33.05,Closed,full
+438dcb82-2cdc-463a-a17e-6025a7bb9dbf,Sony MDR EX0300 Complete Player,124.66,106.96,17.02,Closed,iem
+6bca7dd6-19aa-4aa8-88bc-77cfd281f76c,Sony MDR V 500 DJ,111.74,97.88,41.06,Closed,full
+10cf4261-732a-4a19-a0c0-57101e4bb329,Sony MDR V 700,122.56,107.08,28.35,Closed,full
+c11caa0b-69d4-4948-92bd-6df9ee6d6116,Sony MDR-1A,116.85,101.64,30.15,Closed,full
+33cddb5b-7e01-4b63-a183-135f67f706c6,Sony MDR-1AM2,122.71,105.88,20.75,Closed,full
+c1e51745-bf0b-42d9-bdb8-53f55dd9f539,Sony MDR-1RBT Wire,116.36,100.3,24.77,Closed,full
+f2fa27b5-19a1-45be-8f4c-6e9f31a07cb0,Sony MDR-7505,119.53,106.07,45.1,Closed,earpad
+add6c5aa-5c6d-4a89-ae62-c329c3fa1d27,Sony MDR-7506,114.48,103.75,84.51,Closed,full
+868625fc-2634-4bfd-9f68-604d842678cc,Sony MDR-7509 HD,118.21,102.59,27.44,Closed,full
+25a33e84-1833-41c2-922b-b3340af89bc2,Sony MDR-CD1700,114.59,100.54,39.33,Closed,full
+a7472e46-9a13-4a96-a0e4-a818e3fa9bb0,Sony MDR-EX15LP,121.63,103.94,17.03,Closed,iem
+249076b0-a8d9-493d-9c76-0d98a3290560,Sony MDR-EX450,123.91,109.85,39.28,Closed,iem
+04386878-c963-423b-98e1-f4a3f2cb7235,Sony MDR-EX650AP,131.61,114.12,17.8,Closed,iem
+c947b9be-db31-4631-a1d7-f0b8d27f42ce,Sony MDR-MA 900,112.67,94.67,15.83,Open,full
+3f4e8395-b432-4e04-9f9c-631ce54a9097,Sony MDR-NC500D,110.9,97.19,42.55,Closed,full
+e8249de6-f8c2-4559-ab86-15c34fe84729,Sony MDR-NW750N,128.77,111.75,19.86,Closed,iem
+a6560efc-d3ac-4d90-8836-8a597fea6331,Sony MDR-XB300,116.13,100.57,27.82,Closed,earpad
+f27a16e7-6984-4928-8188-57ef4779db2e,Sony MDR-XB500,122.93,109.39,44.27,Closed,full
+2e0d9907-f41d-4a67-a525-a33136b5e3fa,Sony MDR-XB700,119.88,104.33,27.84,Closed,full
+36ad23e1-41cb-4917-ae2d-18fdec7d5d04,Sony MDR-XB950,120.85,105.88,31.79,Closed,full
+a85b3219-ad5d-4108-a9a6-0446e9b22cd8,Sony MDR-XB950N1 Power Off,112.7,98.2,35.51,Closed,full
+9d9f58f9-0169-4e4f-a318-024af714c682,Sony MDR-XB950N1 Power On NC Off,114.69,101.34,46.26,Closed,full
+544975aa-d1fb-4410-8184-8dda6f9cc38d,Sony MDR-XB950N1 Power On NC On,115.0,101.65,46.26,Closed,full
+8f17c272-6682-46b8-bd2b-43432e94063b,Sony MDR-Z1000,116.33,100.73,27.59,Closed,full
+90a70f86-cb15-410b-a2b4-5c693af54768,Sony MDR-Z7,111.37,100.05,73.85,Closed,full
+6750353a-d7bc-4729-9220-0f665d776fe3,Sony MDR-Z7 MK2,115.43,103.0,57.25,Closed,full
+1a7061cd-da04-4d44-b58c-8eacae853c06,Sony MDR-ZX110,117.36,101.45,25.63,Closed,earpad
+91bee17b-3f13-48e6-8f18-0b12cd0b9bff,Sony MDR-ZX700,116.56,100.89,27.11,Closed,full
+0fe193af-f0f6-4013-9e95-b8c25dd500b9,Sony SA1000,109.58,98.57,79.19,Open,full
+ba755f09-b432-4420-886b-cd0bb749529d,Sony SA3000,109.4,98.26,76.94,Open,full
+cfb7fd6a-38dd-45e7-b496-71ed2188bd08,Sony WH-1000XM2 Wire connection,121.31,103.0,14.77,Closed,full
+c3fbe059-c599-4178-a594-aa42eb1e8a61,Sony WH-1000XM3 Wire,121.7,108.39,46.67,Closed,full
+528a5f71-fe32-4c9c-b197-9eb00d9770de,Sony WH-1000XM4 Wire,113.81,96.27,17.62,Closed,full
+c68d4868-7d99-4358-83ba-f7b4d7ac8422,Sony XB-400,110.71,95.28,28.64,Closed,earpad
+8b9c323e-f51f-4745-ac8a-8510f8289885,Sony XB-600,122.67,109.24,45.4,Closed,earpad
+db23fda0-a421-48a1-a774-972d6ed7f1af,Sony XB-900,121.09,105.26,26.15,Closed,earpad
+38d30244-c244-4011-a464-cc6188ee08aa,Sony XB30EX,126.48,109.1,18.29,Closed,iem
+c48c5404-cf67-4807-a5c7-ecd1bfd93351,Sony XB450BV,113.42,103.35,98.37,Closed,earpad
+e26e0250-53be-476f-b319-75351bf9752c,Sony XBA-1,123.86,109.75,38.9,Closed,iem
+ab8dc017-6ddc-4837-a40c-205d52a2f647,Sony XBA-2,125.88,108.81,19.62,Closed,iem
+d02adab6-e95a-4b98-a05f-f6862389d4e3,Sony XBA-3,123.5,106.79,21.32,Closed,iem
+009082be-921b-4e7e-af57-223d47eab694,Sony XBA-4,126.12,106.92,12.02,Closed,iem
+7cad6cc4-d3cc-4a09-b742-8a0129c0a9e6,Sony XBA-A1AP,126.99,112.74,37.66,Closed,iem
+3eb8d42b-dcdf-45c0-8cd5-1998ef46c03e,Sony XBA-A2,126.53,111.78,33.53,Closed,iem
+28396384-0106-4f69-a630-9661fb6e74b6,Sony XBA-A3,123.51,108.79,33.73,Closed,iem
+58f52526-893e-495c-93ae-cbf50087b352,Sony XBA-C10,124.68,110.46,37.86,Closed,iem
+c17084e8-3522-497a-b14f-e0824c5da901,Sony XBA-H1,116.74,103.85,51.5,Closed,iem
+5ca730f1-3f8a-4322-bbfb-c25475fcbb7c,Sony XBA-H3,121.24,107.86,45.9,Closed,iem
+88d43c6e-fb7f-4e87-a0c1-700302196f59,Sony XBA-N1,129.47,112.14,18.51,Closed,iem
+9401f745-6618-43cd-95aa-8eb3c39fac30,Sony XBA-Z5,123.77,108.63,30.61,Closed,iem
+28bf7b2a-66fa-4da9-88a7-bf76c3a41b25,Sound Warrior SW-HP10s,121.69,108.35,46.31,Closed,earpad
+07c0af57-b8ae-4b77-a211-48826eb03be9,SoundMAGIC E10,124.12,110.82,46.73,Closed,iem
+c29a03d3-1ac1-421f-9cb2-e38516c769fb,SoundMAGIC E30,128.79,110.32,14.23,Closed,iem
+b601b3b8-26cc-48fe-b460-721f99264352,SoundMAGIC E50,122.09,109.28,52.26,Closed,iem
+2603fac8-0028-497f-9ae6-b9b88853b711,SoundMAGIC ES18,122.65,109.29,46.17,Closed,iem
+839eed2f-00f9-4f8f-a1c8-5b26cb9fe685,SoundMAGIC HP151,115.37,100.75,34.58,Closed,full
+c27a8850-5495-4455-9d72-a6187cb46b2a,SoundMAGIC MP21,129.1,110.27,13.08,Closed,iem
+61d83559-423b-4612-9df0-19e4bff831a4,SoundMAGIC P10S,122.19,107.54,34.28,Closed,earpad
+ed06c321-42c6-457a-a761-57ca3bd2eeb1,SoundMAGIC PL50,127.55,116.46,77.67,Closed,iem
+7fffd1df-d0dd-498e-8107-83fda3ae225b,Stagg SHP-5000H,127.59,111.22,23.07,Closed,full
+446f87c8-061e-44bc-b311-89ced288b10b,Stax SR-40 SRD4,89.86,74.22,27.3,Open,earpad
+0da6f4e5-6d93-47e1-be93-98d596d6196a,Sunrise Dragon Ear Tips Earbuds R130,120.03,110.81,119.47,Closed,iem
+1404b062-7163-4bf5-8aaf-5a65f9889fa8,Sunrise Dragon Ear Tips Earbuds R130 Vent Sealed,123.95,114.72,119.47,Closed,iem
+1d518ce5-76c1-41fd-9e6d-20e4381a5050,Sunrise Xcape,119.84,102.18,17.14,Closed,iem
+8fb1f18e-f57c-491a-910a-7a87d5c4f9dd,Sunrise Xcited,105.04,87.44,17.36,Closed,iem
+9c011acf-215a-401e-ad12-a45d5493ee42,Superlux HD-330,117.77,113.36,362.09,Semi-open,full
+24855d72-ae7e-4ac7-be4a-c09384642c02,System Elements A3 Lead Solo Pro,133.23,118.15,31.04,Closed,iem
+d5133e9c-c845-4904-98e3-4f88a9665c44,T+A Solitaire P Silver,106.85,95.59,74.84,Open,full
+848ebd59-b315-412e-b9b7-d7030074fd67,T-Peos H 200,129.42,111.87,17.58,Closed,iem
+82502a2b-3a07-49ac-ba2c-ecc8e2a6d609,Takstar HD 5800,115.79,102.4,45.78,Closed,full
+d1f87229-b502-41d4-99a1-40146c40579a,Takstar HD 6000,116.89,104.5,57.67,Closed,full
+cc92cd8e-dab2-4de8-9168-d17569df008a,Takstar HF 580,109.87,95.47,36.38,Open,full
+e0299bfd-1f37-4032-91de-4f23ad906786,Takstar Pro 80,113.79,101.95,65.43,Closed,full
+a0f35d77-2a98-49c0-ac88-ed2f063ba1be,Takstar PRO 82 Step 1,114.8,100.72,39.06,Closed,full
+e6d15cd6-69af-4212-8cfc-dcffe163ac47,Takstar PRO 82 Step 2,115.05,100.97,39.06,Closed,full
+8e2ec3f1-83b4-4d4e-b014-42f2e9bd5d17,Takstar PRO 82 Step 3,115.5,101.41,39.06,Closed,full
+af87abbf-8a8b-481f-85be-8b4a98c730a1,Takstar TS-660,114.41,101.73,53.95,Closed,full
+8aa3cf12-93e5-400c-b855-267c232ca86e,Takstar TS-662,122.68,110.76,64.14,Open,full
+198eca4c-f8d1-4fa4-b591-4b4810460efc,TANCHJIM Blues,128.03,110.34,17.06,Closed,iem
+f09f63fb-b1b4-40ed-ad0b-6fe9de66ebe4,TANCHJIM Oxygen,128.82,112.6,23.84,Closed,iem
+868ef495-e58f-4d9e-82e6-b08139db0fd1,Tansio Mirai TSMR-4 Pro Off-Off-Off,125.86,113.0,51.7,Closed,iem
+f89ed2cf-1ede-4759-b884-d7e1b67570ba,Tansio Mirai TSMR-4 Pro Off-Off-On,137.49,120.06,18.1,Closed,iem
+db86a19f-6415-4f3d-99db-b7e10c49cc16,Tansio Mirai TSMR-4 Pro Off-On-Off,139.1,120.75,14.62,Closed,iem
+ef37fcba-911d-4bc1-864a-c4ba40f5d092,Tansio Mirai TSMR-4 Pro Off-On-On,139.56,120.91,13.65,Closed,iem
+1f6f3355-3da0-447b-b172-3b3159ec4517,Tansio Mirai TSMR-4 Pro On-Off-Off,139.65,120.82,13.1,Closed,iem
+e3e1c261-00d0-44a4-ad1c-a47d0e9e6bdd,Tansio Mirai TSMR-4 Pro On-Off-On,139.67,120.75,12.8,Closed,iem
+8fc767d1-e127-4e66-87fd-eae1ec09a826,Tansio Mirai TSMR-4 Pro On-On-Off,140.27,121.26,12.56,Closed,iem
+841f7426-3322-4e33-8165-63e7ffde4846,Tansio Mirai TSMR-4 Pro On-On-On,140.35,121.29,12.42,Closed,iem
+33de5a21-f6a4-4ec3-8aa2-62e2bbebe284,Tansio Mirai TSMR8 Space Off-Off-Off,118.27,113.48,332.06,Closed,iem
+28d7b440-6a1d-4b84-a03b-594dc42666ef,Tansio Mirai TSMR8 Space Off-Off-On,130.73,114.86,25.9,Closed,iem
+01caf80a-1302-4770-a216-258615a72431,Tansio Mirai TSMR8 Space Off-On-Off,133.64,116.41,18.94,Closed,iem
+58a59904-c485-43fb-973e-2ac3ebce7438,Tansio Mirai TSMR8 Space Off-On-On,134.61,116.93,17.06,Closed,iem
+1c7dc64f-6dc1-444c-995b-d6c2e195365d,Tansio Mirai TSMR8 Space On-Off-Off,136.21,117.87,14.63,Closed,iem
+e2d10d86-ff17-46a5-8aa0-b56aaaf5d452,Tansio Mirai TSMR8 Space On-Off-On,136.32,117.94,14.51,Closed,iem
+8d173622-cd43-4ff8-b872-83824baf43e4,Tansio Mirai TSMR8 Space On-On-Off,136.49,118.07,14.37,Closed,iem
+ff008031-06f6-433c-873f-faf668eb7d78,Tansio Mirai TSMR8 Space On-On-On,136.57,118.1,14.21,Closed,iem
+4e013043-53eb-4411-a098-865f6a6c081b,TDK BA-200,125.01,110.1,32.29,Closed,iem
+703ce050-0187-4b45-adda-3e6c24d88133,Technics RP-F880,117.68,105.68,63.16,Semi-open,full
+0db686d1-097c-469a-8818-0b09f5e126f2,Tecsun Wood Headphones,119.89,105.42,35.76,Open,full
+da434f2e-f6b5-4475-b492-5585cc0883ce,Telefunken TH-120,129.0,110.95,15.66,Closed,iem
+5c50cac5-cfa7-44fb-919e-2c3a02887cd5,Telefunken TH-130,122.06,104.41,17.2,Closed,iem
+d81b2347-7f45-429b-b45e-52efe65c94bb,Telefunken TH-140,126.13,108.1,15.76,Closed,iem
+10f4f8e4-4902-456d-8989-53b8c6e1ccf3,TFZ 1S,131.33,112.94,14.5,Closed,iem
+394183d5-9ac2-4ff8-a43e-95d7ba443262,TFZ Balance 1,131.0,113.1,16.21,Closed,iem
+b9196372-2e5d-4c84-bdde-19b9d0a9c1b8,TFZ King II,135.49,117.76,16.89,Closed,iem
+a0fe7276-3c3f-4bf4-9da8-66ea41bbcc8f,TFZ No.3,137.64,119.82,16.52,Closed,iem
+a39445ae-b841-4c93-8331-f2492141ef91,TFZ Queen,137.1,119.46,17.23,Closed,iem
+756686e8-5a89-4fe0-b16a-58ee2e526e1f,TFZ Series 2,135.45,117.7,16.76,Closed,iem
+e5540ae6-95aa-49d3-8310-e9292bb9c519,TFZ Series 3s,134.56,116.53,15.77,Closed,iem
+ec930c9c-e639-4876-bf69-37667307e267,TFZ Series 4,132.2,117.58,34.56,Closed,iem
+668aed99-9546-48f9-bd6c-95f1c9d03e4d,TFZ Series 5S,134.68,116.4,14.88,Closed,iem
+23c202e1-33cb-4db4-9e3d-72e79af03f51,TFZ Series 7,135.17,116.14,12.48,Closed,iem
+b27697dd-d1b9-4770-9d5c-3a304d82481f,TFZ T2 Galaxy,135.33,117.6,16.85,Closed,iem
+f8d3f1b8-9da6-412c-9be2-0f7358dd3d30,TG 1,98.41,95.68,533.18,Closed,earpad
+95849fb0-41bb-44ba-bf85-37eb6c31a597,THIEAUDIO Monarch,127.44,108.16,11.82,Closed,iem
+2bdd9423-078a-4929-87e1-c274c418d5e6,THIEAUDIO Monarch MKII,124.89,105.18,10.68,Closed,iem
+ae1d38a1-de4c-4728-8ea2-d130f0dd5049,ThieAudio Prestige,118.49,103.36,30.68,Closed,iem
+c4bf7be9-1f11-42ed-8c0a-7b289c9a9f0b,Tin HiFi P1 Default,115.07,97.89,19.15,Closed,iem
+d7a2ca8c-5446-4ffb-8e77-e4eb727d6346,Tin HiFi P1 Plus,122.37,105.87,22.39,Closed,iem
+a4225786-9c0a-48df-aabe-45226f3911bd,Tin HiFi P1 Sealed all,115.46,98.28,19.15,Closed,iem
+17d46ccd-adbb-4704-a1a8-9e6765245729,Tin HiFi P1 Sealed out,114.83,97.65,19.15,Closed,iem
+604b1372-f8b5-40a4-8e4a-4bb3401b51ff,Tin HiFi P1 Vent Sealed,115.53,98.36,19.15,Closed,iem
+be26d8fa-59bb-4fbe-90bb-15414338b9f8,Tin HiFi P2 Close,112.33,97.08,29.91,Semi-open,iem
+49c7d544-aa4d-4de1-afbc-c726081bc009,Tin HiFi P2 Default,112.15,96.91,29.91,Semi-open,iem
+dfea9138-d475-4d14-8a99-12b0b787ca1d,Tin HiFi P2 Plus,111.73,96.79,32.07,Closed,iem
+ed979647-0c78-4278-9a40-2d552d8282c7,Tin HiFi T2,129.38,111.56,16.52,Closed,iem
+bc3b620b-f71a-4d08-8eea-ffc28a5cfeeb,Tin HiFi T2 EVO,124.2,110.23,40.09,Closed,iem
+dc370689-3f23-4b5d-bd9f-07e9ec9de130,Tin HiFi T2 Plus,127.18,111.77,28.79,Closed,iem
+4e8c36fe-61ad-4374-b457-035b9695a7a7,Tin HiFi T2 Pro,129.67,111.69,15.91,Closed,iem
+6f42be70-5c38-4a03-b7b8-d01d7b4495ec,Tin HiFi T3,130.22,112.28,16.04,Closed,iem
+0e216681-bf68-4e98-ab89-a273eeda3577,Tin HiFi T3 Plus,128.39,113.01,28.94,Closed,iem
+8bd86b01-375e-47d5-9c0e-ed96bdc3043f,Tin HiFi T4,128.45,113.31,30.61,Closed,iem
+518a40a2-fc16-48b7-a8e9-71b5781ed501,Tin HiFi T5,128.76,115.7,49.47,Closed,iem
+bf8719aa-676c-4345-af12-2d4dc9942785,Trinity Audio ICARUS III,124.12,108.34,26.45,Closed,iem
+d2664a7b-8dcb-4370-ac52-237b3886e1f0,TRN ST1 MOD,131.08,114.03,19.74,Semi-open,iem
+8a9de65e-bbe5-48be-b905-30c55bfdbbca,TRN VX MOD,129.8,112.75,19.76,Closed,iem
+08e52d22-a355-457f-b2cc-7a5113584dad,TY Hi-Z G3,126.02,109.24,21.0,Closed,iem
+7f802a0c-e5de-4735-bebe-452a137fd10e,Ultimate Ears 900,131.0,114.67,23.3,Closed,iem
+fccc9a8a-5e74-46e3-96c2-cc17f86a86a0,Ultimate Ears super.fi 5 Pro,129.46,115.12,36.82,Closed,iem
+663deaec-af33-484f-a3e7-387bdd3b577d,Ultrasone DJ 1,109.6,95.43,38.26,Closed,full
+963f92f0-1a32-4191-ab71-06a50a754c17,Ultrasone DJ 1 Pro,121.35,109.82,70.31,Closed,full
+6a12df14-7fb9-463d-938e-a9452dc8370e,Ultrasone Edition 10,112.07,97.47,34.67,Open,full
+b03e4fce-3809-4dcf-b8bb-477e53baa494,Ultrasone Edition 12,103.74,90.11,43.29,Open,full
+8e487016-d9aa-40fb-8f8a-d4019270c05d,Ultrasone Edition 8 Palladium,115.32,100.79,35.2,Closed,full
+e3ee6023-866f-4514-b38b-62a9a9648e37,Ultrasone HFI 2400,106.25,95.36,81.49,Open,full
+c8ca7bb2-c4b2-484b-8493-9ac4dc5a76ae,Ultrasone HFI 580,114.72,100.67,39.37,Closed,full
+90b561c9-1373-4eb2-8316-619de189b236,Ultrasone HFI 680,110.55,99.66,81.38,Closed,full
+a511adab-48ef-4384-b225-7b4a3b6e1d21,Ultrasone HFI 780,115.24,101.45,41.77,Closed,full
+c1695cb9-bec0-4411-ae9a-f603a08396ba,Ultrasone HFI-15G,111.02,96.23,33.16,Semi-open,full
+a50e7539-5f65-4e98-9984-91658eeb7093,Ultrasone IQ,128.27,111.04,18.97,Closed,iem
+4acb95b2-3b99-47a4-810d-3275f4dd20ea,Ultrasone IQ Pro,123.13,107.21,25.6,Closed,iem
+1800c8d6-da51-41fb-9f23-56ac8763aed9,Ultrasone PRO 2500,112.25,97.74,35.41,Open,full
+063e0c99-e198-41c4-9278-eb2543ece6f4,Ultrasone PRO 2900,110.24,96.5,42.28,Open,full
+98bdd036-aeb7-4405-9fff-fad1b5da169a,Ultrasone PRO 550,112.71,100.96,66.83,Closed,full
+608df070-4e1d-42d3-a192-687683f36b4f,Ultrasone PRO 750,112.61,98.86,42.23,Closed,full
+34fe7e35-f4fb-4f88-8efc-32f3023a8e1a,Ultrasone PRO 900,110.01,96.47,44.22,Closed,full
+ea9c37cc-50d4-45fe-810e-983dc12d0a22,Ultrasone Pyco,122.55,104.7,16.4,Closed,iem
+f0f2a597-1447-4dd7-b8ff-10feb5acd09a,Ultrasone Signature DJ,113.11,98.87,37.65,Closed,full
+ccc0181e-9e49-4518-948b-7d9bbf95cb4a,Ultrasone TIO,125.85,109.18,21.49,Closed,iem
+cbeca8a2-87aa-4b18-ab5e-0e90231197e7,Ultrasone Zino,114.51,101.23,46.96,Semi-open,earpad
+a9565d5d-2043-43ab-9122-a78780f33649,Unique Melody 3D Terminator,128.71,113.81,32.35,Closed,iem
+7c23ca5a-c6ae-4e85-8cd2-11d6dca04d80,Unique Melody MEST Universal,129.67,111.9,16.71,Closed,iem
+0cc65517-ab8a-4647-b4ab-f1d13f0df6b4,Urbanears Plattan 2,115.18,100.39,33.22,Closed,earpad
+c3e8bd7a-2a48-4c68-9a42-ea333770fd2c,V-Moda LP,114.26,100.25,39.72,Closed,full
+fe2202bf-f281-40af-a2e2-0fa1d9d57d68,V-Moda M 80,121.95,107.09,32.66,Closed,earpad
+fa0dfce7-6436-40bd-a1df-189b37492c11,V-Moda M100,103.09,88.57,35.32,Closed,full
+27c3d111-dd80-4781-bbb8-63ade2c9c178,VA Audio H-1,112.27,94.33,16.1,Open,full
+d8d05dd5-e03c-46f6-a75e-6d27613628fa,Verum Audio Verum 1,117.45,96.13,7.38,Open,full
+fd654b6b-f424-4f9a-aeb1-0bf1f349abc1,Vsonic GR07,127.88,114.31,44.03,Closed,iem
+c7781ab6-3fe7-4674-830a-b1ba36ae6507,Vsonic VSD1S,127.99,113.31,34.02,Closed,iem
+5c0e2f3b-b971-44c3-91f1-2820f143067b,Vsonic VSD3S,131.11,117.03,39.11,Closed,iem
+07224fe9-b4ba-4461-bb6b-e8dde686bc0e,Watson KH 3121,127.51,112.6,32.28,Closed,iem
+e7b98691-102b-4fde-937f-afdf81a4ed22,Westone 1,132.77,113.98,13.19,Closed,iem
+c0a2ac39-65f9-4c59-afc9-7c22a3400d78,Westone 2,129.93,116.39,44.19,Closed,iem
+cf8ebe04-01ff-42ec-99f1-bff6023ea21a,Westone 3,131.95,116.06,25.76,Closed,iem
+cbcdc2f1-26f1-4550-a589-96e16d5d1a63,Westone 4,127.34,111.33,25.04,Closed,iem
+7d19bce3-efcb-4926-b9b2-f4958700df08,Westone Adv Alpha,119.78,102.78,19.95,Closed,iem
+b1d578b1-dd5f-4d63-ac6a-592b42f1601f,Westone B30 Wire connection,135.02,121.73,46.79,Closed,iem
+7a4838d6-ea7b-4ae0-a083-ead7f733e2f1,Westone B50 Wire connection,135.28,119.88,28.84,Closed,iem
+666c0fdb-1380-4b97-84e8-0af24bd76e2b,Westone UM Pro 10,129.19,113.74,28.52,Closed,iem
+bc5ea68d-62d2-4983-9e2f-7501a11590a0,Westone UM Pro 20,136.35,122.53,41.43,Closed,iem
+963ea0ce-6f3d-43d1-b938-c2783e4d5265,Westone UM1,130.2,114.92,29.65,Closed,iem
+ebf78cb1-04c4-4406-9136-9f95cc2a4721,Westone UM10 New,137.74,118.65,12.31,Closed,iem
+e4df0c41-8798-4491-8505-024372a307e0,Westone UM2,134.84,121.13,42.56,Closed,iem
+6dfdb7d2-a844-407c-9768-046876e22ccd,Westone UM30 New,138.34,124.61,42.41,Closed,iem
+c7a6bb41-62d3-49a3-8482-df3d060e7397,Westone UM3X,133.1,119.7,45.71,Closed,iem
+557a5e55-6e9c-4905-922d-bd298f10731e,Westone UM50 New,136.93,121.54,28.86,Closed,iem
+fb3e59a4-d230-4f59-9fde-9743c38b2b31,Westone W10 Wire connection,138.63,119.34,11.77,Closed,iem
+8694836b-1d02-4c40-8da6-428f4c1878eb,Westone W20 Wire connection,135.24,121.32,40.57,Closed,iem
+39eab5f6-2420-4181-b3ac-b16aa4e833da,Westone W30,131.21,118.78,57.22,Closed,iem
+926bcbce-a03c-4630-b057-9c1ba257a0ce,Westone W40 Wire connection,132.99,116.68,23.4,Closed,iem
+8f5c6659-5ec1-4c87-a19b-4d8aee545aa4,Westone W80 Wire connection,142.67,119.1,4.4,Closed,iem
+4834a9db-3176-4275-9701-7318a17a19d3,Whizzer A15,126.6,110.6,25.13,Closed,iem
+a900c553-7e0b-4b53-9312-9e9c6793c8b9,Whizzer A15pro,130.74,113.06,17.08,Closed,iem
+abc41894-17c7-4bd7-9f57-18e4d744b8dc,Whizzer HE03 Default,128.6,113.48,30.75,Closed,iem
+3001277b-8d9d-40ac-9fdf-70f1bee2d941,Whizzer HE03 Vector,128.65,113.5,30.58,Closed,iem
+000bc9c2-ba7b-4315-af71-c8450d80ab94,Whizzer HE03 Vent Sealed,129.93,114.81,30.75,Closed,iem
+79641bc3-ea4a-47e9-b7dc-24d538788217,xDuoo EP1,131.78,114.07,16.95,Closed,iem
+a1bbad94-9096-475a-accd-a3e4f6bbaa98,Xiaomi Hybrid Pro HD V1,124.63,110.26,36.58,Closed,iem
+a6923ada-bc0b-44e5-a978-902280542998,Yamaha EPH-100,124.43,106.58,16.4,Closed,iem
+10871293-b94c-46bb-86d3-826e00614806,Yamaha EPH-30,129.14,111.34,16.61,Closed,iem
+a2db2155-3c05-4f45-a01b-50979019e1c1,Yamaha EPH-50,126.84,109.3,17.63,Closed,iem
+66da1c4f-fca4-463d-b6a9-6ea05eba8f5c,Yamaha HPH-200,111.53,98.53,50.19,Open,earpad
+c22bb32f-0d52-4133-b8a5-1a50378d5ca4,Yamaha HPH-MT 120,107.81,95.9,64.31,Closed,full
+2435dcde-1543-4fb4-8d46-2e148961576f,Yamaha HPH-MT 220,115.29,101.25,39.51,Closed,full
+e2bfe0f8-d588-4a41-9771-e9d8683abc0d,Yamaha HPH-MT220,116.58,102.5,39.09,Closed,full
+a52a6d5d-5bc6-48d8-b0ab-feaf3bc56c41,Yamaha HPH-MT5,119.52,106.82,53.68,Closed,full
+b65b1587-5884-43b9-ad1b-7a6172597d16,Yamaha HPH-PRO 300,119.89,108.27,68.97,Closed,earpad
+2d294f87-6a1a-4ad4-9139-bd0fe9d5cd98,Yamaha HPH-PRO 400,117.84,101.31,22.2,Closed,full
+8138bff3-0023-4e9f-b4b6-ccb8f8067cdf,Yamaha RH-5Ma,115.73,100.99,33.57,Semi-open,full
+97417891-cdfe-4226-b36f-628ce495a280,Yinyoo SA18BA,139.58,119.11,8.98,Closed,iem
+94ac2a26-5f6d-427a-9de5-4a09a9109f3b,Zealot B19 Wire connection,112.07,97.62,35.92,Closed,earpad
+b16216d4-875e-4ddf-9ea4-c9b3c2df3535,Zealot Sparkle B570 Cable Aux,121.66,107.5,38.36,Closed,earpad
+7f57d015-a2f3-4589-95b1-56dd4e450e21,Zoom ZHP-1,116.01,104.85,76.56,Closed,full
+e03205c1-219c-443f-86f8-bc646ddec5f6,ZXC DA-1,127.53,112.42,30.8,Closed,iem
+c07ef4dc-9652-4991-a17d-8042653c068f,ZXC DE-1,112.57,102.63,101.33,Closed,iem
