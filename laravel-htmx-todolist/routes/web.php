@@ -21,14 +21,19 @@ use GuzzleHttp\Client;
 //     [SearchController::class, 'search'];
 //     return view('layouts.master');
 // });
-Route::get('/', [SearchController::class, 'search'])->name('srch');
+
+Route::get('/', function () {
+    return view('layouts.master');
+});
+
+Route::get('/search', [SearchController::class, 'search'])->name('start');
 
 Route::get('/Api-Post-Data', function () {
     $client = new Client();
     $api_url = "http://127.0.0.1:5000/api";
     $res = $client->post($api_url, [
         'json' => [
-            'name' => 'Petr',
+            'name' => 'QWERTy',
             'age' => 23
         ]
         ]);

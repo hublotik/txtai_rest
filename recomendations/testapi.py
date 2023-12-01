@@ -25,27 +25,37 @@ def test_txtai():
     "Maine man wins $1M from $25 lottery ticket",
     "Make huge profits without work, earn up to $100,000 a day"
     ]
-
+    content = request.json
+    # print(content)
+    q = content['query']
     # Create an embeddings
     embeddings = Embeddings(path="sentence-transformers/nli-mpnet-base-v2")
     embeddings.index(data)
-    s_res = []
-    res = embeddings.search('virus')
-    for i, res_list in enumerate(res):
-        data_i = res_list[0]
-        score = res_list[1]
-        s_res += [score, data[data_i]]
-    return s_res
+    s_res = {}
+    s_res_list = []
+    # q = 'eqweqwewq';
+    res = embeddings.search(q)
+    def modify_tuples(tuples_list, attributes_list):
+        modified_list = []
+        for index, string in tuples_list:
+            if index < len(attributes_list):
+                modified_tuple = (attributes_list[index], string)
+                modified_list.append(modified_tuple)
+        return modified_list
+
+    modified_tuple = modify_tuples(res, data)
+
+    return modified_tuple
 
 
 def index():
     content = request.json
-    print(content)
-    Name = content['name']
-    Age = content['age']
+    # print(content)
+    query = content['query']
+    # Age = content['age']
 
 
-    return jsonify({"Your name": Name})
+    return jsonify({"Your name": query})
 
 @app.route('/Getdata', methods=['Get'])
 
@@ -56,3 +66,6 @@ app.run()
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+
+
