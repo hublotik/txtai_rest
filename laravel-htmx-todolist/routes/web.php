@@ -22,9 +22,20 @@ use GuzzleHttp\Client;
 //     return view('layouts.master');
 // });
 
+
+
 Route::get('/', function () {
     return view('layouts.master');
 });
+
+Route::match(
+    ['get', 'post'],
+    'exercises',
+    [TestController::class, 'exercises_func']
+)
+    ->name('exercises');
+
+Route::any('/main_page', [SearchController::class, 'main_func'])->name('main_page');
 
 Route::get('/search', [SearchController::class, 'search'])->name('start');
 
@@ -36,10 +47,9 @@ Route::get('/Api-Post-Data', function () {
             'name' => 'QWERTy',
             'age' => 23
         ]
-        ]);
+    ]);
     $data_body = $res->getBody();
     echo $data_body;
-   
 });
 
 Route::get('/Api-Get-Data', function () {
@@ -67,4 +77,4 @@ Route::middleware('auth')->group(function () {
     Route::resource('todos', TodoController::class);
 });
 
-require __DIR__.'/auth.php';
+require __DIR__ . '/auth.php';

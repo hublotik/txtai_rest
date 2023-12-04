@@ -1,0 +1,47 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class HeadphonesRaa extends Model  
+{
+
+    
+
+    /**
+     * The database table used by the model.
+     *
+     * @var string
+     */
+    protected $table = 'Headphones_raa';
+
+    /**
+     * Attributes that should be mass-assignable.
+     *
+     * @var array
+     */
+    protected $fillable = ['Acoustic_design', 'Impedance', 'Name', 'Sensitivity', 'Sensitivity2', 'Type'];
+
+    /**
+     * The attributes excluded from the model's JSON form.
+     *
+     * @var array
+     */
+    protected $hidden = [];
+
+    /**
+     * The attributes that should be casted to native types.
+     *
+     * @var array
+     */
+    protected $casts = [];
+
+    /**
+     * The attributes that should be mutated to dates.
+     *
+     * @var array
+     */
+    protected $dates = [];
+
+}

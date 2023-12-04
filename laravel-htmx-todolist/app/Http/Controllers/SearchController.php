@@ -9,31 +9,76 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Redirect;
 use Illuminate\View\View;
 use GuzzleHttp\Client;
+use App\Traits\SortAmpTable;
+use App\Traits\SortHAsrTable;
+
+
 
 class SearchController extends Controller
 {
-    public function search(){
+    use SortAmpTable, SortHAsrTable;
+
+    public static function search(){
+        //We should compact query+ uuids after sort order
+
         $search_text = $_GET['query'];
             
-        $client = new Client();
-        $api_url = "http://127.0.0.1:5000/api";
-        $res = $client->post($api_url, [
-            'json' => [
-                'query' => $search_text
-            ]
-            ]);
-        $data_body = $res->getBody();
-        
         // $client = new Client();
-        // $data = $client->get("http://127.0.0.1:5000/Getdata");
-        // $data_body = $data->getBody();
+        // $api_url = "http://127.0.0.1:5000/api";
+        // $res = $client->post($api_url, [
+        //     'json' => [
+        //         'query' => $search_text
+        //     ]
+        //     ]);
+        // $data_body = $res->getBody();
         
-        $api = $data_body->getContents();
-        $data = json_decode($api);
+        // // $client = new Client();
+        // // $data = $client->get("http://127.0.0.1:5000/Getdata");
+        // // $data_body = $data->getBody();
+        
+        // $api = $data_body->getContents();
+        // $data = json_decode($api);
+
+        
+        $data = [['roeurpq', 'ieqwpoie']];
         return view('/search', compact([
             'data'
         ])); 
     }
+
+    public function main_func(){
+
+        $data = [];
+        return view('/main_page', compact([
+            'data'
+        ])); 
+    }
+
+    protected function htmx_test()
+    {
+        $vendor_names = self::get_all_vendors_amp();
+        return view('/htmx_forms.htmx_test', compact([
+            'vendor_names'
+        ]));
+    }
+
+
+    // protected function queryed_amp()
+    // {
+    //     $qrd_amp = self::get_queryed_vendor_amp();
+    //     $save = self::save_csv($qrd_amp);
+    //     return view('/htmx_forms.amp_table', compact([
+    //         'qrd_amp'
+    //     ]));
+    // }
+
+    // public static function txtai_apply(){
+    //     $data = self::search();
+    //     return view('/htmx_forms.txtai_rend', compact([
+    //         'data'
+    //     ])); 
+    // }
+
 
     // public function(){
     //     $search_text = $_GET['query'];
