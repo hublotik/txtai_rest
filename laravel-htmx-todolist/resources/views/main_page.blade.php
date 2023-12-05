@@ -106,15 +106,13 @@
                             <div class="menu-top-nav-container">
                                 <ul id="primary-menu" class="menu">
                                     <div>
-                                        <input hx-post="{{ url('api/amp_price_sort') }}" hx-trigger="change"
-                                        hx-target="#price_sort" hx-swap="innerHTML" href="" name="price_start" id="">
+                                        <input name="price_start" type="text" value="500" id="">
                                     
-                                        <input hx-post="{{ url('api/amp_price_sort') }}" hx-trigger="change"
-                                        hx-target="#price_sort" hx-swap="innerHTML" href="" name="price_end" id="">                                  
+                                        <input name="price_end" type="text" value="1000" id="">                                  
                                     </div>
                                     <li id="menu-item-2019817"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2019817">
-                                        <a hx-post="{{ url('api/clicked') }}" hx-trigger="click once"
+                                        <a hx-post="{{ url('api/amp_price_sort') }}" hx-trigger="click once"
                                             hx-target="#div_to_past" hx-swap="innerHTML" href="">Reviews</a>
                                     </li>
                                     <li id="menu-item-2019818"
@@ -133,6 +131,8 @@
                                 </ul>
                             </div>
                         </div>
+                       
+                        
                         <div class="col-auto">
                             <a href="javascript:void(0)" id="search" class="d-block">
                                 <svg class="search-icon" width="28" height="27" viewBox="0 0 28 27"
@@ -235,13 +235,21 @@
                                                 <form action="" type="post">
                                                     @csrf <!-- {{ csrf_field() }} -->
                                                     <div class="input-group">
-                                                        <select
-                                                            class="bg bg-white border-dark text-dark rounded-0  form-control"
-                                                            name="sort_source" id="cari">
+                                                        <select class="bg bg-white text-primary rounded form-control" name="sort_source" id="cari">
 
                                                             <option value="empty">Choose sort order...</option>
-
-
+                                                            <option value="stereophile" <?php
+                                                            if (isset($_POST['sort_source']) && $_POST['sort_source'] == 'stereophile') {
+                                                                echo 'selected';
+                                                            }
+                                                            ?>>Stereophile</option>
+                                                            <option value="asr" <?php
+                                                            if (isset($_POST['sort_source']) && $_POST['sort_source'] == 'asr') {
+                                                                echo 'selected';
+                                                            }
+                                                            ?>>ASR</option>
+                                                            <input class="btn btn-primary  text-light rounded fas fa-search" id="sort" type="submit"
+                                                                value="sort">
                                                         </select>
                                                         {{-- <input class="btn btn-primary  text-light rounded fas fa-search" id="sort" type="submit"
                                                         value="sort"> --}}
@@ -251,6 +259,7 @@
                                                 </form>
 
                                             </div>
+
 
 
                                         </div>

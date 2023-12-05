@@ -51,10 +51,7 @@
             </div>
             <div class="table-responsive">
                 <table class="table table-bordered">
-                    @php
-                        global $_POST;
-                        
-                    @endphp
+   
                    
                 </table>
 

@@ -29,4 +29,16 @@ trait SortHAsrTable
             return $amp_sort_vendor;
         }
     }
+
+    public static function get_from_uuid($json){
+        $cols_with_uuid = [];
+        // foreach($json as $uuid_simm){
+        //     $matched_cols = HeadphonesAsr::all()->where('id', intval($uuid_simm[0]));
+        //     foreach ($matched_cols as $cols){
+        //         array_push($cols_with_uuid, $uuid_simm[1], $cols->Model);
+        //     }
+            
+        // }
+        return $json; 
+    }
 }
