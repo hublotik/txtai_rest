@@ -23,7 +23,7 @@ Route::any('/test', function () {
 });
 
 
-Route::any('/clicked', [SearchController::class, 'htmx_test'])->name('clicked');
+Route::any('/amp_price_sort', [SearchController::class, 'htmx_test'])->name('amp_price_sort');
 
 Route::any('/queryed_amp', [SearchController::class, 'queryed_amp'])->name('queryed_amp');
 

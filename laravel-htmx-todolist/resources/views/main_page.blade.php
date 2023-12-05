@@ -105,6 +105,13 @@
                         <div class="col-auto">
                             <div class="menu-top-nav-container">
                                 <ul id="primary-menu" class="menu">
+                                    <div>
+                                        <input hx-post="{{ url('api/amp_price_sort') }}" hx-trigger="change"
+                                        hx-target="#price_sort" hx-swap="innerHTML" href="" name="price_start" id="">
+                                    
+                                        <input hx-post="{{ url('api/amp_price_sort') }}" hx-trigger="change"
+                                        hx-target="#price_sort" hx-swap="innerHTML" href="" name="price_end" id="">                                  
+                                    </div>
                                     <li id="menu-item-2019817"
                                         class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2019817">
                                         <a hx-post="{{ url('api/clicked') }}" hx-trigger="click once"
@@ -122,6 +129,7 @@
                                         class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-347 current_page_item menu-item-2022573">
                                         <a href="" aria-current="page">Power Calculator</a>
                                     </li>
+                                    
                                 </ul>
                             </div>
                         </div>
@@ -200,6 +208,7 @@
 
 
         <div id="div_to_past"></div>
+        <div id="price_sort"></div>
         <div class="container-xl">
             <div class="page-content">
                 <div class="section">

@@ -56,9 +56,9 @@ class SearchController extends Controller
 
     protected function htmx_test()
     {
-        $vendor_names = self::get_all_vendors_amp();
+        $sort_bytime = self::sort_amp_by_price();
         return view('/htmx_forms.htmx_test', compact([
-            'vendor_names'
+            'sort_bytime'
         ]));
     }
 
