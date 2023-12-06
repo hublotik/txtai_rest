@@ -7,9 +7,7 @@ use Illuminate\Http\Request;
 
 trait SortAmpTable
 {
-
     public static function sort_amp_by_source()
-
     {
         $sort_option = '';
         if (isset($_POST['sort_source'])) {
@@ -22,10 +20,7 @@ trait SortAmpTable
                     break;
             }
         }
-
         $amp_sort_source = AmpMain::all()->where('Source', $sort_option);
-
-
         return $amp_sort_source;
     }
 
@@ -40,6 +35,7 @@ trait SortAmpTable
             $amp_sort_price = AmpMain::all()->whereBetween('Price', [$start_price, $end_price]);
             return $amp_sort_price;
         }
+     
     }
 
     public static function get_all_vendors_amp()
