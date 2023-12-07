@@ -11,40 +11,45 @@ use Illuminate\View\View;
 use GuzzleHttp\Client;
 use App\Traits\SortAmpTable;
 use App\Traits\SortHAsrTable;
-
+use App\Traits\ApiCall;
+use App\Models\AmpMain;
+use App\Models\HeadphonesAsr;
 
 
 class SearchController extends Controller
 {
-    use SortAmpTable, SortHAsrTable;
-
-   
-
+    use SortAmpTable, SortHAsrTable, ApiCall;
+ 
     public static function search(){
+        $amps_all = AmpMain::all();
+        $headphones_all = HeadphonesAsr::all();
         //We should compact query+ uuids after sort order
 
-        $search_text = $_GET['query'];
+        $search_text = $_GET['headphones_query'];
             
-        $client = new Client();
-        $api_url = "http://127.0.0.1:5000/api";
-        $res = $client->post($api_url, [
-            'json' => [
-                'query' => $search_text
-            ]
-            ]);
-        $data_body = $res->getBody();
-        
-        // $client = new Client();
-        // $data = $client->get("http://127.0.0.1:5000/Getdata");
-        // $data_body = $data->getBody();
-        
-        $api = $data_body->getContents();
-        $data = json_decode($api);
-
+        $data = self::rest_call_function($search_text);
         $hdph_srch_res = self::get_from_uuid($data);
 
         return view('/search', compact([
-            'hdph_srch_res'
+            'hdph_srch_res' , 'amps_all', 'headphones_all'
+        ])); 
+    }
+
+    public function title_page_tabels(){
+        $amps_all = AmpMain::all();
+        $headphones_all = HeadphonesAsr::all();
+        $a = 'ewq';
+        return view('/layouts.master', compact([
+            'amps_all', 'headphones_all', 'a'
+        ])); 
+    }
+
+    public function choice_pg(){
+        $amps_all = [];
+        $headphones_all = [];
+        $a = 'ewq';
+        return view('/layouts.master', compact([
+            'amps_all', 'headphones_all', 'a'
         ])); 
     }
 

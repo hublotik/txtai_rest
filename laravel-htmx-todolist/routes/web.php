@@ -17,16 +17,8 @@ use GuzzleHttp\Client;
 |
 */
 
-// Route::get('/', function () {
-//     [SearchController::class, 'search'];
-//     return view('layouts.master');
-// });
+Route::any('/', [SearchController::class, 'title_page_tabels'])->name('layouts.master');
 
-
-
-Route::any('/', function () {
-    return view('layouts.master');
-});
 
 Route::match(
     ['get', 'post'],
@@ -37,7 +29,8 @@ Route::match(
 
 Route::any('/main_page', [SearchController::class, 'main_func'])->name('main_page');
 
-Route::get('/search', [SearchController::class, 'search'])->name('start');
+Route::any('/search', [SearchController::class, 'search']);
+Route::any('/choice_page', [SearchController::class, 'choice_pg'])->name('choice_page');
 
 Route::get('/Api-Post-Data', function () {
     $client = new Client();

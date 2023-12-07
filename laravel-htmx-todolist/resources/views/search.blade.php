@@ -1,6 +1,4 @@
-
-
-@extends('layouts.master')
+@extends('choice_page')
 
 @section('output')
     <tr>
