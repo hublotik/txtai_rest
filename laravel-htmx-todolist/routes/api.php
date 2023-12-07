@@ -29,4 +29,6 @@ Route::any('/queryed_amp', [SearchController::class, 'queryed_amp'])->name('quer
 
 Route::any('/txtai_apply', [SearchController::class, 'txtai_apply'])->name('txtai_apply');
 
+Route::any('/search', [SearchController::class, 'search'])->name('search');
+
 

@@ -24,7 +24,7 @@ use GuzzleHttp\Client;
 
 
 
-Route::get('/', function () {
+Route::any('/', function () {
     return view('layouts.master');
 });
 

@@ -13,9 +13,8 @@ similarity = Similarity("valhalla/distilbart-mnli-12-3")
 # df_amp = pd.read_csv(f"/..{Path.cwd()}/parse/final_amp.csv", encoding='utf-8')
 # df_amp = pd.read_csv(f"/..{Path.cwd()}/parse/final_amp.csv", encoding='utf-8')
 embeddings = Embeddings(path="sentence-transformers/nli-mpnet-base-v2")
-##uncl_amp_embeddings:
+# uncl_amp_embeddings:
 # embeddings.load(f"/..{Path.cwd()}/parse/amp_uncl")
-embeddings.load(f"/..{Path.cwd()}/parse/hdph_clnd")
 
 app = Flask(__name__)
 app.config['JSONIFY_PRETTYPRINT_REGULAR'] = False
@@ -24,8 +23,11 @@ app.config['DEBUG'] = True
 # Connection
 
 # Routes
+
+
 def similarity_apply(dataframe, query, emb_result):
-    result_list = [(tuple_value[1], dataframe.loc[dataframe['uuid'] == tuple_value[0], 'review'].values[0], tuple_value[0]) for tuple_value in emb_result if tuple_value[0] in dataframe['uuid'].values]
+    result_list = [(tuple_value[1], dataframe.loc[dataframe['uuid'] == tuple_value[0], 'review'].values[0],
+                    tuple_value[0]) for tuple_value in emb_result if tuple_value[0] in dataframe['uuid'].values]
     score = []
     reviews = []
     uid = []
@@ -39,18 +41,26 @@ def similarity_apply(dataframe, query, emb_result):
     sim_result_arr = list(zip(uid, sim_res_score, reviews))
     return sim_result_arr
 
-@app.route('/api', methods=['POST'])
+def emb_dataset_load(csv_emb_name):
+    df = pd.read_csv(f"/..{Path.cwd()}/parse/{csv_emb_name}.csv", encoding='utf-8')
+    embeddings.load(f"/..{Path.cwd()}/parse/{csv_emb_name}")
+    return df
 
+@app.route('/api', methods=['POST'])
 def test_txtai():
-    df = pd.read_csv(f"/..{Path.cwd()}/parse/hdph_clr.csv", encoding='utf-8')
+    df = emb_dataset_load('hdph_clnd')
     data = df['review'].to_list()
     # Works with a list, dataset or generator
     content = request.json
     query = content['query']
     res = embeddings.search(query)
-    sim_res = similarity_apply(df, query, res)
-    return sim_res
-
+    if 0.5 < res[0][1] < 0.69:  
+        sim_res = similarity_apply(df, query, res)
+        return sim_res
+    elif res[0][1] < 0.5:
+        return []
+    elif res[0][1] > 0.69:
+        return res
 
 def index():
     content = request.json
@@ -59,16 +69,15 @@ def index():
     # Age = content['age']
     return jsonify({"TEST": query})
 
-@app.route('/Getdata', methods=['Get'])
 
+@app.route('/Getdata', methods=['Get'])
 def Getdata():
     T = test_txtai()
     return jsonify(T)
+
+
 app.run()
 
 if __name__ == "__main__":
 
     app.run(debug=True)
-
-
-
