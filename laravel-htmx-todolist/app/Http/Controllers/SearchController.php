@@ -30,17 +30,24 @@ class SearchController extends Controller
     }
  
     public static function search(){
+        
         $amps_all = AmpMain::all();
         $headphones_all = HeadphonesAsr::all();
         //We should compact query+ uuids after sort order
 
-        $search_text = $_GET['headphones_query'];
+        if (isset($_GET['Headphones'])){
+            $search_text = $_GET['Headphones'];
+            $device_type = 'Headphones';
+        } else if(isset($_GET['AMP'])){
+            $search_text = $_GET['AMP'];
+            $device_type = 'AMP';
+        };
             
-        $data = self::rest_call_function($search_text);
-        $hdph_srch_res = self::get_from_uuid($data);
+        $data = self::rest_call_function($search_text, $device_type);
+        $srch_res = self::get_from_uuid($data, $device_type);
 
         return view('/search', compact([
-            'hdph_srch_res' , 'amps_all', 'headphones_all'
+            'amps_all' , 'device_type', 'srch_res'
         ])); 
     }
 

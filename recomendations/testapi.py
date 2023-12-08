@@ -7,6 +7,10 @@ from txtai import Embeddings
 from pathlib import Path
 import pandas as pd
 
+from txtai.pipeline import Translation
+# Create and run pipeline
+translate = Translation()
+
 from txtai.pipeline import Similarity
 similarity = Similarity("valhalla/distilbart-mnli-12-3")
 
@@ -48,11 +52,16 @@ def emb_dataset_load(csv_emb_name):
 
 @app.route('/api', methods=['POST'])
 def test_txtai():
-    df = emb_dataset_load('hdph_clnd')
-    data = df['review'].to_list()
-    # Works with a list, dataset or generator
     content = request.json
-    query = content['query']
+    # translate query if not in english
+    query = translate(content['query'], "en")
+    device_type = content['device_type']
+    # simply check device type
+    if device_type == 'Headphones':
+        df = emb_dataset_load('hdph_clnd')
+    elif device_type == 'AMP':
+        df = emb_dataset_load('amp_clnd')
+    data = df['review'].to_list()
     res = embeddings.search(query)
     if 0.5 < res[0][1] < 0.69:  
         sim_res = similarity_apply(df, query, res)

@@ -24,7 +24,7 @@
 
     <!-- Button to trigger the modal -->
     <div class="d-flex align-items-center justify-content-center">
-        <button type="button" class="btn btn-info p-3" data-toggle="modal" data-target="#myModal">
+        <button id="modal_trigger" type="button" class="btn btn-info p-3" data-toggle="modal" data-target="#myModal">
             Поиск/подбор комплектующих
         </button>
     </div>

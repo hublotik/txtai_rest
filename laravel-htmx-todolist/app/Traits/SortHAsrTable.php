@@ -30,14 +30,5 @@ trait SortHAsrTable
         }
     }
 
-    public static function get_from_uuid($json){
-        $cols_with_uuid = [];
-        foreach($json as $uuid_simm){
-            $matched_cols = HeadphonesAsr::where('id', $uuid_simm[0])->get();
-            foreach ($matched_cols as $cols){
-                array_push($cols_with_uuid, [$uuid_simm[1], $cols->Model]);
-            }
-        }
-        return $cols_with_uuid; 
-    }
+    
 }
