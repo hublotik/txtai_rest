@@ -19,6 +19,15 @@ use App\Models\HeadphonesAsr;
 class SearchController extends Controller
 {
     use SortAmpTable, SortHAsrTable, ApiCall;
+
+    public static function search_in_function(){
+        
+        $device_type_search = $_GET['device_type'];
+
+        return view('/choice_page', compact([
+            'device_type_search'
+        ])); 
+    }
  
     public static function search(){
         $amps_all = AmpMain::all();
@@ -38,20 +47,12 @@ class SearchController extends Controller
     public function title_page_tabels(){
         $amps_all = AmpMain::all();
         $headphones_all = HeadphonesAsr::all();
-        $a = 'ewq';
+        $empty_variable = 'test';
         return view('/layouts.master', compact([
-            'amps_all', 'headphones_all', 'a'
+            'amps_all', 'headphones_all', 'empty_variable'
         ])); 
     }
 
-    public function choice_pg(){
-        $amps_all = [];
-        $headphones_all = [];
-        $a = 'ewq';
-        return view('/layouts.master', compact([
-            'amps_all', 'headphones_all', 'a'
-        ])); 
-    }
 
     public function main_func(){
 

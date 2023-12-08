@@ -1,9 +1,9 @@
 @extends('layouts.master')
-
+@dd($device_type_search)
 @section('headphones_search')
     <div class="container pt-5">
         <!-- Another variation with a button -->
-        <form action="{{ url('/search') }}" type="get">
+        <form action="{{ url('/amp/search') }}" type="get">
             <div class="input-group">
                 <input type="search" class="bg bg-white text-primary rounded form-control" name="headphones_query"
                     id="cari">

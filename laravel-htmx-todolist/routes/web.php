@@ -29,8 +29,18 @@ Route::match(
 
 Route::any('/main_page', [SearchController::class, 'main_func'])->name('main_page');
 
-Route::any('/search', [SearchController::class, 'search']);
-Route::any('/choice_page', [SearchController::class, 'choice_pg'])->name('choice_page');
+Route::any('/search', function(){
+    return(view('/search'));
+})->name('search');
+
+Route::any('/amp/search', [SearchController::class, 'search']);
+Route::any('/headphones/search', [SearchController::class, 'search']);
+
+// Route::any('/choice_page', function(){
+//     return(view('choice_page'));
+// })->name('choice_page');
+
+Route::any('/choice_page', [SearchController::class, 'search_in_function'])->name('choice_page');
 
 Route::get('/Api-Post-Data', function () {
     $client = new Client();
