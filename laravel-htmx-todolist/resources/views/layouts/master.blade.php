@@ -51,11 +51,11 @@
                         </div>
                         <div class="form-group">
                             {{-- <label for="email">Email:</label> --}}
-                            <div class="form-group form-check">
+                            {{-- <div class="form-group form-check">
                                 <input type="checkbox" class="form-check-input" id="toogle_search_type">
                                 <label class="form-check-label" for="toogle_search_type">Подбор подходящих
                                     наушников/усилителей</label>
-                            </div>
+                            </div> --}}
                         </div>
                         <button type="submit" class="btn btn-primary">Подобрать</button>
                     </form>

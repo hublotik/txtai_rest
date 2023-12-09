@@ -36,10 +36,6 @@ Route::any('/search', function(){
 Route::any('/amp/search', [SearchController::class, 'search']);
 Route::any('/headphones/search', [SearchController::class, 'search']);
 
-// Route::any('/choice_page', function(){
-//     return(view('choice_page'));
-// })->name('choice_page');
-
 Route::any('/choice_page', [SearchController::class, 'search_in_function'])->name('choice_page');
 
 Route::get('/Api-Post-Data', function () {
@@ -69,9 +65,7 @@ Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
-Route::get('/todos', function () {
-    return view('todos');
-})->middleware(['auth', 'verified'])->name('todos');
+
 
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');

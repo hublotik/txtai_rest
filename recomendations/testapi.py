@@ -16,7 +16,7 @@ similarity = Similarity("valhalla/distilbart-mnli-12-3")
 
 # df_amp = pd.read_csv(f"/..{Path.cwd()}/parse/final_amp.csv", encoding='utf-8')
 # df_amp = pd.read_csv(f"/..{Path.cwd()}/parse/final_amp.csv", encoding='utf-8')
-embeddings = Embeddings(path="sentence-transformers/nli-mpnet-base-v2")
+embeddings = Embeddings(path="sentence-transformers/nli-mpnet-base-v2", hybrid=True)
 # uncl_amp_embeddings:
 # embeddings.load(f"/..{Path.cwd()}/parse/amp_uncl")
 
@@ -63,12 +63,12 @@ def test_txtai():
         df = emb_dataset_load('amp_clnd')
     data = df['review'].to_list()
     res = embeddings.search(query)
-    if 0.5 < res[0][1] < 0.69:  
+    if 0.4 < res[0][1] < 0.7:  
         sim_res = similarity_apply(df, query, res)
         return sim_res
-    elif res[0][1] < 0.5:
+    elif res[0][1] < 0.4:
         return []
-    elif res[0][1] > 0.69:
+    elif res[0][1] > 0.7:
         return res
 
 def index():

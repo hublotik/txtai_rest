@@ -21,7 +21,6 @@
     </div>
 
     <div class="container font-italic">
-        <label for="output_table_id">Таблица Результатов</label>
         <table id="output_table_id" class="table table-bordered border-rounded">
             <thead>
                 @yield('output')
