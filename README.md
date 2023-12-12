@@ -5,18 +5,20 @@ requirements: php8.2, python3.8+, Mysql
 Intstruction: 
 Laravel
 ======================
-cd laravel-htmx-todolist/
-composer install
-composer update
-php artisan serve
+cd laravel-htmx-todolist/; 
+composer install; 
+composer update; 
+php artisan serve; 
 
 Flask
 ----------------------
-python3 -m pip install txtai[all]
-cd recomendations/
-python testapi.py
+source djn/bin/activate;
+python3 -m pip install txtai[all] pandas; 
+cd recomendations/; 
+python3 testapi.py; 
 
 Database setup:
 ---------
+use db_backups/ for "txtai" database 
 change ***.env*** file in laravel-htmx-todolist/ ***(username, password for db)***
 
