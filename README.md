@@ -19,6 +19,6 @@ python3 testapi.py;
 
 Database setup:
 ---------
-use db_backups/ for "txtai" database 
+use db_backups/ for "txtai" database; 
 change ***.env*** file in laravel-htmx-todolist/ ***(username, password for db)***
 
