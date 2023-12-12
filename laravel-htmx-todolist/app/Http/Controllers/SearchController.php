@@ -18,7 +18,7 @@ use App\Models\HeadphonesAsr;
 
 class SearchController extends Controller
 {
-    use SortAmpTable, SortHAsrTable, ApiCall;
+    use ApiCall;
 
     public static function search_in_function(){
         
@@ -30,9 +30,7 @@ class SearchController extends Controller
     }
  
     public static function search(){
-        
-        $amps_all = AmpMain::all();
-        $headphones_all = HeadphonesAsr::all();
+
         //We should compact query+ uuids after sort order
 
         if (isset($_GET['Headphones'])){
@@ -47,7 +45,7 @@ class SearchController extends Controller
         $srch_res = self::get_from_uuid($data, $device_type);
 
         return view('/search', compact([
-            'amps_all' , 'device_type', 'srch_res'
+            'device_type', 'srch_res'
         ])); 
     }
 
@@ -69,13 +67,6 @@ class SearchController extends Controller
         ])); 
     }
  
-    protected function htmx_test()
-    {
-        $sort_bytime = self::sort_amp_by_price();
-        return view('/htmx_forms.htmx_test', compact([
-            'sort_bytime'
-        ]));
-    }
 
 
     // protected function queryed_amp()
